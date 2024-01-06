@@ -4,11 +4,11 @@ import Navbar from './components/Navbar'
 
 export default function Home() {
   return (
-    <main className="flex flex-col min-h-screen container">
+    <main className="flex flex-col min-h-full container ">
       <Navbar />
-      {/* <div className='container mx-auto px-12 py-4'></div> */}
-      <Header />
-    
+      <div className=' '>
+        <Header />
+      </div>
     </main>
   )
 }

@@ -7,7 +7,7 @@ const Header = () => {
         <div className='grid grid-cols-1 lg:grid-cols-12'>
             <div className='col-span-8 place-self-center text-center sm:text-left '>
                 <h1 className='text-[#E2D6AF] font-serif text-7xl font-semibold mb-9'>Welcome text!!</h1>
-                <p className='text-[#C7BEA0] font-serif text-xl  mb-7'>Lorem ipsum dolor sit amet, consectetur adipisci 
+                <p className='text-[#C7BEA0] font-serif text-xl md:text-left mb-7'>Lorem ipsum dolor sit amet, consectetur adipisci 
                 elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
                 anim id est laborum. Ut enim ad minim veniam, 
                 anim id est laborum.
