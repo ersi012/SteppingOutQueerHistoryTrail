@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 
 const Header = () => {
+
   return (
     <section className='bg-[#1C5C2D] w-screen max-h-screen px-20 py-20'>
         <div className='grid grid-cols-1 lg:grid-cols-12'>

@@ -4,8 +4,8 @@ import Link from 'next/link'
 const Navbar = () => {
   return (
     <nav>
-        <div className='flex flex-wrap w-screen items-center justify-between mx-auto p-7 bg-[#1C5C2D]'>
-            <Link href={"/"} className='text-[#E2D6AF] text-3xl ml-2 font-bold'> LOGO</Link>
+        <div className='flex flex-wrap w-screen items-center justify-between mx-auto p-5 bg-[#1C5C2D]'>
+            <Link href={"/"} className='text-[#E2D6AF] text-5xl ml-2 font-bold'> LOGO</Link>
             <div className='menu hidden md:block md:w-auto'></div> 
             <ul>
               <li>
