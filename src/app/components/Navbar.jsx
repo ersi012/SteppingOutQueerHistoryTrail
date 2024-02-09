@@ -1,24 +1,67 @@
-import React from 'react'
-import Link from 'next/link'
+"use client";
+import Link from "next/link";
+import React, { useState } from "react";
+import NavLink from "./NavLink";
+import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
+import MenuOverlay from "./MenuOverlay";
+
+const navLinks = [
+  {
+    title: "Sites",
+    path: "#sites",
+  },
+  {
+    title: "About",
+    path: "#about",
+  },
+  {
+    title: "Donate",
+    path: "#donate",
+  },
+];
+
 
 const Navbar = () => {
-  return (
-    <nav>
-        <div className='flex flex-wrap w-screen items-center justify-between mx-auto p-5 bg-[#1C5C2D]'>
-            <Link href={"/"} className='text-[#E2D6AF] text-5xl ml-2 font-bold'> LOGO</Link>
-            <div className='menu hidden md:block md:w-auto'></div> 
-            <ul>
-              <li>
-                <Link href={'#sites'} className='block py-2 pl-3 pr-4 bg-[#E2D6AF] text-[#1C5C2D] font-serif rounded-full sm-text-xl hover:bg-slate-200 place-content-center'>Sites</Link>
-              </li>
-              <li>
-                <Link href={'#about'} className='block py-2 pl-3 pr-4 bg-[#E2D6AF] text-[#1C5C2D] font-serif rounded-full sm-text-xl hover:bg-slate-200'>About</Link>
-              </li>
-            </ul>
-        </div>
-    </nav>
-    
-  )
-}
+  const [navbarOpen, setNavbarOpen] = useState(false);
 
-export default Navbar
+  return (
+    <nav className="fixed mx-auto border top-0 left-0 right-0 z-10 bg-[#1C5C2D] border-[#1C5C2D] bg-opacity-100">
+      <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-4 py-2">
+        <Link
+          href={"/"}
+          className="text-[#E2D6AF] text-4xl ml-2 font-bold">
+          LOGO
+        </Link>
+        <div className="mobile-menu block md:hidden ">
+          {!navbarOpen ? (
+            <button
+              onClick={() => setNavbarOpen(true)}
+              className="flex items-center px-3 py-2 border rounded border-slate-200 text-slate-200 hover:text-white hover:border-white"
+            >
+              <Bars3Icon className="h-5 w-5" />
+            </button>
+          ) : (
+            <button
+              onClick={() => setNavbarOpen(false)}
+              className="flex items-center px-3 py-4 border rounded border-slate-200 text-slate-200 hover:text-white hover:border-white"
+            >
+              <XMarkIcon className="h-5 w-5" />
+            </button>
+          )}
+        </div>
+        <div className="menu hidden md:block md:w-auto" id="navbar">
+          <ul className="flex p-4 md:p-0 md:flex-row md:space-x-8 mt-0">
+            {navLinks.map((link, index) => (
+              <li key={index}>
+                <NavLink href={link.path} title={link.title} />
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+      {navbarOpen ? <MenuOverlay links={navLinks} /> : null}
+    </nav>
+  );
+};
+
+export default Navbar;
