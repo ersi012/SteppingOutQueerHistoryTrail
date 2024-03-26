@@ -1,6 +1,7 @@
 import React from 'react';
 import SiteCard from "./SiteCard";
 
+
 const SiteSection = () => {
   const Data = [
     {
@@ -21,7 +22,7 @@ const SiteSection = () => {
     },
     {
       id: 3,
-      title: "Third Parish Church",
+      title: "Equality Community Center",
       description: "Short description 3",
       image: "/images/sites/1.png",
       gitUrl: "/",
@@ -29,7 +30,7 @@ const SiteSection = () => {
     },
     {
       id: 4,
-      title: "Fourth Parish Church",
+      title: "Drop me a line",
       description: "Short description 4",
       image: "/images/sites/6.png",
       gitUrl: "/",
@@ -37,7 +38,7 @@ const SiteSection = () => {
     },
     {
       id: 5,
-      title: "Fifth Parish Church",
+      title: "State Theater Bldg",
       description: "Short description 5",
       image: "/images/sites/2.png",
       gitUrl: "/",
@@ -53,7 +54,7 @@ const SiteSection = () => {
     },
     {
       id: 7,
-      title: "Seventh Parish Church",
+      title: "Western Prom",
       description: "Short description 7",
       image: "/images/sites/1.png",
       gitUrl: "/",
@@ -69,6 +70,7 @@ const SiteSection = () => {
           {Data.map((site) => (
             <SiteCard
               key={site.id} 
+              id={site.id} 
               title={site.title}
               description={site.description}
               imgUrl={site.image}
