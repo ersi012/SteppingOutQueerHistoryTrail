@@ -4,7 +4,7 @@ import Image from 'next/image'
 const Header = () => {
 
   return (
-    <section className='bg-[#1C5C2D] w-screen max-h-screen px-20 py-20'>
+    <section className='bg-[#1C5C2D] w-screen min-h-screen px-20 py-20 flex justify-center items-center'>
         <div className='grid grid-cols-1 lg:grid-cols-12'>
             <div className='col-span-8 place-self-center text-center sm:text-left '>
                 <h1 className='text-[#E2D6AF] font-serif text-7xl font-semibold mb-9'>Welcome text!!</h1>

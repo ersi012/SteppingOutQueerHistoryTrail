@@ -1,7 +1,9 @@
 import Image from 'next/image'
 import Header from './components/Header'
 import Navbar from './components/Navbar'
-// import ProjectSection from './components/ProjectSection';
+import SiteSection from './components/SiteSection'
+import About from './components/About'
+import Donate from './components/Donate'
 
 export default function Home() {
   return (
@@ -9,7 +11,9 @@ export default function Home() {
       <Navbar />
       <div className=' '>
         <Header />
-        <ProjectsSection />
+        <SiteSection/>
+        <About/>
+        <Donate/>
       </div>
     </main>
   )
