@@ -1,4 +1,4 @@
-import SiteSection from '../components/SiteSection'
+
 
 export default function FirstParishChurch(){
     return (
