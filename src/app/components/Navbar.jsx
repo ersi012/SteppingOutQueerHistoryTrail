@@ -20,7 +20,6 @@ const navLinks = [
   },
 ];
 
-
 const Navbar = () => {
   const [navbarOpen, setNavbarOpen] = useState(false);
 
@@ -29,7 +28,7 @@ const Navbar = () => {
       <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-4 py-2">
         <Link
           href={"/"}
-          className="text-[#E2D6AF] text-5xl ml-2 font-bold">
+          className="text-[#E2D6AF] text-5xl  font-bold">
           LOGO
         </Link>
         <div className="mobile-menu block md:hidden ">
