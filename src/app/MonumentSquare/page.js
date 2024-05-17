@@ -6,7 +6,6 @@ const FirstParishChurch = () => {
     <main >
     <Navbar />
     <div className="relative bg-white">
-      {/* Image Section */}
       <div className="relative h-screen overflow-hidden">
         <Image
           src="/images/sites/MonumentSquare/12 ICON PICRiver of Pride Flag Steven Bridges 2016.JPG"
