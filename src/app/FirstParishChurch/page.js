@@ -1,8 +1,10 @@
 import Image from 'next/image';
-
+import Navbar from '../components/Navbar'
 
 const FirstParishChurch = () => {
   return (
+    <main >
+    <Navbar />
     <div className="relative bg-white">
       {/* Image Section */}
       <div className="relative h-screen overflow-hidden">
@@ -70,19 +72,18 @@ const FirstParishChurch = () => {
           <br/><br/>
           During the 1980s, as AIDS became a central concern, the Portland church provided meeting space for the Gay Health Action Committee and the AIDS Hotline. It also hosted facilitated support groups, gay and lesbian focused AA meetings, and benefit events for AIDS organizations and groups like the Maine Gay Men’s Chorus.
         </p>
+        <h2 className="text-4xl font-bold text-center mb-10 text-[#E2D6AF]">Photos</h2>
 
-        <h2 className="text-4xl font-bold text-center mb-10 text-[#E2D6AF]">Photos </h2>
-       
-        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+        <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
               src="/images/sites/FirstParishChurchImg/3. Charlie howard memorial Our Paper Aug 1984 p1.PNG"
               width={300}
               height={300}
-              objectPosition='center'
+              objectFit='cover'
             />
             <div style={{ width: '300px', fontSize: '8px' }}>
-              <p>Charlie Howard memorial, Our Paper, August 1984, pg 1. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/111/</p>
+              <p>Charlie Howard memorial, Our Paper, August 1984, pg 1. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/111/">https://digitalcommons.usm.maine.edu/our_paper_sac/111/</a></p>
             </div>
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
@@ -90,30 +91,29 @@ const FirstParishChurch = () => {
               src="/images/sites/FirstParishChurchImg/4. Dale McCormick speaking at CH memorial in 1st Parish Our Paper Aug 1984 p4.PNG"
               width={250}
               height={300}
-              objectPosition='center'
+              objectFit='cover'
             />
-           <div style={{ width: '300px', fontSize: '8px' }}>
-            <p>Dale McCormick speaks at Chalie Howards memorial service, Our Paper, August 1984, pg 4. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/111/">
-            </a> https://digitalcommons.usm.maine.edu/our_paper_sac/111/
-            </p>
-           </div>
+            <div style={{ width: '300px', fontSize: '8px' }}>
+              <p>Dale McCormick speaks at Charlie Howard's memorial service, Our Paper, August 1984, pg 4. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/111/">https://digitalcommons.usm.maine.edu/our_paper_sac/111/</a></p>
+            </div>
           </div>
-          <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
+          <div style={{ textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/FirstParishChurchImg/4. Dale McCormick speaking at CH memorial in 1st Parish Our Paper Aug 1984 p4.PNG"
+              src="/images/sites/FirstParishChurchImg/5. AIDS & the responsible pulpit a sermon by rev richard hasty Our Paper Aug 1987 p7.PNG"
               width={250}
               height={300}
-              objectPosition='center'
+              objectFit='cover'
             />
-          <div style={{ width: '300px', fontSize: '8px' }}>
-            <p>Dale McCormick speaks at Chalie Howards memorial service, Our Paper, August 1984, pg 4. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/111/">
-            </a> https://digitalcommons.usm.maine.edu/our_paper_sac/111/
-            </p>
-          </div>
+            <div style={{ width: '300px', fontSize: '8px' }}>
+              <p>AIDS & the Responsible Pulpit: A Sermon by Rev. Richard Hasty, Our Paper, August 1987, pg 7. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/49/
+">https://digitalcommons.usm.maine.edu/our_paper_sac/49/
+</a></p>
+            </div>
           </div>
         </div>
-      </div>
-    </div>
+        </div>
+        </div>
+</main>
   );
 };
 
