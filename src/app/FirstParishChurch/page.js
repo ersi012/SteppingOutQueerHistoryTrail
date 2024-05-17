@@ -166,7 +166,9 @@ const FirstParishChurch = () => {
           Article: Unitarian Universalists affirm gay/lesbian unions [Article].  (1984, August).  Our Paper,    p. 9.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/111/"> https://digitalcommons.usm.maine.edu/our_paper_sac/111/  </a>
           </p>
         </div>
-        </div>        
+        </div>
+        
+        
 </main>
   );
 };
