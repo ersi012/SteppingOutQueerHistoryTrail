@@ -39,7 +39,7 @@ const FirstParishChurch = () => {
             height={300}
             objectPosition='center'
           />
-         <div style={{ width: '300px', fontSize: '8px' }}>
+         <div style={{ width: '300px', fontSize: '10px' }}>
           <p>Front of the First Parish Church, located at 425 Congress Street in Portland, Maine, United States. Built in 1825, it is listed on the National Register of Historic Places. Allen L. Hubbard, 27 April 27, 1936. Library of Congress, Prints and Photograph Division HABS: ME,3-PORT,3-7 Public domain, via Wikimedia Commons</p>
         </div>
         </div>
@@ -50,7 +50,7 @@ const FirstParishChurch = () => {
             height={300}
             objectPosition='center'
           />
-         <div style={{ width: '300px', fontSize: '8px' }}>
+         <div style={{ width: '300px', fontSize: '10px' }}>
           <p>Discrimination against homosexuals and bisexuals” in Summary of Actions taken at the Ninth Annual UUA General Assembly, June 29-July 4, 1970 Seattle, Washington. Pg 170-171. Harvard Square Library. https://www.harvardsquarelibrary.org/general-assembly-minutes/
 </p>
         </div>
@@ -72,7 +72,7 @@ const FirstParishChurch = () => {
           <br/><br/>
           During the 1980s, as AIDS became a central concern, the Portland church provided meeting space for the Gay Health Action Committee and the AIDS Hotline. It also hosted facilitated support groups, gay and lesbian focused AA meetings, and benefit events for AIDS organizations and groups like the Maine Gay Men’s Chorus.
         </p>
-        <h2 className="text-4xl font-bold text-center mb-10 text-[#E2D6AF]">Photos</h2>
+        <h2 className="text-4xl font-bold text-center mb-10 mt-10 text-[#E2D6AF]">Photos</h2>
 
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
@@ -82,7 +82,7 @@ const FirstParishChurch = () => {
               height={300}
               objectFit='cover'
             />
-            <div style={{ width: '300px', fontSize: '8px' }}>
+            <div style={{ width: '300px', fontSize: '10px' }}>
               <p>Charlie Howard memorial, Our Paper, August 1984, pg 1. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/111/">https://digitalcommons.usm.maine.edu/our_paper_sac/111/</a></p>
             </div>
           </div>
@@ -93,7 +93,7 @@ const FirstParishChurch = () => {
               height={300}
               objectFit='cover'
             />
-            <div style={{ width: '300px', fontSize: '8px' }}>
+            <div style={{ width: '300px', fontSize: '10px' }}>
               <p>Dale McCormick speaks at Charlie Howard's memorial service, Our Paper, August 1984, pg 4. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/111/">https://digitalcommons.usm.maine.edu/our_paper_sac/111/</a></p>
             </div>
           </div>
@@ -104,15 +104,69 @@ const FirstParishChurch = () => {
               height={300}
               objectFit='cover'
             />
-            <div style={{ width: '300px', fontSize: '8px' }}>
+            <div style={{ width: '300px', fontSize: '10px' }}>
               <p>AIDS & the Responsible Pulpit: A Sermon by Rev. Richard Hasty, Our Paper, August 1987, pg 7. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/49/
-">https://digitalcommons.usm.maine.edu/our_paper_sac/49/
-</a></p>
+              ">https://digitalcommons.usm.maine.edu/our_paper_sac/49/
+              </a></p>
             </div>
           </div>
+          <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
+            <Image
+              src="/images/sites/FirstParishChurchImg/6. Gay mens support group Our Paper Sept 1985 p4.PNG"
+              width={300}
+              height={350}
+              objectFit='cover'
+            />
+            <div style={{ width: '300px', fontSize: '10px' }}>
+              <p>Gay male support group advertisement, Our Paper, September 1985, pg 4. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  
+              <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/73/ ">https://digitalcommons.usm.maine.edu/our_paper_sac/73/ </a></p>
+            </div>
+          </div>
+          <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
+            <Image
+              src="/images/sites/FirstParishChurchImg/7. first parish al anon meeting Our Paper Oct 1983 pg 12.PNG"
+              width={350}
+              height={350}
+              objectFit='cover'
+            />
+            <div style={{ width: '300px', fontSize: '10px' }}>
+              <p>Advertisement for Alcoholics Anonymous, Our Paper, October 1983, pg 12. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.
+              <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/93/">https://digitalcommons.usm.maine.edu/our_paper_sac/93/</a></p>
+            </div>
+          </div>
+          <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
+            <Image
+              src="/images/sites/FirstParishChurchImg/8. Romanovski & Phillips to appear in Porland & Bangor Our Paper Dec 1983 p1.PNG"
+              width={350}
+              height={350}
+              objectFit='cover'
+            />
+            <div style={{ width: '300px', fontSize: '10px' }}>
+              <p>Romanovski and Phillips advertisement, Our Paper, December 1983, pg 1. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+              <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/91/">https://digitalcommons.usm.maine.edu/our_paper_sac/91/</a></p>
+            </div>
+          </div>
+          </div>
+          <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">The church and civil rights struggles of the 1990s: </h2>
+          <p className="text-lg  text-gray-800">
+          During the 1990s, the church continued to publicly support Maine’s LGBTQ community at a time when civil rights laws were being challenged by religious conservatives organized as the Maine Christian Civic League. Just days before a 1998 referendum on whether to repeal basic civil rights for the gay community, the Rev. Frances Buckmaster of First Parish gave a sermon, “One Love,” on the opportunity to “vote against hate and discrimination and for loving all our neighbors as ourselves.”  Yet despite such outspoken allies, Maine voters, in the words of the New York Times, “chose to make their state the first in the nation to repeal its law protecting gay men and lesbians from discrimination.” Another 7 years of struggle were then required to reclaim those rights in 2005.
+          </p>
+          <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
+          <p className="text-lg  text-gray-800">
+          LG MS 038 Barry Peabody Papers, Series 1.5, Box 6, F192, Sermon First Parish, 1998. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <br/><br/>
+
+          Berger, F. (1984, August).  Community reacts to Bangor murder.  Our Paper, pp. 1, 8.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/111/">https://digitalcommons.usm.maine.edu/our_paper_sac/111/</a> <br/><br/>
+
+          Goldberg, C. (1998, February 12).  Maine voters repeal a law on gay rights.  New York Times, p. 1. <a href="https://www.nytimes.com/1998/02/12/us/maine-voters-repeal-a-law-on-gay-rights.html ">https://www.nytimes.com/1998/02/12/us/maine-voters-repeal-a-law-on-gay-rights.html </a><br/><br/>
+
+          Keyes, B. (1984, July 14). Participants in gay rally ask equality.  Portland Press Herald, p. 13. <br/><br/>
+
+          Smith, T.  Portland Pride Day, June 6, 1987 (1987, July).  Our Paper, p. 4.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/50/  ">https://digitalcommons.usm.maine.edu/our_paper_sac/50/  </a><br/><br/>
+
+          Article: Unitarian Universalists affirm gay/lesbian unions [Article].  (1984, August).  Our Paper,    p. 9.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/111/"> https://digitalcommons.usm.maine.edu/our_paper_sac/111/  </a>
+          </p>
         </div>
-        </div>
-        </div>
+        </div>        
 </main>
   );
 };
