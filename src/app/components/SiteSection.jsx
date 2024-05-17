@@ -6,55 +6,53 @@ const SiteSection = () => {
     {
       id: 1,
       title: "First Parish Church",
-      description: "Short description 1",
+      description: "425 Congress St.",
       image: "/images/sites/1.png",
       url: "/FirstParishChurch",
     },
     {
       id: 2,
       title: "Monument Square",
-      description: "Short description 2",
+      description: "456 Congress St.",
       image: "/images/sites/2.png",
       url: "/MonumentSquare",
     },
     {
       id: 3,
       title: "Equality Community Center",
-      description: "Short description 3",
+      description: "415 Casco St.",
       image: "/images/sites/3.jpg",
       url: "/EqualityCommunityCenter",
     },
     {
       id: 4,
       title: "Drop me a line",
-      description: "Short description 4",
+      description: "615A Congress Street.",
       image: "/images/sites/4.jpg",
       url: "/DropMeALine",
     },
     {
       id: 5,
-      title: "State Theater Bldg",
-      description: "Short description 5",
+      title: "State Theater Building",
+      description: "142 High Street",
       image: "/images/sites/5.jpg",
       url: "/StateTheaterBldg",
     },
     {
       id: 6,
       title: "Blackstones",
-      description: "Short description 6",
+      description: "6 Pine St.",
       image: "/images/sites/6.png",
       url: "/Blackstones",
     },
     {
       id: 7,
       title: "Western Prom",
-      description: "Short description 7",
+      description: "242 Western Prom.",
       image: "/images/sites/7.jpg",
       url: "/WesternProm",
     },
   ];
-  // console.log("URL:", site.url); // Add this line to chek if url is defined
-
 
   return (
     <div className="bg-white w-screen min-h-screen flex justify-center items-center">
