@@ -21,21 +21,21 @@ const SiteSection = () => {
       id: 3,
       title: "Equality Community Center",
       description: "Short description 3",
-      image: "/images/sites/1.png",
+      image: "/images/sites/3.jpg",
       url: "/EqualityCommunityCenter",
     },
     {
       id: 4,
       title: "Drop me a line",
       description: "Short description 4",
-      image: "/images/sites/6.png",
+      image: "/images/sites/4.jpg",
       url: "/DropMeALine",
     },
     {
       id: 5,
       title: "State Theater Bldg",
       description: "Short description 5",
-      image: "/images/sites/2.png",
+      image: "/images/sites/5.jpg",
       url: "/StateTheaterBldg",
     },
     {
@@ -49,7 +49,7 @@ const SiteSection = () => {
       id: 7,
       title: "Western Prom",
       description: "Short description 7",
-      image: "/images/sites/1.png",
+      image: "/images/sites/7.jpg",
       url: "/WesternProm",
     },
   ];

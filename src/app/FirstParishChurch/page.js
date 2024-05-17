@@ -1,12 +1,13 @@
 import Image from 'next/image';
 
+
 const FirstParishChurch = () => {
   return (
     <div className="relative bg-white">
       {/* Image Section */}
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="/images/sites/FirstParish1.jpg"
+          src="/images/sites/FirstParishChurchImg/FirstParish1.jpg"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -31,7 +32,7 @@ const FirstParishChurch = () => {
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
         <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
           <Image
-            src="/images/sites/FirstParish1.jpg"
+            src="/images/sites/FirstParishChurchImg/FirstParish1.jpg"
             width={300}
             height={300}
             objectPosition='center'
@@ -42,12 +43,15 @@ const FirstParishChurch = () => {
         </div>
         <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
           <Image
-            src="/images/sites/2.UUC1970Gen.Assemblymintesp170&171HarvardSquareLibrary.png"
+            src="/images/sites/FirstParishChurchImg/2.UUC1970Gen.Assemblymintesp170&171HarvardSquareLibrary.png"
             width={250}
             height={300}
             objectPosition='center'
           />
-          <p>Text for the second image</p>
+         <div style={{ width: '300px', fontSize: '8px' }}>
+          <p>Discrimination against homosexuals and bisexuals” in Summary of Actions taken at the Ninth Annual UUA General Assembly, June 29-July 4, 1970 Seattle, Washington. Pg 170-171. Harvard Square Library. https://www.harvardsquarelibrary.org/general-assembly-minutes/
+</p>
+        </div>
         </div>
       </div>
 
@@ -72,21 +76,40 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/FirstParish1.jpg"
+              src="/images/sites/FirstParishChurchImg/3. Charlie howard memorial Our Paper Aug 1984 p1.PNG"
               width={300}
               height={300}
               objectPosition='center'
             />
-            <p>Text for the first image</p>
+            <div style={{ width: '300px', fontSize: '8px' }}>
+              <p>Charlie Howard memorial, Our Paper, August 1984, pg 1. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/111/</p>
+            </div>
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/2.UUC1970Gen.Assemblymintesp170&171HarvardSquareLibrary.png"
+              src="/images/sites/FirstParishChurchImg/4. Dale McCormick speaking at CH memorial in 1st Parish Our Paper Aug 1984 p4.PNG"
               width={250}
               height={300}
               objectPosition='center'
             />
-            <p>Text for the second image</p>
+           <div style={{ width: '300px', fontSize: '8px' }}>
+            <p>Dale McCormick speaks at Chalie Howards memorial service, Our Paper, August 1984, pg 4. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/111/">
+            </a> https://digitalcommons.usm.maine.edu/our_paper_sac/111/
+            </p>
+           </div>
+          </div>
+          <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
+            <Image
+              src="/images/sites/FirstParishChurchImg/4. Dale McCormick speaking at CH memorial in 1st Parish Our Paper Aug 1984 p4.PNG"
+              width={250}
+              height={300}
+              objectPosition='center'
+            />
+          <div style={{ width: '300px', fontSize: '8px' }}>
+            <p>Dale McCormick speaks at Chalie Howards memorial service, Our Paper, August 1984, pg 4. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/111/">
+            </a> https://digitalcommons.usm.maine.edu/our_paper_sac/111/
+            </p>
+          </div>
           </div>
         </div>
       </div>

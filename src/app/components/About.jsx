@@ -7,11 +7,16 @@ const AboutSection = () => {
         <h2 className="text-6xl font-bold text-center mb-20 mt-20 text-[#E2D6AF]">About</h2>
         <div className="flex flex-col md:flex-row items-center mt-5 md:mt-0 md:-mx-4">
           <div className="w-full md:w-1/2 md:px-4 flex justify-center">
-            <img className="w-full md:w-3/4 rounded-lg shadow-lg" src="/images/sites/2.png" alt="About" />
+          <img className="w-full md:w-full lg:w-5/6 xl:w-11/12 rounded-lg shadow-lg" src="/images/sites/2.png" alt="About" />
+
           </div>
           <div className="w-full md:w-1/2 mt-5 md:mt-0 md:px-4">
             <p className="text-lg text-gray-700 px-5">
-              This project was made possible by a grant from Maine Humanities Council, and was created by Dr. Wendy Chapkis, Mary F. Holt, and Megan MacGregor, with the assistance of student researchers from the University of Southern Maine including Tye Lynch, Ty Bolduc, Lael Daigle, and Oliver Eaton, as well as members of the 2016-2024 SOC 301/WGS 320 seminars at USM. Further support was provided by independent researcher Elizabeth Lowell and the UMaine VEMI Lab. We are also grateful for the audio assistance offered by Jessica Lockhart of WMPG Radio. Photos used in this project include work by Annette Dragon and Steven Bridges. Special thanks to the LGBTQ+ Collection, part of the Jean Byers Sampson Center for Diversity in Maine at the University of Southern Maine, whose collection was vital to this project. You can visit them and their collections online at : <a href="https://usm.maine.edu/special-collections/research/lgbtq-collection/">https://usm.maine.edu/special-collections/research/lgbtq-collection/</a>
+            The queer history trail project was made possible by a grant fromThe Maine Humanities Council and funding from the University of Southern Maine. It was created by University of Southern Maine Professor Wendy Chapkis (Sociology and Women & Gender Studies) and USM Librarians Mary F. Holt (Digital Projects Manager) and Megan MacGregor (Instruction and Outreach), with the assistance of student researchers including Ty Bolduc, Lael Daigle, Oliver Eaton, Tye Lynch, and Gabriel Paulin, and as well as members of the 2016-2024 “Qualitative
+            Research Methods/Applied LGBTQ History” course at USM. Further support was provided by independent researcher Elizabeth Lowell and Portland Public Library Portland Room librarian and archivist Abraham Schechter. We are grateful for assistance from Susie R. Bock, Jill Piekut Roy, and Jo Ann Bianchi of the University of Southern Maine Libraries and from the University of Maine VEMI Lab, especially Ersilda Cako, RJ Perry, Grant Beals, and Ashley Forbes. For audio assistance, we are grateful to Jessica Lockhart (Program Director, WMPG FM). Photos used in this project include work by photographers Annette Dragon, W. Jo Moser, Robert Diamante, and Steven Bridges. 
+            Much of the interview material included in these narratives comes from the Querying the Past: Maine LGBTQ Oral History Project <a href="https://digitalcommons.usm.maine.edu/querying_ohproject/ ">https://digitalcommons.usm.maine.edu/querying_ohproject/ </a> and has been edited and condensed for clarity and length.<br/><br/>
+            We are still actively collecting our history. If you have additions or corrections to the history trail, please email them to steppingoutportland@gmail.com <br/><br/>
+            If you have material you would like to donate to the LGBTQ+ Collection, please contact Susie R. Bock at the University of Southern Maine Special Collections usm.specialcollections@maine.edu
             </p>
           </div>
         </div>

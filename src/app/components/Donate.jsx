@@ -8,7 +8,10 @@ const DonationsSection = () => {
           <h2 className="text-6xl font-bold text-left mb-9 mt-20 text-[#E2D6AF]">Donations</h2>
           <div className="text-left">
             <p className="text-lg text-gray-700 px-5 ">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec augue ut augue ultrices volutpat id ut velit. Vestibulum id luctus ex, a finibus eros. Morbi nec tincidunt enim. Donec consectetur, risus eu suscipit tempor, libero odio tristique odio, sit amet laoreet ante nulla et nisl. Nulla facilisi. Integer suscipit convallis magna vel tempus. Sed ultrices elit sed urna dictum consectetur. Integer consequat neque et quam viverra convallis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec augue ut augue ultrices volutpat id ut velit. Vestibulum id luctus ex, a finibus eros. Morbi nec tincidunt enim. Donec consectetur, risus eu suscipit tempor, libero odio tristique odio, sit amet laoreet ante nulla et nisl. Nulla facilisi. Integer suscipit convallis magna vel tempus. Sed ultrices elit sed urna dictum consectetur. Integer consequat neque et quam viverra convallis.
+            If you’ve enjoyed this tour, please consider making a donation to the LGBTQ+ Collection Fund. Funds will be used to hire students and to purchase materials in order to make the collections even more accessible to the public. <br/> <br/>
+<a href="https://securelb.imodules.com/s/300/1001-form/interior.aspx?sid=300&gid=1001&pgid=1273&cid=3048&fid=3048&gfid=1043&dids=1860.1842">
+https://securelb.imodules.com/s/300/1001-form/interior.aspx?sid=300&gid=1001&pgid=1273&cid=3048&fid=3048&gfid=1043&dids=1860.1842</a>
+
             </p>
           </div>
           <div className="flex mt-5">
