@@ -16,8 +16,10 @@ const FirstParishChurch = () => {
           className="z-0"
         />
         <div className="absolute inset-x-0 bottom-0 flex flex-col items-center text-center text-white p-6">
-          <h2 className="text-6xl font-bold mb-8 text-[#E2D6AF]">Monument Square</h2>
-          <p className="text-lg text-[#E2D6AF] font-bold">456 Congress St.</p>
+        <div className="bg-white bg-opacity-75 p-4 rounded">
+          <h2 className="text-6xl font-bold mb-8 text-[#1C5C2D]">Monument Square</h2>
+          <p className="text-lg text-[#1C5C2D] font-bold">456 Congress St.</p>
+        </div>
         </div>
       </div>
     

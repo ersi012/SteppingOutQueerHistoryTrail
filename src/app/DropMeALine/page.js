@@ -8,19 +8,22 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
       {/* Image Section */}
       <div className="relative h-screen overflow-hidden">
-        <Image
-          src="/images/sites/Drop/2 ICON Drop me a line sandwich board.jpg"
-          alt="First Parish Church"
-          layout="fill"
-          objectFit="cover"
-          objectPosition="top"
-          className="z-0"
-        />
-        <div className="absolute inset-x-0 bottom-0 flex flex-col items-center text-center text-white p-6">
-          <h2 className="text-6xl font-bold mb-8  text-[#E2D6AF]">DROP ME A LINE</h2>
-          <p className="text-lg  text-[#E2D6AF] font-bold">615A Congress Street.</p>
-        </div>
-      </div>
+  <Image
+    src="/images/sites/Drop/2 ICON Drop me a line sandwich board.jpg"
+    alt="First Parish Church"
+    layout="fill"
+    objectFit="cover"
+    objectPosition="top"
+    className="z-0"
+  />
+  <div className="absolute inset-x-0 bottom-0 flex flex-col items-center text-center text-white p-6">
+    <div className="bg-white bg-opacity-75 p-4 rounded">
+      <h2 className="text-6xl font-bold mb-8 text-[#1C5C2D]">DROP ME A LINE</h2>
+      <p className="text-lg text-[#1C5C2D] font-bold">615A Congress Street.</p>
+    </div>
+  </div>
+</div>
+
 
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
         <p className="text-lg text-gray-800">
