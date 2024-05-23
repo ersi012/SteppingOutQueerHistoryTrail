@@ -29,7 +29,7 @@ const Navbar = () => {
         <Link
           href={"/"}
           className="text-[#E2D6AF] text-3xl  font-bold">
-          LGBTQ+ History Trail
+          Stepping Out
         </Link>
         <div className="mobile-menu block md:hidden ">
           {!navbarOpen ? (

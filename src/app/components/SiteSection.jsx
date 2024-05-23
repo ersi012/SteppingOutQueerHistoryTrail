@@ -52,6 +52,13 @@ const SiteSection = () => {
       image: "/images/sites/7.jpg",
       url: "/WesternProm",
     },
+    {
+      id: 7,
+      title: "Our Books/Our Paper ",
+      description: "4 Pine St.",
+      image: "/images/sites/8.jpg",
+      url: "/Our Books/Our Paper" ,
+    },
   ];
 
   return (
