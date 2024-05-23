@@ -4,6 +4,8 @@
 #
 name: Deploy Next.js site to Pages
 
+
+
 on:
   # Runs on pushes targeting the default branch
   push:
@@ -91,3 +93,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
