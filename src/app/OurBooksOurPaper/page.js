@@ -71,8 +71,6 @@ const FirstParishChurch = () => {
               </a></p>
             </div>
           </div>
-          
-          
           </div>
          
           <p className="text-lg  text-gray-800 mt-12">       
@@ -82,36 +80,134 @@ const FirstParishChurch = () => {
             The bookstore also served as the production site for an early queer newspaper, Our Paper which began publication in September of 1983, produced by a 7-member collective. The mission of Our Paper was “to serve as a voice for lesbian and gay men in Maine” and as “a source for information, support and affirmation, and a vehicle for celebration.” 
           </p>
 
+       
+        <h2 className="text-4xl font-bold text-center mb-10 mt-11  text-[#E2D6AF]">Photos</h2>
+
+        <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
+          <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
+            <Image
+              src="/images/sites/OurBook/4. Our paper staff meeting ad Our paper Oct 1983 pg 12.PNG"
+              width={300}
+              height={300}
+              objectFit='cover'
+            />
+            <div style={{ width: '300px', fontSize: '10px' }}>
+              <p>Meetings; Our Paper staff meeting, Our Paper Oct. 1983, pg 12. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.https://digitalcommons.usm.maine.edu/our_paper_sac/93/ </p>
+            </div>
+          </div>
+          <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
+            <Image
+              src="/images/sites/OurBook/5. Our Paper banner Our Paper April 1983.PNG"
+              width={200}
+              height={200}
+              objectFit='cover'
+            />
+            <div style={{ width: '200px', fontSize: '10px' }}>
+              <p>Our Paper header, Our Paper April 1983, pg 1. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+https://digitalcommons.usm.maine.edu/our_paper_sac/87/
+</p>
+            </div>
+          </div>
+          <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
+            <Image
+              src="/images/sites/OurBook/6. Our paper annual meeting Our Paper January 1986 p2.PNG"
+              width={250}
+              height={300}
+              objectFit='cover'
+            />
+            <div style={{ width: '250px', fontSize: '10px' }}>
+              <p>
+              Ad for Our Paper meeting at Our Books, Our Paper, January 1986, pg 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+https://digitalcommons.usm.maine.edu/our_paper_sac/69/
+</p>
+            </div>
+          </div>
+          <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
+            <Image
+              src="/images/sites/OurBook/7. Our Paper marching in Boston Pride Our Paper July 1985 p1.PNG"
+              width={250}
+              height={300}
+              objectFit='cover'
+            />
+            <div style={{ width: '250px', fontSize: '10px' }}>
+              <p>
+              Our Paper staff marching in the Boston Pride Parade, Our Paper, July 1985, pg 1. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+https://digitalcommons.usm.maine.edu/our_paper_sac/75/
+</p>
+            </div>
+          </div>
+          <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
+            <Image
+              src="/images/sites/OurBook/8. hate crimes Our Paper July 1992.png"
+              width={250}
+              height={300}
+              objectFit='cover'
+            />
+            <div style={{ width: '250px', fontSize: '10px' }}>
+              <p>
+              Our Paper cover, Our Paper, July 1992, pg 1. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+https://digitalcommons.usm.maine.edu/our_paper_sac/98/
+</p>
+            </div>
+          </div>
+          {/* <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
+            <Image
+              src="/images/sites/OurBook/3. Our Books ad Our Paper Aug 1984 p 4.PNG"
+              width={250}
+              height={300}
+              objectFit='cover'
+            />
+            <div style={{ width: '250px', fontSize: '10px' }}>
+              <p>
+              Our Paper cover, Our Paper, October 1992, pg 1. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+https://digitalcommons.usm.maine.edu/our_paper_sac/100/
+</p>
+            </div>
+          </div>
+          <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
+            <Image
+              src="/images/sites/OurBook/3. Our Books ad Our Paper Aug 1984 p 4.PNG"
+              width={250}
+              height={300}
+              objectFit='cover'
+            />
+            <div style={{ width: '250px', fontSize: '10px' }}>
+              <p>
+              Our Paper cover, Our Paper, December 1992, pg 1. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+https://digitalcommons.usm.maine.edu/our_paper_sac/102/
+
+</p>
+            </div>
+          </div> */}
+          </div>
+
+          <p className="text-lg  text-gray-800 mt-12">       
+          As Skip Brushaber, who was one of the original collective members, reported, “Fred had the idea of Our Paper and had a poster or something saying we were having a meeting for doing a monthly periodical and it got a great turnout. It was a good size collective. We made decisions as a collective which, at times, was difficult. There were times where what we all wanted was to go but people would roll their eyes and say ‘this will be a long night.’ But we did it. We jumped in and we started Our Paper. It came out monthly and it was free. Some businesses would allow us to put them on their free rack of newspapers; some of them wouldn’t. It was amazing how it just kind of snowballed. People in Boston were asking us to bring papers down there to give out. Then we were hearing from people across the country that they were getting their hands on the paper. There were challenges too. We lost our first publisher because we did an ad about practicing safe sex. This was during AIDS, of course. There wasn’t anything pornographic about it; it was just about safe sex. But they said ‘we won’t publish your paper anymore.’ So, we had to get another publisher. But if I think back on being active in the community, working on Our Paper was probably my proudest moment. It was all volunteer labor even though we were all working full time jobs. It was Tuesday nights when we did pasting up of the stories on the floor and any surface we could find at Fred’s bookstore. We would stay up sometimes until 2 in the morning to get it published the next day. But it was important.  In the early reporting about the gay movement, there was always that minimizing. The mainstream press, with a few exceptions, really treated us like freaks and always in a negative light. In the 1980s, most people still thought we were all child molesters who shouldn’t have rights. I think that’s why we started Our Paper with the idea of presenting the positive.”
+          <br/><br/>
+In the first issue of the paper, the editors described the process of producing the paper at “lively Tuesday night meetings  [at Our Books], [with] many cups of coffee to get through our obsessive prattlings, cheers and jeers, groans and moans, and when it looked like we were all set and everything was proceeding on schedule, our typesetter’s composer broke down, more groans and moans followed, as we pulled an all-nighter at the typewriters.”  The collective wanted the newspaper to represent the diversity of the community and to “reflect the needs, interests, and concerns of gay men and lesbians of color, of different ages, backgrounds and geographical areas in Maine, of disabled gay men and lesbians.” In an effort to make that a reality, the paper invited readers to submit material for publication. 
+<br/><br/>
+While Our Books closed in 1987, Our Paper continued to be published through 1992. As Berger explained to the press, “The bookstore served a purpose for a while, but it was the end of an era.” As Skip Brushaber expressed, it was a significant loss: “I kind of bemoan the loss of Fred’s bookstore.  It was a safe space. I remember people who didn’t live in Portland would just come and hang out there because it was a safe, comfortable space.”
+
+          </p>
 
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
           <p className="text-lg  text-gray-800">                    
-            Bennett, Troy. 2019. “28 Years After Vandals Smashed Its Glass, Portland’s Last Gay Bar Has Windows Once Again.” Bangor Daily News, July 18. 
-            <br/><br/>
-            Blackstones advertisement, Our Paper, December 1987, page 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/47/<br/><br/>
-            
-            “Blackstones; A class Act” in  Apex : A Point of Departure, Vol.3, No.09 (November 1994). Page 3 LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  https://digitalcommons.usm.maine.edu/apex/33<br/><br/>
-            
-            Backstones advertisement, Our Paper, December 1988, page 16. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/35/<br/><br/>
-            
-            Chapkis, Wendy and Betsy Carson. “Bar Stories from Queer Maine,” 2022. https://video.maine.edu/media/Bar+Stories/1_58hxq96h<br/><br/>
-            
-            Fraser, Danielle and Wescot, Jarod, "Fenton-Snell, Butch" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 35. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/35<br/><br/>
-            
-            Cain, Hannah, "Cusack, Ralph" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 43. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/ <br/><br/>
-            
-            Wolf, Gwendolyn and Ossie, Johnna, "Grindle, Charles" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/20<br/><br/>
-            
-            Blackstones Advertisement  in Apex : A Point of Departure, Winter 1994/95. Page 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/apex/34<br/><br/>
-            
-            Miskoon, Maisarah and Winter, Devyn, "Smallwood, Thomas" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 27. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/27<br/><br/>
-            
-            Sturchio, Bianca and Ossie, Johnna, "Rich, Penny" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 26. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/26<br/><br/>
-            
-            “Letters” in Apex : A Point of Departure, Vol.4, No.07 (August 1995). Page 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/apex/40<br/><br/>
-            
-            “Miss Maine endorses gay rights at Pride Weekend” in Community Pride Reporter, 07/1994" Pages 1 &  2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/cpr/53
-            <br/><br/>
-            Blackstones halloween advertisement in Community Pride Reporter, 11/1995. Page 3. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/cpr/39<br/><br/>
+          Chapkis, Wendy, "Berger, Fred" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 9. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  https://digitalcommons.usm.maine.edu/querying_ohproject/9
+          <br/><br/>
+ Sumner, Tom, “Happy Birthday ‘Our Paper’” Our Paper September 1984. Pg 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+ https://digitalcommons.usm.maine.edu/our_paper_sac/85).<br/><br/>
+ 
+ Steve Saunders (1983, August 31), "Maine's gays to publish own newspaper," Portland Evening Express, p. 4. 
+ <br/><br/>
+ (1987, February 3), "Homosexual bookstore, Our Books, closes," Portland Press Herald, p. 10. 
+ 
+ <br/><br/>
+ Barrett, Jack and Pratt, Branden, "Brushaber, Skip" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 33. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+ https://digitalcommons.usm.maine.edu/querying_ohproject/33
+  
+ 
+ 
+ 
           </p>
         </div>
         </div>
