@@ -53,11 +53,11 @@ const SiteSection = () => {
       url: "/WesternProm",
     },
     {
-      id: 7,
+      id: 8,
       title: "Our Books/Our Paper ",
       description: "4 Pine St.",
       image: "/images/sites/8.jpg",
-      url: "/Our Books/Our Paper" ,
+      url: "/OurBooksOurPaper" , //this needs to match the name of the folder of the site
     },
   ];
 
