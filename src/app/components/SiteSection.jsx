@@ -40,24 +40,24 @@ const SiteSection = () => {
     },
     {
       id: 6,
+      title: "Our Books/Our Paper ",
+      description: "4 Pine St.",
+      image: "/images/sites/8.jpg",
+      url: "/OurBooksOurPaper" , //this needs to match the name of the folder of the site
+    },
+    {
+      id: 7,
       title: "Blackstones",
       description: "6 Pine St.",
       image: "/images/sites/6.jpg",
       url: "/Blackstones",
     },
     {
-      id: 7,
+      id: 8,
       title: "Western Prom",
       description: "242 Western Prom.",
       image: "/images/sites/7.jpg",
       url: "/WesternProm",
-    },
-    {
-      id: 8,
-      title: "Our Books/Our Paper ",
-      description: "4 Pine St.",
-      image: "/images/sites/8.jpg",
-      url: "/OurBooksOurPaper" , //this needs to match the name of the folder of the site
     },
   ];
 
