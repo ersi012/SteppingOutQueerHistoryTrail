@@ -7,14 +7,14 @@ const SiteSection = () => {
       id: 1,
       title: "First Parish Church",
       description: "425 Congress St.",
-      image: "./images/sites/1.png",
+      image: "./images/sites/1.jpg",
       url: "/FirstParishChurch",
     },
     {
       id: 2,
       title: "Monument Square",
       description: "456 Congress St.",
-      image: "/images/sites/2.png",
+      image: "/images/sites/2.jpg",
       url: "/MonumentSquare",
     },
     {
@@ -42,7 +42,7 @@ const SiteSection = () => {
       id: 6,
       title: "Blackstones",
       description: "6 Pine St.",
-      image: "/images/sites/6.png",
+      image: "/images/sites/6.jpg",
       url: "/Blackstones",
     },
     {
