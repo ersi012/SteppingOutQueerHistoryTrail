@@ -77,7 +77,7 @@ const FirstParishChurch = () => {
               objectFit='cover'
             />
             <div style={{ width: '250px', fontSize: '10px' }}>
-              <p>Blackstones, Portland’s Newest Piano Bar and Restaurant advertisement in Our Paper, December 1987. Page 20. 
+              <p>Blackstones, Portland&apos;s Newest Piano Bar and Restaurant advertisement in Our Paper, December 1987. Page 20. 
               <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/47"> https://digitalcommons.usm.maine.edu/our_paper_sac/47 </a></p>
             </div>
           </div>
@@ -101,7 +101,7 @@ const FirstParishChurch = () => {
               objectFit='cover'
             />
             <div style={{ width: '300px', fontSize: '10px' }}>
-              <p>“Which Witch is Which? Blackstone's Halloween Party advertisement in the Community Pride Reporter, November 1995. Page 3.
+              <p>&quot;&quot;Which Witch is Which? Blackstone&apos;s Halloween Party advertisement in the Community Pride Reporter, November 1995. Page 3.
               <a href="https://digitalcommons.usm.maine.edu/cpr/39"> https://digitalcommons.usm.maine.edu/cpr/39/</a></p>
             </div>
           </div>
@@ -113,7 +113,7 @@ const FirstParishChurch = () => {
               objectFit='cover'
             />
             <div style={{ width: '300px', fontSize: '10px' }}>
-              <p>“Celebrity Bartending with Candace Gingrich” MLGPA Calendar in the Maine Lesbian/Gay Political Alliance News, March 1996. Page 4.
+              <p>&apos;&apos;Celebrity Bartending with Candace Gingrich&apos;&apos; MLGPA Calendar in the Maine Lesbian/Gay Political Alliance News, March 1996. Page 4.
               <a href="https://digitalcommons.usm.maine.edu/mlgpa_news/1"> https://digitalcommons.usm.maine.edu/mlgpa_news/1</a></p>
             </div>
           </div>
@@ -125,7 +125,7 @@ const FirstParishChurch = () => {
               objectFit='cover'
             />
             <div style={{ width: '300px', fontSize: '10px' }}>
-              <p> Where can I get my copy of 10%? In 10%: Maine's monthly newspaper for lesbians & gay men, March 1994. Page 9. 
+              <p> Where can I get my copy of 10%? In 10%: Maine&apos;s monthly newspaper for lesbians & gay men, March 1994. Page 9. 
               <a href="https://digitalcommons.usm.maine.edu/ten_p/12"> https://digitalcommons.usm.maine.edu/ten_p/12</a></p>
             </div>
           </div>
@@ -137,7 +137,7 @@ const FirstParishChurch = () => {
               objectFit='cover'
             />
             <div style={{ width: '300px', fontSize: '10px' }}>
-              <p> Blackstone's broken window, photo taken by Carl Currie, bar manager.</p>
+              <p> Blackstone&apos;s broken window, photo taken by Carl Currie, bar manager.</p>
             </div>
           </div>
           </div>
@@ -145,24 +145,24 @@ const FirstParishChurch = () => {
           <p className="text-lg  text-gray-800 mt-12">
           While many of Portland&apos;s LGBTQ+ bars were designed for a mix of genders, Blackstones was created primarily to serve the gay male community. In recent years, it has made efforts to welcome a much broader public, as indicated by the range of identity-specific Pride flags displayed out front. But trans masculine men have sometimes reported hostility from some older patrons, and women are still a minority. However, as the only remaining explicitly gay bar in Portland, Blackstones continues to be a popular and much beloved institution. <br/><br/>
             Blackstones, like many of the other now-closed queer bars, served as an important community gathering and information space in Portland where you could pick up tickets to community events, check their bulletin board, or grab a gay newspaper to learn what was happening in the local community. Blackstones also provided financial support for Pride activities and AIDS benefits. And the bar has long been an important venue for drag performances.  <br/><br/>
-            In its early years, Blackstones held lavish events around Halloween, Thanksgiving, Christmas, and New Years. As former co-owner Butch Fenton-Snell noted, “Initially we planned to close for the holidays but patrons came to us to say &apos;Why are you closing on Thanksgiving?&apos; &apos;Well, because we thought people would want to spend time with their families.&apos; But they said &apos;These people are our family.&apos; So we didn&apos;t close.” <br/><br/>
-            In his oral history, the other past co-owner Ralph Cusack, a member of the local leather group The Harbor Masters, calls queer bars like Blackstones “a safe haven” where “you could go and be yourself and not worry about ridicule.” This didn&apos;t mean, however, that the bars themselves weren&apos;t targets for homophobic violence as he reported: “in the 1990s, our front door had a glass panel in it that got smashed twice in two days. And I had to repaint the front of the bar because somebody spray painted &apos;leave the straights alone&apos; across it.” It wasn&apos;t until 2019, that the bar finally removed the plywood and plexiglass that had covered the front for 28 years. As bar manager Carl Currie reported, &apos;We put the glass in because we&apos;re at a point now where the bar is safe. It&apos;s time to open it up and acknowledge that.” <br/><br/>
-            Because one of the only explicitly gay spaces in Portland for decades was bar culture, alcohol and drug use was a common feature. As Penny Rich observed in her oral history, “You could act out if you needed to act out, if you needed to drink, if you needed to do drugs, if your life was difficult because you were in the closet, if you had a job that you hated and you couldn&apos;t come out; if you had broken up with a partner you couldn&apos;t really talk to your co-workers about, but you could in a bar.” Butch Fenton-Snell remembers the downside of that: “Being in the bar business,” he said, “I was very thankful that I never got to be a drug person and being around so many drunk people really made me stop drinking at a certain point. I&apos;m very conscious now of the amount that I drink.” <br/><br/>
-            While Portland currently has an alternative to bar culture for community-building with the creation of the downtown Equality Community Center in 2016, gay bars have served, and still serve, an important role for many queer people.  As Mike McKenzie observes, “This is where we fomented revolution. This is where we banded together. This is where we built our community and our chosen family.” Kevin Ennes, a Blackstones&apos;t regular, adds “When I come to Blackstones, as soon as I go in that door, I feel safe. It will really  be a sad day in my life when I see that there&apos;s not a gay bar in Portland.”
+            In its early years, Blackstones held lavish events around Halloween, Thanksgiving, Christmas, and New Years. As former co-owner Butch Fenton-Snell noted, &quot;&quot;Initially we planned to close for the holidays but patrons came to us to say &apos;Why are you closing on Thanksgiving?&apos; &apos;Well, because we thought people would want to spend time with their families.&apos; But they said &apos;These people are our family.&apos; So we didn&apos;t close.&apos;&apos; <br/><br/>
+            In his oral history, the other past co-owner Ralph Cusack, a member of the local leather group The Harbor Masters, calls queer bars like Blackstones &quot;&quot;a safe haven&quot;&quot; where &quot;&quot;you could go and be yourself and not worry about ridicule.&apos;&apos; This didn&apos;t mean, however, that the bars themselves weren&apos;t targets for homophobic violence as he reported: &apos;&apos;in the 1990s, our front door had a glass panel in it that got smashed twice in two days. And I had to repaint the front of the bar because somebody spray painted &apos;leave the straights alone&apos; across it.&quot;&quot; It wasn&apos;t until 2019, that the bar finally removed the plywood and plexiglass that had covered the front for 28 years. As bar manager Carl Currie reported, &apos;We put the glass in because we&apos;re at a point now where the bar is safe. It&apos;s time to open it up and acknowledge that.&quot;&quot; <br/><br/>
+            Because one of the only explicitly gay spaces in Portland for decades was bar culture, alcohol and drug use was a common feature. As Penny Rich observed in her oral history, &quot;&quot;You could act out if you needed to act out, if you needed to drink, if you needed to do drugs, if your life was difficult because you were in the closet, if you had a job that you hated and you couldn&apos;t come out; if you had broken up with a partner you couldn&apos;t really talk to your co-workers about, but you could in a bar.&&apos;apos; Butch Fenton-Snell remembers the downside of that: &apos;&apos;Being in the bar business,&quot;&quot; he said, &quot;&quot;I was very thankful that I never got to be a drug person and being around so many drunk people really made me stop drinking at a certain point. I&apos;m very conscious now of the amount that I drink.&apos;&apos; <br/><br/>
+            While Portland currently has an alternative to bar culture for community-building with the creation of the downtown Equality Community Center in 2016, gay bars have served, and still serve, an important role for many queer people.  As Mike McKenzie observes, &quot;&quot;This is where we fomented revolution. This is where we banded together. This is where we built our community and our chosen family.&apos;&apos; Kevin Ennes, a Blackstones&apos;t regular, adds &apos;&apos;When I come to Blackstones, as soon as I go in that door, I feel safe. It will really  be a sad day in my life when I see that there&apos;s not a gay bar in Portland.&quot;&quot;
           </p>
 
 
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
           <p className="text-lg  text-gray-800">                    
-            Bennett, Troy. 2019. “28 Years After Vandals Smashed Its Glass, Portland&apos;s Last Gay Bar Has Windows Once Again.” Bangor Daily News, July 18. 
+            Bennett, Troy. 2019. &quot;&quot;28 Years After Vandals Smashed Its Glass, Portland&apos;s Last Gay Bar Has Windows Once Again.&quot;&quot; Bangor Daily News, July 18. 
             <br/><br/>
             Blackstones advertisement, Our Paper, December 1987, page 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/47/<br/><br/>
             
-            “Blackstones; A class Act” in  Apex : A Point of Departure, Vol.3, No.09 (November 1994). Page 3 LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  https://digitalcommons.usm.maine.edu/apex/33<br/><br/>
+            &quot;&quot;Blackstones; A class Act&quot;&quot; in  Apex : A Point of Departure, Vol.3, No.09 (November 1994). Page 3 LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  https://digitalcommons.usm.maine.edu/apex/33<br/><br/>
             
             Backstones advertisement, Our Paper, December 1988, page 16. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/35/<br/><br/>
             
-            Chapkis, Wendy and Betsy Carson. “Bar Stories from Queer Maine,” 2022. https://video.maine.edu/media/Bar+Stories/1_58hxq96h<br/><br/>
+            Chapkis, Wendy and Betsy Carson. &quot;&quot;Bar Stories from Queer Maine,&quot;&quot; 2022. https://video.maine.edu/media/Bar+Stories/1_58hxq96h<br/><br/>
             
             Fraser, Danielle and Wescot, Jarod, "Fenton-Snell, Butch" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 35. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/35<br/><br/>
             
@@ -176,9 +176,9 @@ const FirstParishChurch = () => {
             
             Sturchio, Bianca and Ossie, Johnna, "Rich, Penny" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 26. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/26<br/><br/>
             
-            “Letters” in Apex : A Point of Departure, Vol.4, No.07 (August 1995). Page 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/apex/40<br/><br/>
+            &quot;&quot;Letters&quot;&quot; in Apex : A Point of Departure, Vol.4, No.07 (August 1995). Page 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/apex/40<br/><br/>
             
-            “Miss Maine endorses gay rights at Pride Weekend” in Community Pride Reporter, 07/1994" Pages 1 &  2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/cpr/53
+            &quot;&quot;Miss Maine endorses gay rights at Pride Weekend&quot;&quot; in Community Pride Reporter, 07/1994" Pages 1 &  2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/cpr/53
             <br/><br/>
             Blackstones halloween advertisement in Community Pride Reporter, 11/1995. Page 3. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/cpr/39<br/><br/>
           </p>
