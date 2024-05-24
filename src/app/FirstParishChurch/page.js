@@ -6,9 +6,10 @@ const FirstParishChurch = () => {
     <main >
     <Navbar />
     <div className="relative bg-white">
+      {/* Image Section */}
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="./images/sites/FirstParishChurchImg/FirstParish1.jpg"
+          src="/images/sites/FirstParishChurchImg/FirstParish1.jpg"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -23,18 +24,19 @@ const FirstParishChurch = () => {
         </div>
       </div>
 
+      {/* Additional website information */}
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
         <p className="text-lg text-gray-800">
           The First Parish Church in Portland was established in 1674. Its current building at 425 Congress Street dates to 1826 making it the oldest church structure in the city.
           <br/><br/>
-          Unitarian Universalist churches like First Parish have a long tradition of preaching love, community, and compassion including for LGBTQ+ people. The Unitarian Universalist Church was one of the first religious groups in the US to formally support the rights of homosexuals. In 1970, the Church's international General Assembly passed a resolution opposing “intolerance against homosexuals and bisexuals.”
+          Unitarian Universalist churches like First Parish have a long tradition of preaching love, community, and compassion including for LGBTQ+ people. The Unitarian Universalist Church was one of the first religious groups in the US to formally support the rights of homosexuals. In 1970, the Church&quot;s international General Assembly passed a resolution opposing “intolerance against homosexuals and bisexuals.”
         </p>
       </div>
 
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
         <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
           <Image
-            src="./images/sites/FirstParishChurchImg/FirstParish1.jpg"
+            src="/images/sites/FirstParishChurchImg/FirstParish1.jpg"
             width={300}
             height={300}
             objectPosition='center'
@@ -45,7 +47,7 @@ const FirstParishChurch = () => {
         </div>
         <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
           <Image
-            src="./images/sites/FirstParishChurchImg/2.UUC1970Gen.Assemblymintesp170&171HarvardSquareLibrary.png"
+            src="/images/sites/FirstParishChurchImg/2.UUC1970Gen.Assemblymintesp170&171HarvardSquareLibrary.png"
             width={250}
             height={300}
             objectPosition='center'
@@ -62,22 +64,22 @@ const FirstParishChurch = () => {
         <p className="text-lg text-gray-800">
           The local church played a role in the response to a brutal hate crime in Maine in the 1980s, when a 23-year-old gay man, Charlie Howard, was murdered two hours north of Portland in a homophobic attack.  On the night of July 7th, 1984, Howard and his boyfriend Roy Ogden were out at night in the city of Bangor where they lived.
           <br/><br/>
-          Charlie was a vibrant, out-gay man, at a time and in a place where that was not only rare, but dangerous. Charlie and Roy were confronted by three teenage boys who shouted homophobic slurs and assaulted them. They eventually threw Charlie over the State Street Bridge - which the boys referred to as the "Chuckahomo Bridge" - ignoring his frantic pleas that he couldn't swim. Charlie drowned.<br/><br/>
-          Memorial services and gatherings were immediately organized by the gay community in the cities of Bangor, Portland, and Lewiston. In Portland, 450 people came together here at the First Parish Church. The evening's memorial began with a reading of a Bangor police department affidavit with details of the murder. Then, following a brief service by the UU's Rev. Richard Hasty, four prominent members of the queer community spoke. In the face of victim-blaming news stories about the murder with headlines like “Homosexuality Called Motive” [for attack], one of the speakers, Dale McCormick reminded the crowd “Homosexuality is not a motive. Hatred and bigotry is.”<br/><br/>
-          As those gathered in the church prepared to exit, they were informed that a group of Bible-wielding hecklers were gathered outside, including a man who explained 'I'm trying to tell these people, it's wrong to be a fag.'”
+          Charlie was a vibrant, out-gay man, at a time and in a place where that was not only rare, but dangerous. Charlie and Roy were confronted by three teenage boys who shouted homophobic slurs and assaulted them. They eventually threw Charlie over the State Street Bridge - which the boys referred to as the "Chuckahomo Bridge" - ignoring his frantic pleas that he couldn&quot;t swim. Charlie drowned.<br/><br/>
+          Memorial services and gatherings were immediately organized by the gay community in the cities of Bangor, Portland, and Lewiston. In Portland, 450 people came together here at the First Parish Church. The evening&quot;s memorial began with a reading of a Bangor police department affidavit with details of the murder. Then, following a brief service by the UU&quot;s Rev. Richard Hasty, four prominent members of the queer community spoke. In the face of victim-blaming news stories about the murder with headlines like “Homosexuality Called Motive” [for attack], one of the speakers, Dale McCormick reminded the crowd “Homosexuality is not a motive. Hatred and bigotry is.”<br/><br/>
+          As those gathered in the church prepared to exit, they were informed that a group of Bible-wielding hecklers were gathered outside, including a man who explained &quot;I&quot;m trying to tell these people, it&quot;s wrong to be a fag.&quot;”
           <br/><br/>
-          As if in response, those assembled began marching down Congress Street, followed by the bigots, who, in turn, were tailed by the Portland Police Department. One participant, Fred Berger, reported that “as we realized our numbers, we became bolder, cheering, shouting, and singing.” For many, that march represented Portland's first Pride.
+          As if in response, those assembled began marching down Congress Street, followed by the bigots, who, in turn, were tailed by the Portland Police Department. One participant, Fred Berger, reported that “as we realized our numbers, we became bolder, cheering, shouting, and singing.” For many, that march represented Portland&quot;s first Pride.
           <br/><br/>
           The murder of Charlie Howard galvanized Maine's queer communities and would lead to the creation of some of the first state-wide gay and lesbian organizations. Portland's  First Parish Church continued to serve as a critical ally.
           <br/><br/>
-          During the 1980s, as AIDS became a central concern, the Portland church provided meeting space for the Gay Health Action Committee and the AIDS Hotline. It also hosted facilitated support groups, gay and lesbian focused AA meetings, and benefit events for AIDS organizations and groups like the Maine Gay Men's Chorus.
+          During the 1980s, as AIDS became a central concern, the Portland church provided meeting space for the Gay Health Action Committee and the AIDS Hotline. It also hosted facilitated support groups, gay and lesbian focused AA meetings, and benefit events for AIDS organizations and groups like the Maine Gay Men&quot;s Chorus.
         </p>
         <h2 className="text-4xl font-bold text-center mb-10 mt-10 text-[#E2D6AF]">Photos</h2>
 
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/FirstParishChurchImg/3. Charlie howard memorial Our Paper Aug 1984 p1.PNG"
+              src="/images/sites/FirstParishChurchImg/3. Charlie howard memorial Our Paper Aug 1984 p1.PNG"
               width={300}
               height={300}
               objectFit='cover'
@@ -88,7 +90,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/FirstParishChurchImg/4. Dale McCormick speaking at CH memorial in 1st Parish Our Paper Aug 1984 p4.PNG"
+              src="/images/sites/FirstParishChurchImg/4. Dale McCormick speaking at CH memorial in 1st Parish Our Paper Aug 1984 p4.PNG"
               width={250}
               height={300}
               objectFit='cover'
@@ -99,7 +101,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/FirstParishChurchImg/5. AIDS & the responsible pulpit a sermon by rev richard hasty Our Paper Aug 1987 p7.PNG"
+              src="/images/sites/FirstParishChurchImg/5. AIDS & the responsible pulpit a sermon by rev richard hasty Our Paper Aug 1987 p7.PNG"
               width={250}
               height={300}
               objectFit='cover'
@@ -112,7 +114,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/FirstParishChurchImg/6. Gay mens support group Our Paper Sept 1985 p4.PNG"
+              src="/images/sites/FirstParishChurchImg/6. Gay mens support group Our Paper Sept 1985 p4.PNG"
               width={300}
               height={350}
               objectFit='cover'
@@ -124,7 +126,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/FirstParishChurchImg/7. first parish al anon meeting Our Paper Oct 1983 pg 12.PNG"
+              src="/images/sites/FirstParishChurchImg/7. first parish al anon meeting Our Paper Oct 1983 pg 12.PNG"
               width={350}
               height={350}
               objectFit='cover'
@@ -136,7 +138,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/FirstParishChurchImg/8. Romanovski & Phillips to appear in Porland & Bangor Our Paper Dec 1983 p1.PNG"
+              src="/images/sites/FirstParishChurchImg/8. Romanovski & Phillips to appear in Porland & Bangor Our Paper Dec 1983 p1.PNG"
               width={350}
               height={350}
               objectFit='cover'
@@ -149,7 +151,7 @@ const FirstParishChurch = () => {
           </div>
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">The church and civil rights struggles of the 1990s: </h2>
           <p className="text-lg  text-gray-800">
-          During the 1990s, the church continued to publicly support Maine's LGBTQ community at a time when civil rights laws were being challenged by religious conservatives organized as the Maine Christian Civic League. Just days before a 1998 referendum on whether to repeal basic civil rights for the gay community, the Rev. Frances Buckmaster of First Parish gave a sermon, “One Love,” on the opportunity to “vote against hate and discrimination and for loving all our neighbors as ourselves.”  Yet despite such outspoken allies, Maine voters, in the words of the New York Times, “chose to make their state the first in the nation to repeal its law protecting gay men and lesbians from discrimination.” Another 7 years of struggle were then required to reclaim those rights in 2005.
+          During the 1990s, the church continued to publicly support Maine&quot;s LGBTQ community at a time when civil rights laws were being challenged by religious conservatives organized as the Maine Christian Civic League. Just days before a 1998 referendum on whether to repeal basic civil rights for the gay community, the Rev. Frances Buckmaster of First Parish gave a sermon, “One Love,” on the opportunity to “vote against hate and discrimination and for loving all our neighbors as ourselves.”  Yet despite such outspoken allies, Maine voters, in the words of the New York Times, “chose to make their state the first in the nation to repeal its law protecting gay men and lesbians from discrimination.” Another 7 years of struggle were then required to reclaim those rights in 2005.
           </p>
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
           <p className="text-lg  text-gray-800">

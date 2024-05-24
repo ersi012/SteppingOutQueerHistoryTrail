@@ -8,7 +8,7 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="./images/sites/MonumentSquare/12 ICON PICRiver of Pride Flag Steven Bridges 2016.JPG"
+          src="/images/sites/MonumentSquare/12 ICON PICRiver of Pride Flag Steven Bridges 2016.JPG"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -39,7 +39,7 @@ const FirstParishChurch = () => {
       <div style={{ display: 'flex', overflowX: 'auto', padding: '10px'}}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/1 members of FATE ADragon.png"
+              src="/images/sites/MonumentSquare/1 members of FATE ADragon.png"
               width={300}
               height={300}
               objectFit='cover'
@@ -51,7 +51,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/2 people playing ADragon.png"
+              src="/images/sites/MonumentSquare/2 people playing ADragon.png"
               width={300}
               height={300}
               objectFit='cover'
@@ -63,7 +63,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/3 WChapkis ADragon.png"
+              src="/images/sites/MonumentSquare/3 WChapkis ADragon.png"
               width={300}
               height={300}
               objectFit='cover'
@@ -76,7 +76,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/4 Students from Biddeford.png"
+              src="/images/sites/MonumentSquare/4 Students from Biddeford.png"
               width={300}
               height={350}
               objectFit='cover'
@@ -91,7 +91,7 @@ const FirstParishChurch = () => {
 
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
         <p className="text-lg text-gray-800">
-          A somber vigil and march took place after the murder of a young gay Mainer, Charlie Howard, in 1984 in Bangor. They initially marched from the vigil at First Parish Church to Monument Square. The mourners-turned-demonstrators then marched seven minutes down Congress Street to Congress Square Park, across from the Portland Art Museum. There, when it became clear that the small park could not contain the growing crowd, the demonstrators marched back up Congress Street to Monument Square where they joined together in song and solidarity in what some see as Portland's first Pride March. 
+          A somber vigil and march took place after the murder of a young gay Mainer, Charlie Howard, in 1984 in Bangor. They initially marched from the vigil at First Parish Church to Monument Square. The mourners-turned-demonstrators then marched seven minutes down Congress Street to Congress Square Park, across from the Portland Art Museum. There, when it became clear that the small park could not contain the growing crowd, the demonstrators marched back up Congress Street to Monument Square where they joined together in song and solidarity in what some see as Portland&quot;s first Pride March. 
           <br/><br/>
          Monument Square has also been the location for more joyful events. For example, in the early 1990s, the Hysterical Angry Girls Sorority (or HAGS) demonstrated in Monument Square using tongue-in-cheek pop cultural references to raise awareness about feminist issues.  On August 30th 1991, HAGS held an event in Monument Square called the "Thelma and Louise Day" featuring gun registrations for women, a "chocolate rest station,” and a "Bloody and Silver Tampon Awards” ceremony. 
          <br/><br/>
@@ -106,7 +106,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/5 Outright marches ADragon.png"
+              src="/images/sites/MonumentSquare/5 Outright marches ADragon.png"
               width={300}
               height={300}
               objectFit='cover'
@@ -118,7 +118,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/6 Maine Rural Network ADragon.png"
+              src="/images/sites/MonumentSquare/6 Maine Rural Network ADragon.png"
               width={300}
               height={300}
               objectFit='cover'
@@ -130,7 +130,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/7 South Portland citz A Dragon.png"
+              src="/images/sites/MonumentSquare/7 South Portland citz A Dragon.png"
               width={350}
               height={400}
               objectFit='cover'
@@ -144,7 +144,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/8 Dyke March group photo Steven Bridges 2014.JPG"
+              src="/images/sites/MonumentSquare/8 Dyke March group photo Steven Bridges 2014.JPG"
               width={300}
               height={350}
               objectFit='cover'
@@ -155,7 +155,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/9 Dykes on Bikes Portland Steven Bridges 2015.JPG"
+              src="/images/sites/MonumentSquare/9 Dykes on Bikes Portland Steven Bridges 2015.JPG"
               width={350}
               height={350}
               objectFit='cover'
@@ -166,7 +166,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/10 Marchers in the Portland Dyke March Steven Bridges 2023.jpg"
+              src="/images/sites/MonumentSquare/10 Marchers in the Portland Dyke March Steven Bridges 2023.jpg"
               width={350}
               height={350}
               objectFit='cover'
@@ -177,7 +177,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/11 WJo Moser Pride.jpg"
+              src="/images/sites/MonumentSquare/11 WJo Moser Pride.jpg"
               width={400}
               height={400}
               objectFit='cover'
@@ -188,7 +188,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/12 ICON PICRiver of Pride Flag Steven Bridges 2016.JPG"
+              src="/images/sites/MonumentSquare/12 ICON PICRiver of Pride Flag Steven Bridges 2016.JPG"
               width={250}
               height={250}
               objectFit='cover'
@@ -199,7 +199,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/MonumentSquare/13 Marchers carrying the flags PPL Sp Coll & archives1987 TL 06_07 11(1).JPG"
+              src="/images/sites/MonumentSquare/13 Marchers carrying the flags PPL Sp Coll & archives1987 TL 06_07 11(1).JPG"
               width={300}
               height={300}
               objectFit='cover'
@@ -221,7 +221,7 @@ const FirstParishChurch = () => {
             <br/><br/>
             In 1994, Southern Maine Pride commemorated the 25th anniversary of the Stonewall Uprising and the tenth anniversary of the Charlie Howard murder. Each of those Pride marches commenced in Monument Square. While the size of the marches had grown significantly, the organizers of Southern Maine Pride began to complain about problems of funding and low participation by community volunteers in the planning stage. Michael Rossetti wrote letters to various LGBTQ publications (like Apex and Our Paper) pleading for more assistance. 	
             <br/><br/>
-            Until 2013 when it dissolved, Southern Maine Pride continued to be the driving force behind Portland's Pride festivities. The following year, in 2014, in order to rescue Pride and to return it to the community, a group of activists spearheaded by Kirsten Griffith, Jill Barkley Roy, and Chris O'Connor, formed Pride Portland, the organization now responsible for Portland's official Pride events.	
+            Until 2013 when it dissolved, Southern Maine Pride continued to be the driving force behind Portland's Pride festivities. The following year, in 2014, in order to rescue Pride and to return it to the community, a group of activists spearheaded by Kirsten Griffith, Jill Barkley Roy, and Chris O&quot;Connor, formed Pride Portland, the organization now responsible for Portland's official Pride events.	
             <br/><br/>
             Monument Square continues to serve as the primary starting location for the Pride Parade; though, as people who have participated in the march in recent years can tell you, there are far too many people, floats, and hula hoops to all fit into the Square at once. In 1987, Michael Rossetti was worried that no one would show up. But 25 years later, thousands line the streets and march in the parade. 
             <br/><br/>
@@ -229,7 +229,7 @@ const FirstParishChurch = () => {
           </p>
           <h2 className="text-4xl font-bold text-center mb-10  mt-10 text-[#E2D6AF]">Organizations</h2>
             <p className="text-lg text-gray-800 mb-10 ">
-            In addition to the demonstrations, marches, and parades that have taken place in Monument Square, some of the buildings in the Square also have significant queer history associated with them.  During the early years of the AIDS crisis in Maine, The AIDS Project was located on the fifth floor of 22 Monument Square. Prior to the founding of that organization, help was much more informal. As one of the founders of The AIDS Project, Skip Brushaber, observes in his oral history, “Around 1984, people started getting sick in Maine. At Fred Berger's gay bookstore Our Books, he had a list of people's needs - you know, like 'this person needs a ride to their doctor, this person needs somebody to bring them dinner.' It was very informal. Finally, we got together and formed the AIDS Project and ended up in Monument Square. It was an amazing organization. I couldn't believe how people just stepped up. It was so hard and yet people gave themselves to it.”   
+            In addition to the demonstrations, marches, and parades that have taken place in Monument Square, some of the buildings in the Square also have significant queer history associated with them.  During the early years of the AIDS crisis in Maine, The AIDS Project was located on the fifth floor of 22 Monument Square. Prior to the founding of that organization, help was much more informal. As one of the founders of The AIDS Project, Skip Brushaber, observes in his oral history, “Around 1984, people started getting sick in Maine. At Fred Berger&quot;s gay bookstore Our Books, he had a list of people&quot;s needs - you know, like &quot;this person needs a ride to their doctor, this person needs somebody to bring them dinner.&quot; It was very informal. Finally, we got together and formed the AIDS Project and ended up in Monument Square. It was an amazing organization. I couldn&quot;t believe how people just stepped up. It was so hard and yet people gave themselves to it.”   
             <br/><br/>
             In their location at Monument Square, The AIDS Project hosted support groups for people with AIDS and their loved ones, staffed a hotline, and even offered wellness activities like yoga. The Project also published a newsletter that kept subscribers in the loop about local and national AIDS news, initiatives, and events. 
             <br/><br/>
@@ -266,7 +266,7 @@ const FirstParishChurch = () => {
             <br/><br/>
             Perron, Anne, information on Dykes on Bikes: personal correspondence with Wendy Chapkis, October 4, 2023.
             <br/><br/>
-            “Portland Pride '87, June 5-6, 1987” Our Paper 06/1987 (1987). Our Paper: Serving the Alternative Community. 51. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+            “Portland Pride &quot;87, June 5-6, 1987” Our Paper 06/1987 (1987). Our Paper: Serving the Alternative Community. 51. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
             https://digitalcommons.usm.maine.edu/our_paper_sac/51,
             <br/><br/>
             Rossetti,  Michael, “Portland Pride #3” Our Paper 03/1989 (1989). Our Paper: Serving the Alternative Community. 32., page 3. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
