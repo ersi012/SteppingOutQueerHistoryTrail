@@ -8,7 +8,7 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="/images/sites/State/2 ACT UP portland May 1993 A Dragon.png"
+          src="./images/sites/State/2 ACT UP portland May 1993 A Dragon.png"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -42,7 +42,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/1 State theater Feb 1979 Portland Maine History 1786 to present FB post may 16 2012.jpg"
+              src="./images/sites/State/1 State theater Feb 1979 Portland Maine History 1786 to present FB post may 16 2012.jpg"
               width={300}
               height={300}
               objectFit='cover'
@@ -53,7 +53,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/6 theater of State Theater bld ca 1930 from Maine Hist Society 12902.jpg"
+              src="./images/sites/State/6 theater of State Theater bld ca 1930 from Maine Hist Society 12902.jpg"
               width={300}
               height={300}
               objectFit='cover'
@@ -64,7 +64,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{  marginRight: '20px',textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/7 Hallway of State theater blg ca 1930 from Maine Hist Society.jpg"
+              src="./images/sites/State/7 Hallway of State theater blg ca 1930 from Maine Hist Society.jpg"
               width={300}
               height={300}
               objectFit='cover'
@@ -85,18 +85,18 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/2 ACT UP portland May 1993 A Dragon.png"
+              src="./images/sites/State/2 ACT UP portland May 1993 A Dragon.png"
               width={300}
               height={300}
               objectFit='cover'
             />
             <div style={{ width: '300px', fontSize: '10px' }}>
-              <p>ACT UP Portland members march in a pre-Pride rally culminating with a die-in on the steps of Portland’s City Hall, May 1993. By Annette Dragon, "Act Up Fight Back Take Pictures: Ten Years of Queer Activism in Maine" Annette Dragon Photographs. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/annette_dragon/60/ "> https://digitalcommons.usm.maine.edu/annette_dragon/60/ </a></p>
+              <p>ACT UP Portland members march in a pre-Pride rally culminating with a die-in on the steps of Portland's City Hall, May 1993. By Annette Dragon, "Act Up Fight Back Take Pictures: Ten Years of Queer Activism in Maine" Annette Dragon Photographs. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/annette_dragon/60/ "> https://digitalcommons.usm.maine.edu/annette_dragon/60/ </a></p>
             </div>
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/3 ACT UP Protest Univ healthcare June 1993 A Dragon (1).png"
+              src="./images/sites/State/3 ACT UP Protest Univ healthcare June 1993 A Dragon (1).png"
               width={300}
               height={300}
               objectFit='cover'
@@ -107,13 +107,13 @@ const FirstParishChurch = () => {
           </div>
           <div style={{  marginRight: '20px',textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/4 Protesters and signs May 6 1993 ADragon.png"
+              src="./images/sites/State/4 Protesters and signs May 6 1993 ADragon.png"
               width={300}
               height={300}
               objectFit='cover'
             />
             <div style={{ width: '300px', fontSize: '10px' }}>
-              <p>Protesters hold a sign that reads: "We're queer. Don't Fuck with us. Rights Now! ACT UP" on the Capitol steps at a rally in Augusta to protest Governor McKernan’s veto of the state queer-inclusive non-discrimination bill. Signs in the background read: "We shall be free" and "McKernan does discriminate" May 6, 1993. By Annette Dragon, "Act Up Fight Back Take Pictures: Ten Years of Queer Activism in Maine" Annette Dragon Photographs. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/annette_dragon/55/ "> https://digitalcommons.usm.maine.edu/annette_dragon/55/ </a>
+              <p>Protesters hold a sign that reads: "We're queer. Don't Fuck with us. Rights Now! ACT UP" on the Capitol steps at a rally in Augusta to protest Governor McKernan's veto of the state queer-inclusive non-discrimination bill. Signs in the background read: "We shall be free" and "McKernan does discriminate" May 6, 1993. By Annette Dragon, "Act Up Fight Back Take Pictures: Ten Years of Queer Activism in Maine" Annette Dragon Photographs. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/annette_dragon/55/ "> https://digitalcommons.usm.maine.edu/annette_dragon/55/ </a>
 </p>
             </div>
           </div>
@@ -122,7 +122,7 @@ const FirstParishChurch = () => {
           <p className="text-lg  text-gray-800 mt-10">
           According to an oral history with local activist Erica Rand, “When I moved to Maine in the fall of 1990, I was surprised to discover that ACT UP was big enough that there had already been a political split. So there was ACT UP Maine and then ACT-UP Portland, and I was in ACT UP Portland. And within ACT UP Portland there was The Pissed Off Dyke Cell.  A few years later, we got a grant from the Haymarket Foundation so we could afford to rent a small office space in the State Theatre building which was kind of amazing. It was a good place to meet and do a lot of the creative stuff like making zines and posters. We were all about being visible at a time when there was a lot of closetedness and fear of being out. We didn't take shit that some other groups were willing to accept; like there was this idea that the way to get change was to be quiet and polite and say we're just like everybody else. We were not quiet. The Pissed Off Dyke Cell also joined to do some radical health care activism with some separatist dykes who did not want to be ACT UP members. So we became the Pissed Off Dyke Cell/Women's Health Action Crew (pronounced POD Cell/WHAC). We did a lot of wheatpasting and experimented, unsuccessfully, with trying to produce some safer-sex porn. A lot of us were cultural creators, including photographers like Annette Dragon and Ana R. Kissed. A lot of the people doing work for ACT UP were dykes.” <br/><br/>
 
-        ACT UP hosted several youth-oriented groups with Portland students including FATE: Fight AIDS Transform Education and TRAP: Teen Risk Awareness Portland. FATE produced the  'zine LEO: Latex Everywhere Or Else focused on safer sex and safer drug use. The group’s mission was to provide young people with access to condoms and sexual health education that went beyond the rigid abstinence-only curriculum offered in many 1990s classrooms. FATE members were known for their protests where they handed out condoms, gloves and dental dams, and rallied for the free distribution of these items at area high schools to help prevent the spread of HIV/AIDS, STIs, and unplanned pregnancies. Affiliated student groups existed in other Southern Maine communities as well, such as SLAM: Scarborough for Latex and Maturity and KISS: Kennebunkport Individuals for Safer Sexuality. According to ACT UP Portland member Erica Rand, “The zines all had our ACT UP phone number in them and said ‘would you like to do organizing in your high school? Call this number.’ So we helped teenagers do their own organizing and activism.” <br/><br/>
+        ACT UP hosted several youth-oriented groups with Portland students including FATE: Fight AIDS Transform Education and TRAP: Teen Risk Awareness Portland. FATE produced the  'zine LEO: Latex Everywhere Or Else focused on safer sex and safer drug use. The group's mission was to provide young people with access to condoms and sexual health education that went beyond the rigid abstinence-only curriculum offered in many 1990s classrooms. FATE members were known for their protests where they handed out condoms, gloves and dental dams, and rallied for the free distribution of these items at area high schools to help prevent the spread of HIV/AIDS, STIs, and unplanned pregnancies. Affiliated student groups existed in other Southern Maine communities as well, such as SLAM: Scarborough for Latex and Maturity and KISS: Kennebunkport Individuals for Safer Sexuality. According to ACT UP Portland member Erica Rand, “The zines all had our ACT UP phone number in them and said 'would you like to do organizing in your high school? Call this number.' So we helped teenagers do their own organizing and activism.” <br/><br/>
 
         ACT UP also organized high visibility mass protests in various locations in Southern Maine. As Mike Blanchard reports, “ACT UP was a necessary by-product of the genocide that was happening during the AIDS crisis. ACT UP Portland was doing some things that I wanted to be a part of. They were doing die-ins in front of City Hall, they were doing street theater, and I started going to some ACT UP meetings. Folks were running out of patience. The AIDS Project would have someone with a caseload of 45 on Friday and come in on Monday and have a caseload of only 30; I mean people were dying so quickly, so ruthlessly, and being mistreated on the way out. It was just an awful, awful time.” <br/><br/>  </p>
 

@@ -8,7 +8,7 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="/images/sites/OurBook/2. ICON PIC Our Books ad Our Paper Jan 1983p3.PNG"
+          src="./images/sites/OurBook/2. ICON PIC Our Books ad Our Paper Jan 1983p3.PNG"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -23,11 +23,10 @@ const FirstParishChurch = () => {
         </div>
       </div>
 
-      {/* Additional website information */}
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
         <p className="text-lg text-gray-800">
         Our Books:
-        Fred Berger opened a small gay bookstore, Our Books, in the Old Port section of Portland, ME in December of 1982; less than a year later, in September of 1983, he moved the bookstore to 4 Pine Street in the West End. As Berger observed (in his oral history interview), “It wasn’t much of a store, but it became a sort of gay community center.” Skip Brushaber explained (in his 2018 oral history interview), “Fred’s book store had these comfortable chairs and people would stop in. It was definitely a community space where people met to talk about political things, civil rights.”
+        Fred Berger opened a small gay bookstore, Our Books, in the Old Port section of Portland, ME in December of 1982; less than a year later, in September of 1983, he moved the bookstore to 4 Pine Street in the West End. As Berger observed (in his oral history interview), “It wasn't much of a store, but it became a sort of gay community center.” Skip Brushaber explained (in his 2018 oral history interview), “Fred's book store had these comfortable chairs and people would stop in. It was definitely a community space where people met to talk about political things, civil rights.”
         </p>
       </div>
 
@@ -37,7 +36,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/OurBook/1. John Preston book signing Our Books Our Paper Nov 1983 p8.PNG"
+              src="./images/sites/OurBook/1. John Preston book signing Our Books Our Paper Nov 1983 p8.PNG"
               width={300}
               height={300}
               objectFit='cover'
@@ -48,7 +47,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/OurBook/thumbnail.jpg"
+              src="./images/sites/OurBook/thumbnail.jpg"
               width={200}
               height={200}
               objectFit='cover'
@@ -59,7 +58,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/OurBook/3. Our Books ad Our Paper Aug 1984 p 4.PNG"
+              src="./images/sites/OurBook/3. Our Books ad Our Paper Aug 1984 p 4.PNG"
               width={250}
               height={300}
               objectFit='cover'
@@ -86,7 +85,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/OurBook/4. Our paper staff meeting ad Our paper Oct 1983 pg 12.PNG"
+              src="./images/sites/OurBook/4. Our paper staff meeting ad Our paper Oct 1983 pg 12.PNG"
               width={300}
               height={300}
               objectFit='cover'
@@ -97,7 +96,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/OurBook/5. Our Paper banner Our Paper April 1983.PNG"
+              src="./images/sites/OurBook/5. Our Paper banner Our Paper April 1983.PNG"
               width={200}
               height={200}
               objectFit='cover'
@@ -110,7 +109,7 @@ https://digitalcommons.usm.maine.edu/our_paper_sac/87/
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/OurBook/6. Our paper annual meeting Our Paper January 1986 p2.PNG"
+              src="./images/sites/OurBook/6. Our paper annual meeting Our Paper January 1986 p2.PNG"
               width={250}
               height={300}
               objectFit='cover'
@@ -124,7 +123,7 @@ https://digitalcommons.usm.maine.edu/our_paper_sac/69/
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/OurBook/7. Our Paper marching in Boston Pride Our Paper July 1985 p1.PNG"
+              src="./images/sites/OurBook/7. Our Paper marching in Boston Pride Our Paper July 1985 p1.PNG"
               width={250}
               height={300}
               objectFit='cover'
@@ -138,7 +137,7 @@ https://digitalcommons.usm.maine.edu/our_paper_sac/75/
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/OurBook/8. hate crimes Our Paper July 1992.png"
+              src="./images/sites/OurBook/8. hate crimes Our Paper July 1992.png"
               width={250}
               height={300}
               objectFit='cover'
@@ -152,7 +151,7 @@ https://digitalcommons.usm.maine.edu/our_paper_sac/98/
           </div>
           {/* <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/OurBook/3. Our Books ad Our Paper Aug 1984 p 4.PNG"
+              src="./images/sites/OurBook/3. Our Books ad Our Paper Aug 1984 p 4.PNG"
               width={250}
               height={300}
               objectFit='cover'
@@ -166,7 +165,7 @@ https://digitalcommons.usm.maine.edu/our_paper_sac/100/
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/OurBook/3. Our Books ad Our Paper Aug 1984 p 4.PNG"
+              src="./images/sites/OurBook/3. Our Books ad Our Paper Aug 1984 p 4.PNG"
               width={250}
               height={300}
               objectFit='cover'
@@ -182,11 +181,11 @@ https://digitalcommons.usm.maine.edu/our_paper_sac/102/
           </div>
 
           <p className="text-lg  text-gray-800 mt-12">       
-          As Skip Brushaber, who was one of the original collective members, reported, “Fred had the idea of Our Paper and had a poster or something saying we were having a meeting for doing a monthly periodical and it got a great turnout. It was a good size collective. We made decisions as a collective which, at times, was difficult. There were times where what we all wanted was to go but people would roll their eyes and say ‘this will be a long night.’ But we did it. We jumped in and we started Our Paper. It came out monthly and it was free. Some businesses would allow us to put them on their free rack of newspapers; some of them wouldn’t. It was amazing how it just kind of snowballed. People in Boston were asking us to bring papers down there to give out. Then we were hearing from people across the country that they were getting their hands on the paper. There were challenges too. We lost our first publisher because we did an ad about practicing safe sex. This was during AIDS, of course. There wasn’t anything pornographic about it; it was just about safe sex. But they said ‘we won’t publish your paper anymore.’ So, we had to get another publisher. But if I think back on being active in the community, working on Our Paper was probably my proudest moment. It was all volunteer labor even though we were all working full time jobs. It was Tuesday nights when we did pasting up of the stories on the floor and any surface we could find at Fred’s bookstore. We would stay up sometimes until 2 in the morning to get it published the next day. But it was important.  In the early reporting about the gay movement, there was always that minimizing. The mainstream press, with a few exceptions, really treated us like freaks and always in a negative light. In the 1980s, most people still thought we were all child molesters who shouldn’t have rights. I think that’s why we started Our Paper with the idea of presenting the positive.”
+          As Skip Brushaber, who was one of the original collective members, reported, “Fred had the idea of Our Paper and had a poster or something saying we were having a meeting for doing a monthly periodical and it got a great turnout. It was a good size collective. We made decisions as a collective which, at times, was difficult. There were times where what we all wanted was to go but people would roll their eyes and say 'this will be a long night.'But we did it. We jumped in and we started Our Paper. It came out monthly and it was free. Some businesses would allow us to put them on their free rack of newspapers; some of them wouldn't. It was amazing how it just kind of snowballed. People in Boston were asking us to bring papers down there to give out. Then we were hearing from people across the country that they were getting their hands on the paper. There were challenges too. We lost our first publisher because we did an ad about practicing safe sex. This was during AIDS, of course. There wasn't anything pornographic about it; it was just about safe sex. But they said 'we won't publish your paper anymore.'So, we had to get another publisher. But if I think back on being active in the community, working on Our Paper was probably my proudest moment. It was all volunteer labor even though we were all working full time jobs. It was Tuesday nights when we did pasting up of the stories on the floor and any surface we could find at Fred's bookstore. We would stay up sometimes until 2 in the morning to get it published the next day. But it was important.  In the early reporting about the gay movement, there was always that minimizing. The mainstream press, with a few exceptions, really treated us like freaks and always in a negative light. In the 1980s, most people still thought we were all child molesters who shouldn't have rights. I think that's why we started Our Paper with the idea of presenting the positive.”
           <br/><br/>
-In the first issue of the paper, the editors described the process of producing the paper at “lively Tuesday night meetings  [at Our Books], [with] many cups of coffee to get through our obsessive prattlings, cheers and jeers, groans and moans, and when it looked like we were all set and everything was proceeding on schedule, our typesetter’s composer broke down, more groans and moans followed, as we pulled an all-nighter at the typewriters.”  The collective wanted the newspaper to represent the diversity of the community and to “reflect the needs, interests, and concerns of gay men and lesbians of color, of different ages, backgrounds and geographical areas in Maine, of disabled gay men and lesbians.” In an effort to make that a reality, the paper invited readers to submit material for publication. 
+In the first issue of the paper, the editors described the process of producing the paper at “lively Tuesday night meetings  [at Our Books], [with] many cups of coffee to get through our obsessive prattlings, cheers and jeers, groans and moans, and when it looked like we were all set and everything was proceeding on schedule, our typesetter's composer broke down, more groans and moans followed, as we pulled an all-nighter at the typewriters.”  The collective wanted the newspaper to represent the diversity of the community and to “reflect the needs, interests, and concerns of gay men and lesbians of color, of different ages, backgrounds and geographical areas in Maine, of disabled gay men and lesbians.” In an effort to make that a reality, the paper invited readers to submit material for publication. 
 <br/><br/>
-While Our Books closed in 1987, Our Paper continued to be published through 1992. As Berger explained to the press, “The bookstore served a purpose for a while, but it was the end of an era.” As Skip Brushaber expressed, it was a significant loss: “I kind of bemoan the loss of Fred’s bookstore.  It was a safe space. I remember people who didn’t live in Portland would just come and hang out there because it was a safe, comfortable space. ”
+While Our Books closed in 1987, Our Paper continued to be published through 1992. As Berger explained to the press, “The bookstore served a purpose for a while, but it was the end of an era.” As Skip Brushaber expressed, it was a significant loss: “I kind of bemoan the loss of Fred&apos;s bookstore.  It was a safe space. I remember people who didn't live in Portland would just come and hang out there because it was a safe, comfortable space. ”
 
           </p>
 
@@ -194,8 +193,8 @@ While Our Books closed in 1987, Our Paper continued to be published through 1992
           <p className="text-lg  text-gray-800">                    
           Chapkis, Wendy, "Berger, Fred" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 9. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  https://digitalcommons.usm.maine.edu/querying_ohproject/9
           <br/><br/>
- Sumner, Tom, “Happy Birthday ‘Our Paper’” Our Paper September 1984. Pg 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
- https://digitalcommons.usm.maine.edu/our_paper_sac/85).<br/><br/>
+ Sumner, Tom, “Happy Birthday 'Our Paper'” Our Paper September 1984. Pg 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+ https://digitalcommons.usm.maine.edu/our_paper_sac/85.<br/><br/>
  
  Steve Saunders (1983, August 31), "Maine's gays to publish own newspaper," Portland Evening Express, p. 4. 
  <br/><br/>
@@ -204,10 +203,6 @@ While Our Books closed in 1987, Our Paper continued to be published through 1992
  <br/><br/>
  Barrett, Jack and Pratt, Branden, "Brushaber, Skip" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 33. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
  https://digitalcommons.usm.maine.edu/querying_ohproject/33
-  
- 
- 
- 
           </p>
         </div>
         </div>

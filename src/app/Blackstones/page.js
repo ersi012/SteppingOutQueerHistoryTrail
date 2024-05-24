@@ -8,7 +8,7 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="/images/sites/Black/1. ICON PIC blackstones advert Pride Reporter July 2000 pg 12.PNG"
+          src="./images/sites/Black/1. ICON PIC blackstones advert Pride Reporter July 2000 pg 12.PNG"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -36,7 +36,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Black/1. ICON PIC blackstones advert Pride Reporter July 2000 pg 12.PNG"
+              src="./images/sites/Black/1. ICON PIC blackstones advert Pride Reporter July 2000 pg 12.PNG"
               width={200}
               height={200}
               objectFit='cover'
@@ -47,7 +47,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Black/2. Blackstones hosts 1994 fundraister article  Annette Dragon Apex nov 1994 p8.PNG"
+              src="./images/sites/Black/2. Blackstones hosts 1994 fundraister article  Annette Dragon Apex nov 1994 p8.PNG"
               width={300}
               height={300}
               objectFit='cover'
@@ -58,7 +58,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Black/3. Blackstones ad Our Paper Aug 1988 p3.PNG"
+              src="./images/sites/Black/3. Blackstones ad Our Paper Aug 1988 p3.PNG"
               width={250}
               height={300}
               objectFit='cover'
@@ -71,7 +71,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Black/4. Blackstones Portlands Newest Piano Bar ad Our Paper December 1987 p20.PNG"
+              src="./images/sites/Black/4. Blackstones Portlands Newest Piano Bar ad Our Paper December 1987 p20.PNG"
               width={250}
               height={250}
               objectFit='cover'
@@ -83,7 +83,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Black/5. Blackstones ad Our Paper May 1988 p11.PNG"
+              src="./images/sites/Black/5. Blackstones ad Our Paper May 1988 p11.PNG"
               width={250}
               height={250}
               objectFit='cover'
@@ -95,7 +95,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Black/6. Which witch is which Blackstones ad Community Pride Reporter Nov 1995 p 3.PNG"
+              src="./images/sites/Black/6. Which witch is which Blackstones ad Community Pride Reporter Nov 1995 p 3.PNG"
               width={350}
               height={350}
               objectFit='cover'
@@ -107,7 +107,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Black/7. Celebrity bar tending Blackstones media calander Maine Lesbian Gay Political alliance newsletter March 1996 p4.PNG"
+              src="./images/sites/Black/7. Celebrity bar tending Blackstones media calander Maine Lesbian Gay Political alliance newsletter March 1996 p4.PNG"
               width={350}
               height={350}
               objectFit='cover'
@@ -119,7 +119,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Black/8.PNG"
+              src="./images/sites/Black/8.PNG"
               width={350}
               height={350}
               objectFit='cover'
@@ -131,7 +131,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Black/9. Carl Currie photo of Blackstones broken window.jpg"
+              src="./images/sites/Black/9. Carl Currie photo of Blackstones broken window.jpg"
               width={350}
               height={350}
               objectFit='cover'
@@ -143,18 +143,18 @@ const FirstParishChurch = () => {
           </div>
          
           <p className="text-lg  text-gray-800 mt-12">
-          While many of Portland’s LGBTQ+ bars were designed for a mix of genders, Blackstones was created primarily to serve the gay male community. In recent years, it has made efforts to welcome a much broader public, as indicated by the range of identity-specific Pride flags displayed out front. But trans masculine men have sometimes reported hostility from some older patrons, and women are still a minority. However, as the only remaining explicitly gay bar in Portland, Blackstones continues to be a popular and much beloved institution. <br/><br/>
+          While many of Portland&apos;s LGBTQ+ bars were designed for a mix of genders, Blackstones was created primarily to serve the gay male community. In recent years, it has made efforts to welcome a much broader public, as indicated by the range of identity-specific Pride flags displayed out front. But trans masculine men have sometimes reported hostility from some older patrons, and women are still a minority. However, as the only remaining explicitly gay bar in Portland, Blackstones continues to be a popular and much beloved institution. <br/><br/>
             Blackstones, like many of the other now-closed queer bars, served as an important community gathering and information space in Portland where you could pick up tickets to community events, check their bulletin board, or grab a gay newspaper to learn what was happening in the local community. Blackstones also provided financial support for Pride activities and AIDS benefits. And the bar has long been an important venue for drag performances.  <br/><br/>
-            In its early years, Blackstones held lavish events around Halloween, Thanksgiving, Christmas, and New Years. As former co-owner Butch Fenton-Snell noted, “Initially we planned to close for the holidays but patrons came to us to say ‘Why are you closing on Thanksgiving?’ ‘Well, because we thought people would want to spend time with their families.’ But they said ‘These people are our family.’ So we didn’t close.” <br/><br/>
-            In his oral history, the other past co-owner Ralph Cusack, a member of the local leather group The Harbor Masters, calls queer bars like Blackstones “a safe haven” where “you could go and be yourself and not worry about ridicule.” This didn’t mean, however, that the bars themselves weren’t targets for homophobic violence as he reported: “in the 1990s, our front door had a glass panel in it that got smashed twice in two days. And I had to repaint the front of the bar because somebody spray painted ‘leave the straights alone’ across it.” It wasn’t until 2019, that the bar finally removed the plywood and plexiglass that had covered the front for 28 years. As bar manager Carl Currie reported, ‘We put the glass in because we’re at a point now where the bar is safe. It’s time to open it up and acknowledge that.” <br/><br/>
-            Because one of the only explicitly gay spaces in Portland for decades was bar culture, alcohol and drug use was a common feature. As Penny Rich observed in her oral history, “You could act out if you needed to act out, if you needed to drink, if you needed to do drugs, if your life was difficult because you were in the closet, if you had a job that you hated and you couldn’t come out; if you had broken up with a partner you couldn’t really talk to your co-workers about, but you could in a bar.” Butch Fenton-Snell remembers the downside of that: “Being in the bar business,” he said, “I was very thankful that I never got to be a drug person and being around so many drunk people really made me stop drinking at a certain point. I’m very conscious now of the amount that I drink.” <br/><br/>
-            While Portland currently has an alternative to bar culture for community-building with the creation of the downtown Equality Community Center in 2016, gay bars have served, and still serve, an important role for many queer people.  As Mike McKenzie observes, “This is where we fomented revolution. This is where we banded together. This is where we built our community and our chosen family.” Kevin Ennes, a Blackstones’ regular, adds “When I come to Blackstones, as soon as I go in that door, I feel safe. It will really  be a sad day in my life when I see that there’s not a gay bar in Portland.”
+            In its early years, Blackstones held lavish events around Halloween, Thanksgiving, Christmas, and New Years. As former co-owner Butch Fenton-Snell noted, “Initially we planned to close for the holidays but patrons came to us to say &apos;Why are you closing on Thanksgiving?&apos; &apos;Well, because we thought people would want to spend time with their families.&apos; But they said &apos;These people are our family.&apos; So we didn&apos;t close.” <br/><br/>
+            In his oral history, the other past co-owner Ralph Cusack, a member of the local leather group The Harbor Masters, calls queer bars like Blackstones “a safe haven” where “you could go and be yourself and not worry about ridicule.” This didn&apos;t mean, however, that the bars themselves weren&apos;t targets for homophobic violence as he reported: “in the 1990s, our front door had a glass panel in it that got smashed twice in two days. And I had to repaint the front of the bar because somebody spray painted &apos;leave the straights alone&apos; across it.” It wasn&apos;t until 2019, that the bar finally removed the plywood and plexiglass that had covered the front for 28 years. As bar manager Carl Currie reported, &apos;We put the glass in because we&apos;re at a point now where the bar is safe. It&apos;s time to open it up and acknowledge that.” <br/><br/>
+            Because one of the only explicitly gay spaces in Portland for decades was bar culture, alcohol and drug use was a common feature. As Penny Rich observed in her oral history, “You could act out if you needed to act out, if you needed to drink, if you needed to do drugs, if your life was difficult because you were in the closet, if you had a job that you hated and you couldn&apos;t come out; if you had broken up with a partner you couldn&apos;t really talk to your co-workers about, but you could in a bar.” Butch Fenton-Snell remembers the downside of that: “Being in the bar business,” he said, “I was very thankful that I never got to be a drug person and being around so many drunk people really made me stop drinking at a certain point. I&apos;m very conscious now of the amount that I drink.” <br/><br/>
+            While Portland currently has an alternative to bar culture for community-building with the creation of the downtown Equality Community Center in 2016, gay bars have served, and still serve, an important role for many queer people.  As Mike McKenzie observes, “This is where we fomented revolution. This is where we banded together. This is where we built our community and our chosen family.” Kevin Ennes, a Blackstones&apos;t regular, adds “When I come to Blackstones, as soon as I go in that door, I feel safe. It will really  be a sad day in my life when I see that there&apos;s not a gay bar in Portland.”
           </p>
 
 
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
           <p className="text-lg  text-gray-800">                    
-            Bennett, Troy. 2019. “28 Years After Vandals Smashed Its Glass, Portland’s Last Gay Bar Has Windows Once Again.” Bangor Daily News, July 18. 
+            Bennett, Troy. 2019. “28 Years After Vandals Smashed Its Glass, Portland&apos;s Last Gay Bar Has Windows Once Again.” Bangor Daily News, July 18. 
             <br/><br/>
             Blackstones advertisement, Our Paper, December 1987, page 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/47/<br/><br/>
             
