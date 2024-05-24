@@ -12,7 +12,7 @@ const Header = () => {
                 <p className='text-[#C7BEA0] font-serif text-xl md:text-left mb-7 ml-8'>This 1.5 mile self-guided tour will take you through the downtown of Maine’s largest city along Congress and Pine Streets in Portland. Along the way, you will explore locations and events important to local LGBTQ+ history. 
                 </p>
 
-                <button className='bg-[#E2D6AF] rounded-full w-full sm:w-fit px-5 py-3 font-serif text-[#1C5C2D] hover:bg-slate-200  ml-8'>Explore</button>
+                {/* <button className='bg-[#E2D6AF] rounded-full w-full sm:w-fit px-5 py-3 font-serif text-[#1C5C2D] hover:bg-slate-200  ml-8'>Explore</button> */}
             </div>
 
             <div className='col-span-4 place-self-center lg:m-0 mt-4'>
