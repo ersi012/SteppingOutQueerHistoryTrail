@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Navbar from '../components/Navbar'
+// import Fir
 
 const FirstParishChurch = () => {
   return (
@@ -25,8 +26,10 @@ const FirstParishChurch = () => {
         </div>
       </div>
 
-      {/* Additional website information */}
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
+        <audio controls>
+            <source src="./audio/FirstParishChurch.mp3" type="audio/mpeg" />
+        </audio>
         <p className="text-lg text-gray-800">
           The First Parish Church in Portland was established in 1674. Its current building at 425 Congress Street dates to 1826 making it the oldest church structure in the city.
           <br/><br/>
