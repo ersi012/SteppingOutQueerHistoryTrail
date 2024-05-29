@@ -6,7 +6,6 @@ const FirstParishChurch = () => {
     <main >
     <Navbar />
     <div className="relative bg-white">
-      {/* Image Section */}
       <div className="relative h-screen overflow-hidden">
   <Image
     src="/images/sites/Drop/2 ICON Drop me a line sandwich board.jpg"
@@ -26,6 +25,9 @@ const FirstParishChurch = () => {
 
 
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
+      <audio controls>
+            <source src="./audio/Drop Me A Line Narrative Audio.mp3" type="audio/mpeg" />
+        </audio>
         <p className="text-lg text-gray-800">
             One of Portland&quot;s first openly gay-owned businesses was Drop Me A Line. While in operation, it occupied several locations on the first floor of the State Theater Building.  Primarily a card and gift shop, Drop Me a Line first opened on the High Street side of the building in 1990, and then moved around the corner to two locations on the Congress St. side.
         </p>

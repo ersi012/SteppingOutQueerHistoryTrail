@@ -25,6 +25,9 @@ const FirstParishChurch = () => {
      
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
         <h2 className="text-4xl font-bold text-center mb-10 text-[#E2D6AF]">The State Theatre </h2>
+        <audio controls>
+            <source src="./audio/State Theater.mp3" type="audio/mpeg" />
+        </audio>
         <p className="text-lg text-gray-800">
           The State Theatre is one of Portland&quot;s most iconic landmarks. While the bold marquee and eye-catching event posters are certainly striking, the building itself is full of stories. It also has a much deeper connection to the city&quot;s LGBTQ+ community than one might glimpse from the outside.
           <br/><br/>

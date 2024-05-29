@@ -7,7 +7,6 @@ const FirstParishChurch = () => {
     <main >
     <Navbar />
     <div className="relative bg-white">
-      {/* Image Section */}
       <div className="relative h-screen overflow-hidden">
         <Image
           src="/images/sites/FirstParishChurchImg/FirstParish1.jpg"

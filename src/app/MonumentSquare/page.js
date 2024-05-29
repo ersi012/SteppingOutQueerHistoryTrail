@@ -24,6 +24,9 @@ const FirstParishChurch = () => {
       </div>
     
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
+        <audio controls>
+            <source src="./audio/Monument Square -all sections together.mp3" type="audio/mpeg" />
+        </audio>
         <h2 className="text-4xl font-bold text-center mb-10 text-[#E2D6AF]">Introduction</h2>
         <p className="text-lg text-gray-800">
         Monument Square has long been an important community gathering spot in Portland. Surrounded by tall buildings, eateries, and the Portland Public Library, it has been an ideal location since the 19th century, for people looking to speak their minds, celebrate, or have a cool drink on a humid Maine summer day.

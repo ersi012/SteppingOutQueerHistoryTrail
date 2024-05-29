@@ -24,6 +24,9 @@ const FirstParishChurch = () => {
       </div>
 
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
+        <audio controls>
+            <source src="./audio/Our Books and Our Paper.mp3" type="audio/mpeg" />
+        </audio>
         <p className="text-lg text-gray-800">
         Our Books:
         Fred Berger opened a small gay bookstore, Our Books, in the Old Port section of Portland, ME in December of 1982; less than a year later, in September of 1983, he moved the bookstore to 4 Pine Street in the West End. As Berger observed (in his oral history interview), &quot;&quot;It wasn&apos;t much of a store, but it became a sort of gay community center.&quot;&quot; Skip Brushaber explained (in his 2018 oral history interview), &quot;&quot;Fred&apos;s book store had these comfortable chairs and people would stop in. It was definitely a community space where people met to talk about political things, civil rights.&quot;&quot;

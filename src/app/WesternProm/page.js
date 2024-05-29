@@ -23,8 +23,11 @@ const FirstParishChurch = () => {
         </div>
       </div>
 
-      {/* Additional website information */}
+  
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
+       <audio controls>
+            <source src="./audio/Western Prom redo.mp3" type="audio/mpeg" />
+        </audio>
         <p className="text-lg text-gray-800">
         Welcome to the Western Promenade in Portland. If you look beyond the stately old homes and the views of South Portland, by the statue of Thomas Brackett Reed, you may still see signs notifying you of fines associated with &quot;cruising.&quot;&quot;  For almost 30 years, these signs have greeted motorists and pedestrians, a policy the Portland City Council has suggested it may finally revisit in 2024.
         <br/><br/>
