@@ -74,7 +74,7 @@ const FirstParishChurch = () => {
             </div>
           </div>
           </div>
-         
+         {/* change quotations */}
           <p className="text-lg  text-gray-800 mt-12">       
             The bookstore also served as a meeting space for early queer organizing. According to Fred Berger, &quot;&quot;We had a lot of meetings there. The real impetus for me was when Charlie Howard, a gay man, was thrown off a bridge. The MLGPA  - Maine Lesbian Gay Political Alliance - was founded sort of as a result of that. We used the bookstore for early formative meetings.&quot;&quot;
             
