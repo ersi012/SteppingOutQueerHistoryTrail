@@ -25,7 +25,7 @@ const FirstParishChurch = () => {
 
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
         <audio controls>
-            <source src="./audio/Blackstones redo.mp3" type="audio/mpeg" />
+            <source src="./audio/BlackstonesFixedmixdown.wav" type="audio/mpeg" />
         </audio>
         <p className="text-lg text-gray-800">
         Blackstones is the only remaining explicitly queer bar left in Portland. This small neighborhood space first opened in 1987 during a golden age of gay bars in the city which included dance clubs like The Underground; a lesbian bar, Entre Nous; and Cycles. In its first year, Blackstones served as a gay piano bar and restaurant, complete with tablecloths, napkins, and full dinners. By the following year, it had turned into what we see today, a classic neighborhood bar with a pool table. In 1992, Ralph Cusack and his then-partner, Butch Fenton-Snell, purchased the bar and ran it for 27 years before handing it over to new management.
