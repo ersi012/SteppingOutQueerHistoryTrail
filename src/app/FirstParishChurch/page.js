@@ -32,7 +32,7 @@ const FirstParishChurch = () => {
         <p className="text-lg text-gray-800">
           The First Parish Church in Portland was established in 1674. Its current building at 425 Congress Street dates to 1826 making it the oldest church structure in the city.
           <br/><br/>
-          Unitarian Universalist churches like First Parish have a long tradition of preaching love, community, and compassion including for LGBTQ+ people. The Unitarian Universalist Church was one of the first religious groups in the US to formally support the rights of homosexuals. In 1970, the Church&quot;s international General Assembly passed a resolution opposing “intolerance against homosexuals and bisexuals.&quot;&quot;
+          Unitarian Universalist churches like First Parish have a long tradition of preaching love, community, and compassion including for LGBTQ+ people. The Unitarian Universalist Church was one of the first religious groups in the US to formally support the rights of homosexuals. In 1970, the Church&quot;s international General Assembly passed a resolution opposing “intolerance against homosexuals and bisexuals."
         </p>
       </div>
 
@@ -56,7 +56,7 @@ const FirstParishChurch = () => {
             objectPosition='center'
           />
          <div style={{ width: '300px', fontSize: '10px' }}>
-          <p>Discrimination against homosexuals and bisexuals&quot;&quot; in Summary of Actions taken at the Ninth Annual UUA General Assembly, June 29-July 4, 1970 Seattle, Washington. Pg 170-171. Harvard Square Library. https://www.harvardsquarelibrary.org/general-assembly-minutes/
+          <p>Discrimination against homosexuals and bisexuals" in Summary of Actions taken at the Ninth Annual UUA General Assembly, June 29-July 4, 1970 Seattle, Washington. Pg 170-171. Harvard Square Library. https://www.harvardsquarelibrary.org/general-assembly-minutes/
 </p>
         </div>
         </div>
@@ -68,10 +68,10 @@ const FirstParishChurch = () => {
           The local church played a role in the response to a brutal hate crime in Maine in the 1980s, when a 23-year-old gay man, Charlie Howard, was murdered two hours north of Portland in a homophobic attack.  On the night of July 7th, 1984, Howard and his boyfriend Roy Ogden were out at night in the city of Bangor where they lived.
           <br/><br/>
           Charlie was a vibrant, out-gay man, at a time and in a place where that was not only rare, but dangerous. Charlie and Roy were confronted by three teenage boys who shouted homophobic slurs and assaulted them. They eventually threw Charlie over the State Street Bridge - which the boys referred to as the "Chuckahomo Bridge" - ignoring his frantic pleas that he couldn&quot;t swim. Charlie drowned.<br/><br/>
-          Memorial services and gatherings were immediately organized by the gay community in the cities of Bangor, Portland, and Lewiston. In Portland, 450 people came together here at the First Parish Church. The evening&quot;s memorial began with a reading of a Bangor police department affidavit with details of the murder. Then, following a brief service by the UU&quot;s Rev. Richard Hasty, four prominent members of the queer community spoke. In the face of victim-blaming news stories about the murder with headlines like “Homosexuality Called Motive&quot;&quot; [for attack], one of the speakers, Dale McCormick reminded the crowd “Homosexuality is not a motive. Hatred and bigotry is.&quot;&quot;<br/><br/>
-          As those gathered in the church prepared to exit, they were informed that a group of Bible-wielding hecklers were gathered outside, including a man who explained &quot;I&quot;m trying to tell these people, it&quot;s wrong to be a fag.&quot;&quot;&quot;
+          Memorial services and gatherings were immediately organized by the gay community in the cities of Bangor, Portland, and Lewiston. In Portland, 450 people came together here at the First Parish Church. The evening&quot;s memorial began with a reading of a Bangor police department affidavit with details of the murder. Then, following a brief service by the UU&quot;s Rev. Richard Hasty, four prominent members of the queer community spoke. In the face of victim-blaming news stories about the murder with headlines like “Homosexuality Called Motive" [for attack], one of the speakers, Dale McCormick reminded the crowd “Homosexuality is not a motive. Hatred and bigotry is."<br/><br/>
+          As those gathered in the church prepared to exit, they were informed that a group of Bible-wielding hecklers were gathered outside, including a man who explained &quot;I&quot;m trying to tell these people, it&quot;s wrong to be a fag."&quot;
           <br/><br/>
-          As if in response, those assembled began marching down Congress Street, followed by the bigots, who, in turn, were tailed by the Portland Police Department. One participant, Fred Berger, reported that “as we realized our numbers, we became bolder, cheering, shouting, and singing.&quot;&quot; For many, that march represented Portland&quot;s first Pride.
+          As if in response, those assembled began marching down Congress Street, followed by the bigots, who, in turn, were tailed by the Portland Police Department. One participant, Fred Berger, reported that “as we realized our numbers, we became bolder, cheering, shouting, and singing." For many, that march represented Portland&quot;s first Pride.
           <br/><br/>
           The murder of Charlie Howard galvanized Maine&quot;s queer communities and would lead to the creation of some of the first state-wide gay and lesbian organizations. Portland&quot;s  First Parish Church continued to serve as a critical ally.
           <br/><br/>
@@ -154,7 +154,7 @@ const FirstParishChurch = () => {
           </div>
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">The church and civil rights struggles of the 1990s: </h2>
           <p className="text-lg  text-gray-800">
-          During the 1990s, the church continued to publicly support Maine&quot;s LGBTQ community at a time when civil rights laws were being challenged by religious conservatives organized as the Maine Christian Civic League. Just days before a 1998 referendum on whether to repeal basic civil rights for the gay community, the Rev. Frances Buckmaster of First Parish gave a sermon, “One Love,&quot;&quot; on the opportunity to “vote against hate and discrimination and for loving all our neighbors as ourselves.&quot;&quot;  Yet despite such outspoken allies, Maine voters, in the words of the New York Times, “chose to make their state the first in the nation to repeal its law protecting gay men and lesbians from discrimination.&quot;&quot; Another 7 years of struggle were then required to reclaim those rights in 2005.
+          During the 1990s, the church continued to publicly support Maine&quot;s LGBTQ community at a time when civil rights laws were being challenged by religious conservatives organized as the Maine Christian Civic League. Just days before a 1998 referendum on whether to repeal basic civil rights for the gay community, the Rev. Frances Buckmaster of First Parish gave a sermon, “One Love," on the opportunity to “vote against hate and discrimination and for loving all our neighbors as ourselves."  Yet despite such outspoken allies, Maine voters, in the words of the New York Times, “chose to make their state the first in the nation to repeal its law protecting gay men and lesbians from discrimination." Another 7 years of struggle were then required to reclaim those rights in 2005.
           </p>
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
           <p className="text-lg  text-gray-800">
