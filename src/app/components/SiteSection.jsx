@@ -7,7 +7,7 @@ const SiteSection = () => {
       id: 1,
       title: "First Parish Church",
       description: "425 Congress St.",
-      image: "./images/sites/1.jpg",
+      image: "./images/sites/1.AVIF",
       url: "/FirstParishChurch",
     },
     {
