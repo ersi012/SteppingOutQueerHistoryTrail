@@ -8,7 +8,7 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
       <div className="relative h-screen overflow-hidden">
   <Image
-    src="/images/sites/Drop/2 ICON Drop me a line sandwich board.jpg"
+    src="/images/sites/Drop/2-ICON-Drop-me-a-line-sandwich-board.webp"
     alt="First Parish Church"
     layout="fill"
     objectFit="cover"
@@ -40,7 +40,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Drop/1 The storefront of Drop Me A Line in Portland, Maine in 1990. By Roger Mayo.jpg"
+              src="/images/sites/Drop/1-The-storefront-of-Drop-Me-A-Line-in-Portland_-Maine-in-1990.-By-Roger-Mayo.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -62,7 +62,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{  marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Drop/3 yer twisted sign for the store within Drop me a line.jpg"
+              src="/images/sites/Drop/3-yer-twisted-sign-for-the-store-within-Drop-me-a-line.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -73,7 +73,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Drop/4 _Maine in Pink_ guide produced by Drop Me A Line and Our Paper, Spring 1991.png"
+              src="/images/sites/Drop/4-_Maine-in-Pink_-guide-produced-by-Drop-Me-A-Line-and-Our-Paper_-Spring-1991.webp"
               width={250}
               height={250}
               objectFit='cover'
@@ -85,7 +85,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Drop/5 Drop me a line staff ourside of the store. Community Pride Reporter July 1993.PNG"
+              src="/images/sites/Drop/5 Drop me a line staff ourside of the store. Community Pride Reporter July 1993.webp"
               width={350}
               height={350}
               objectFit='cover'
@@ -97,7 +97,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Drop/6 Roger Mayo and Jim Neal inside Drop Me A Line Community Pride Reporter July 1993 p 8.PNG"
+              src="/images/sites/Drop/6 Roger Mayo and Jim Neal inside Drop Me A Line Community Pride Reporter July 1993 p 8.webp"
               width={350}
               height={350}
               objectFit='cover'
@@ -109,7 +109,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Drop/7 Jim Neal with transgender actress Lady Chablis at a book signing at Drop Me A Line in 1997.jpg"
+              src="/images/sites/Drop/7 Jim Neal with transgender actress Lady Chablis at a book signing at Drop Me A Line in 1997.webp"
               width={300}
               height={300}
               objectFit='cover'
