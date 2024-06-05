@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import SiteSection from './components/SiteSection'
 import About from './components/About'
 import Donate from './components/Donate'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
         <section id="donate">
           <Donate/>
         </section>
+        <SpeedInsights />
       </div>
     </main>
   )
