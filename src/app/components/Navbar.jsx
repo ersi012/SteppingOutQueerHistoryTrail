@@ -8,15 +8,15 @@ import MenuOverlay from "./MenuOverlay";
 const navLinks = [
   {
     title: "Sites",
-    path: "#sites",
+    path: "/#sites", //the / is needed to take the user to a new path page
   },
   {
     title: "About",
-    path: "#about",
+    path: "/#about",
   },
   {
     title: "Donate",
-    path: "#donate",
+    path: "/#donate",
   },
 ];
 

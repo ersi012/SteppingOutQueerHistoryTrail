@@ -1,6 +1,9 @@
 import Image from 'next/image';
 import Navbar from '../components/Navbar'
-// import Fir
+import Header from '../components/Header'
+import SiteSection from '../components/SiteSection'
+import About from '../components/About'
+import Donate from '../components/Donate'
 
 const FirstParishChurch = () => {
   return (
