@@ -28,7 +28,7 @@ const FirstParishChurch = () => {
         <audio controls>
             <source src="./audio/StateTheaterFixed_mixdown.wav" type="audio/mpeg" />
         </audio>
-        <p className="text-lg text-gray-800 ">
+        <p className="text-lg text-gray-800 sm:px-6  ">
           The State Theatre is one of Portland&quot;s most iconic landmarks. While the bold marquee and eye-catching event posters are certainly striking, the building itself is full of stories. It also has a much deeper connection to the city&quot;s LGBTQ+ community than one might glimpse from the outside.
           <br/><br/>
         The State Theatre first opened its doors in November 1929. theater-goers were delighted by the ornate gold carvings, sumptuous velvet drapery, and murals that adorned the lobby and auditorium of the Herbert W. Rhodes-designed building. In the beginning, the State Theatre was a multi-function venue that hosted movies, music, and theatrical performances. For the first few decades of the 20th century, the State Theatre welcomed folks of all ages. Sadly, The State Theatre saw a sharp decline in popularity throughout the 1960&quot;s due largely to the growing popularity of television.
