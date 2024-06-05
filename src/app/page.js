@@ -7,20 +7,20 @@ import Donate from './components/Donate'
 
 export default function Home() {
   return (
-    <main className="flex flex-col min-h-screen container">
+    <div className="flex flex-col min-h-screen">
       <Navbar />
-      <div>
+      <div className="flex flex-col flex-1">
         <Header />
-        <section id="sites">
+        <section id="sites" className="flex flex-1">
           <SiteSection/>
         </section>
-        <section id="about">
+        <section id="about" className="flex flex-1">
           <About/>
         </section>
-        <section id="donate">
+        <section id="donate" className="flex flex-1">
           <Donate/>
         </section>
       </div>
-    </main>
+    </div>
   )
 }
