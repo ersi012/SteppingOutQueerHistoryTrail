@@ -33,7 +33,7 @@ const FirstParishChurch = () => {
             <source src="./audio/FirstParishChurchFixed_mixdown.wav" type="audio/mpeg" />
         </audio>
         <p className="text-lg text-gray-800">
-          The First Parish Church in Portland was established in 1674. Its current building at 425 Congress Street dates to 1826 making it the oldest church structure in the city.
+          The First Parish Church in Portland was established in 1674. Its current building at 425 Congress Street dates to 1825 making it the oldest church structure in the city.
           <br/><br/>
           Unitarian Universalist churches like First Parish have a long tradition of preaching love, community, and compassion including for LGBTQ+ people. The Unitarian Universalist Church was one of the first religious groups in the US to formally support the rights of homosexuals. In 1970, the Church&quot;s international General Assembly passed a resolution opposing “intolerance against homosexuals and bisexuals."
         </p>
