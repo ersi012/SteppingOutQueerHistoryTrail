@@ -14,6 +14,7 @@ const FirstParishChurch = () => {
     objectFit="cover"
     objectPosition="top"
     className="z-0"
+    loading="eager"
   />
   <div className="absolute inset-x-0 bottom-0 flex flex-col items-center text-center text-white p-6">
     <div className="bg-white bg-opacity-75 p-4 rounded">
