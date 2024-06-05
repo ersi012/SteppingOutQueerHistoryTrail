@@ -2,7 +2,7 @@ import React from 'react';
 import Image from 'next/image';
 const AboutSection = () => {
   return (
-    <div className="bg-white w-screen flex justify-center items-center">
+    <div className="bg-white w-screen min-h-screen px-20 py-20 flex justify-center items-center">
       <div className="max-w-7xl px-5 sm:px-6 lg:px-8">
         <h2 className="text-6xl font-bold text-center mb-20 mt-20 text-[#E2D6AF]">About</h2>
         <div className="flex flex-col md:flex-row items-center mt-5 md:mt-0 md:-mx-4">
