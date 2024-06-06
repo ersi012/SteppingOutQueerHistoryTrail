@@ -25,7 +25,7 @@ const FirstParishChurch = () => {
 
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
         <audio controls>
-            <source src="./audio/OurBooksAndOurPaperFixed_mixdown.wav" type="audio/mpeg" />
+            <source src="./audio/OurBooksAndPaperV2_mixdown.mp3" type="audio/mpeg" />
         </audio>
         <p className="text-lg text-gray-800">
         Our Books:
