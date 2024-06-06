@@ -8,7 +8,7 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="./images/sites/Black/1. ICON PIC blackstones advert Pride Reporter July 2000 pg 12.PNG"
+          src="./images/sites/Black/1. ICON PIC blackstones advert Pride Reporter July 2000 pg 12.webp"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -38,7 +38,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/Black/1. ICON PIC blackstones advert Pride Reporter July 2000 pg 12.PNG"
+              src="./images/sites/Black/1. ICON PIC blackstones advert Pride Reporter July 2000 pg 12.webp"
               width={200}
               height={200}
               objectFit='cover'
@@ -49,7 +49,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/Black/2. Blackstones hosts 1994 fundraister article  Annette Dragon Apex nov 1994 p8.PNG"
+              src="./images/sites/Black/2. Blackstones hosts 1994 fundraister article  Annette Dragon Apex nov 1994 p8.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -60,7 +60,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/Black/3. Blackstones ad Our Paper Aug 1988 p3.PNG"
+              src="./images/sites/Black/3. Blackstones ad Our Paper Aug 1988 p3.webp"
               width={250}
               height={300}
               objectFit='cover'
@@ -73,7 +73,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/Black/4. Blackstones Portlands Newest Piano Bar ad Our Paper December 1987 p20.PNG"
+              src="./images/sites/Black/4. Blackstones Portlands Newest Piano Bar ad Our Paper December 1987 p20.webp"
               width={250}
               height={250}
               objectFit='cover'
@@ -85,7 +85,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/Black/5. Blackstones ad Our Paper May 1988 p11.PNG"
+              src="./images/sites/Black/5. Blackstones ad Our Paper May 1988 p11.webp"
               width={250}
               height={250}
               objectFit='cover'
@@ -97,7 +97,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/Black/6. Which witch is which Blackstones ad Community Pride Reporter Nov 1995 p 3.PNG"
+              src="./images/sites/Black/6. Which witch is which Blackstones ad Community Pride Reporter Nov 1995 p 3.webp"
               width={350}
               height={350}
               objectFit='cover'
@@ -109,7 +109,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/Black/7. Celebrity bar tending Blackstones media calander Maine Lesbian Gay Political alliance newsletter March 1996 p4.PNG"
+              src="./images/sites/Black/7. Celebrity bar tending Blackstones media calander Maine Lesbian Gay Political alliance newsletter March 1996 p4.webp"
               width={350}
               height={350}
               objectFit='cover'
@@ -121,7 +121,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/Black/8.PNG"
+              src="./images/sites/Black/8 (1).webp"
               width={350}
               height={350}
               objectFit='cover'
@@ -133,7 +133,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/Black/9. Carl Currie photo of Blackstones broken window.jpg"
+              src="./images/sites/Black/9. Carl Currie photo of Blackstones broken window.webp"
               width={350}
               height={350}
               objectFit='cover'
