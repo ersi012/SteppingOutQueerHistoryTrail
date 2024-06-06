@@ -12,7 +12,7 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="/images/sites/FirstParishChurchImg/FirstParish1.jpg"
+          src="/images/sites/FirstParishChurchImg/FirstParish1.webp"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -42,7 +42,7 @@ const FirstParishChurch = () => {
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
         <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
           <Image
-            src="/images/sites/FirstParishChurchImg/FirstParish1.jpg"
+            src="/images/sites/FirstParishChurchImg/FirstParish1.webp"
             width={300}
             height={300}
             objectPosition='center'
@@ -53,7 +53,7 @@ const FirstParishChurch = () => {
         </div>
         <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
           <Image
-            src="/images/sites/FirstParishChurchImg/2.UUC1970Gen.Assemblymintesp170&171HarvardSquareLibrary.png"
+            src="/images/sites/FirstParishChurchImg/2.UUC1970Gen.Assemblymintesp170&171HarvardSquareLibrary_11zon.webp"
             width={250}
             height={300}
             objectPosition='center'
@@ -85,7 +85,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/FirstParishChurchImg/3. Charlie howard memorial Our Paper Aug 1984 p1.PNG"
+              src="/images/sites/FirstParishChurchImg/3. Charlie howard memorial Our Paper Aug 1984 p1.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -96,7 +96,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/FirstParishChurchImg/4. Dale McCormick speaking at CH memorial in 1st Parish Our Paper Aug 1984 p4.PNG"
+              src="/images/sites/FirstParishChurchImg/4. Dale McCormick speaking at CH memorial in 1st Parish Our Paper Aug 1984 p4.webp"
               width={250}
               height={300}
               objectFit='cover'
@@ -107,7 +107,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/FirstParishChurchImg/5. AIDS & the responsible pulpit a sermon by rev richard hasty Our Paper Aug 1987 p7.PNG"
+              src="/images/sites/FirstParishChurchImg/5. AIDS & the responsible pulpit a sermon by rev richard hasty Our Paper Aug 1987 p7.webp"
               width={250}
               height={300}
               objectFit='cover'
@@ -120,7 +120,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/FirstParishChurchImg/6. Gay mens support group Our Paper Sept 1985 p4.PNG"
+              src="/images/sites/FirstParishChurchImg/6. Gay mens support group Our Paper Sept 1985 p4.webp"
               width={300}
               height={350}
               objectFit='cover'
@@ -132,7 +132,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/FirstParishChurchImg/7. first parish al anon meeting Our Paper Oct 1983 pg 12.PNG"
+              src="/images/sites/FirstParishChurchImg/7. first parish al anon meeting Our Paper Oct 1983 pg 12.webp"
               width={350}
               height={350}
               objectFit='cover'
@@ -144,7 +144,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/FirstParishChurchImg/8. Romanovski & Phillips to appear in Porland & Bangor Our Paper Dec 1983 p1.PNG"
+              src="/images/sites/FirstParishChurchImg/8. Romanovski & Phillips to appear in Porland & Bangor Our Paper Dec 1983 p1.webp"
               width={350}
               height={350}
               objectFit='cover'

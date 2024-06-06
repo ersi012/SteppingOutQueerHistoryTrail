@@ -9,7 +9,7 @@ const FirstParishChurch = () => {
       {/* Image Section */}
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="/images/sites/EE/13 Exterior of the Equality Community Center at 15 Casco St. Portland, Maine by Megan MacGregor,  CC BY 4.0 http___creativecommons.org_licenses_by_4.0.jpg"
+          src="/images/sites/EE/13 Exterior of the Equality Community Center at 15 Casco St. Portland, Maine by Megan MacGregor,  CC BY 4.0 http___creativecommons.org_licenses_by_4.0_11zon.webp"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -47,7 +47,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/1 MLGPA Stein-Vine Nov 1984 pg 1.PNG"
+              src="/images/sites/EE/1 MLGPA Stein-Vine Nov 1984 pg 1.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -58,7 +58,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/2 MLGPA at first portand pride PPL Sp Coll and archives1987 TL 06_07 33.JPG"
+              src="/images/sites/EE/2 MLGPA at first portand pride PPL Sp Coll and archives1987 TL 06_07 33_11zon.jpg"
               width={300}
               height={300}
               objectFit='cover'
@@ -69,7 +69,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/3 MLGPA at 1987 Nat march on Wash DC One potato two potato Oct 1987 p1.PNG"
+              src="/images/sites/EE/3 MLGPA at 1987 Nat march on Wash DC One potato two potato Oct 1987 p1.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -82,7 +82,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/4 Baldacci LD 1196 Equality News Summer 2005 p1.PNG"
+              src="/images/sites/EE/4 Baldacci LD 1196 Equality News Summer 2005 p1.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -109,7 +109,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/5 Concert ad Apex Dec 1992 p6.PNG"
+              src="/images/sites/EE/5 Concert ad Apex Dec 1992 p6.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -120,7 +120,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/6 Freedom Train ad Community Pride Reporter June 1994 p2.PNG"
+              src="/images/sites/EE/6 Freedom Train ad Community Pride Reporter June 1994 p2.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -131,7 +131,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/7 concert ad LA AIDS coalition of LA update nov 1997 p2.PNG"
+              src="/images/sites/EE/7 concert ad LA AIDS coalition of LA update nov 1997 p2.webp"
               width={250}
               height={250}
               objectFit='cover'
@@ -143,7 +143,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/8. Maine Gay Men's Chorus backstage by Robert Diamante.jpeg"
+              src="/images/sites/EE/8. Maine Gay Men's Chorus backstage by Robert Diamante_11zon.webp"
               width={350}
               height={350}
               objectFit='cover'
@@ -172,7 +172,7 @@ const FirstParishChurch = () => {
           <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/9 Tiffany club membership listings.PNG"
+              src="/images/sites/EE/9 Tiffany club membership listings.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -183,7 +183,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/10 Je Me Soouviens Vermette biography.PNG"
+              src="/images/sites/EE/10 Je Me Soouviens Vermette biography.webp"
               width={200}
               height={200}
               objectFit='cover'
@@ -194,7 +194,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/11 Sex-Sexual Orientation-Gender Identity blocks .jpg"
+              src="/images/sites/EE/11 Sex-Sexual Orientation-Gender Identity blocks .webp"
               width={250}
               height={250}
               objectFit='cover'
@@ -218,7 +218,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/EE/13 Exterior of the Equality Community Center at 15 Casco St. Portland, Maine by Megan MacGregor,  CC BY 4.0 http___creativecommons.org_licenses_by_4.0.jpg"
+              src="/images/sites/EE/13 Exterior of the Equality Community Center at 15 Casco St. Portland, Maine by Megan MacGregor,  CC BY 4.0 http___creativecommons.org_licenses_by_4.0_11zon.webp"
               width={350}
               height={350}
               objectFit='cover'
