@@ -19,7 +19,7 @@ const Header = () => {
             <div className='rounded-full bg-[#E2D6AF] w-[400px] h-[400px] relative overflow-hidden flex items-center justify-center'>
                 <div className='rounded-full w-[350px] h-[350px] overflow-hidden'>
                 <Image
-                    src='./images/header.webp'
+                    src='./images/sites/header.webp'
                     className="w-full h-full rounded-full"
                     alt="Two people sitting in a car reaching back holding on to a rainbow flag"
                     width={350}
