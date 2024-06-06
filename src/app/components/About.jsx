@@ -7,7 +7,7 @@ const AboutSection = () => {
         <h2 className="text-6xl font-bold text-center mb-20 mt-20 text-[#E2D6AF]">About</h2>
         <div className="flex flex-col md:flex-row items-center mt-5 md:mt-0 md:-mx-4">
           <div className="w-full md:w-1/2 md:px-4 flex justify-center">
-          <Image className="w-full md:w-full lg:w-5/6 xl:w-11/12 rounded-lg shadow-lg" src="./images/sites/9.jpg" alt="About" />
+          <Image className="w-full md:w-full lg:w-5/6 xl:w-11/12 rounded-lg shadow-lg" src="./images/sites/9.webp" alt="About" />
 
           </div>
           <div className="w-full md:w-1/2 mt-5 md:mt-0 md:px-4">
