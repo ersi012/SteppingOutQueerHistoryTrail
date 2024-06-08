@@ -8,7 +8,7 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="./images/sites/OurBook/2. ICON PIC Our Books ad Our Paper Jan 1983p3.PNG"
+          src="./images/sites/OurBook/2. ICON PIC Our Books ad Our Paper Jan 1983p3_11zon.webp"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -39,7 +39,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/OurBook/1. John Preston book signing Our Books Our Paper Nov 1983 p8.PNG"
+              src="./images/sites/OurBook/1. John Preston book signing Our Books Our Paper Nov 1983 p8_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -50,7 +50,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/OurBook/thumbnail.jpg"
+              src="./images/sites/OurBook/thumbnail.webp"
               width={200}
               height={200}
               objectFit='cover'
@@ -61,7 +61,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/OurBook/3. Our Books ad Our Paper Aug 1984 p 4.PNG"
+              src="./images/sites/OurBook/3. Our Books ad Our Paper Aug 1984 p 4_11zon.webp"
               width={250}
               height={300}
               objectFit='cover'
@@ -74,7 +74,6 @@ const FirstParishChurch = () => {
             </div>
           </div>
           </div>
-         {/* change quotations */}
           <p className="text-lg  text-gray-800 mt-12">       
             The bookstore also served as a meeting space for early queer organizing. According to Fred Berger,"We had a lot of meetings there. The real impetus for me was when Charlie Howard, a gay man, was thrown off a bridge. The MLGPA  - Maine Lesbian Gay Political Alliance - was founded sort of as a result of that. We used the bookstore for early formative meetings."
             
@@ -88,7 +87,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/OurBook/4. Our paper staff meeting ad Our paper Oct 1983 pg 12.PNG"
+              src="./images/sites/OurBook/4. Our paper staff meeting ad Our paper Oct 1983 pg 12.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -99,7 +98,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/OurBook/5. Our Paper banner Our Paper April 1983.PNG"
+              src="./images/sites/OurBook/5. Our Paper banner Our Paper April 1983_11zon.webp"
               width={200}
               height={200}
               objectFit='cover'
@@ -112,7 +111,7 @@ https://digitalcommons.usm.maine.edu/our_paper_sac/87/
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/OurBook/6. Our paper annual meeting Our Paper January 1986 p2.PNG"
+              src="./images/sites/OurBook/6. Our paper annual meeting Our Paper January 1986 p2_11zon.webp"
               width={250}
               height={300}
               objectFit='cover'
@@ -126,7 +125,7 @@ https://digitalcommons.usm.maine.edu/our_paper_sac/69/
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/OurBook/7. Our Paper marching in Boston Pride Our Paper July 1985 p1.PNG"
+              src="./images/sites/OurBook/7. Our Paper marching in Boston Pride Our Paper July 1985 p1_11zon.webp"
               width={250}
               height={300}
               objectFit='cover'
@@ -140,7 +139,7 @@ https://digitalcommons.usm.maine.edu/our_paper_sac/75/
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="./images/sites/OurBook/8. hate crimes Our Paper July 1992.png"
+              src="./images/sites/OurBook/8. hate crimes Our Paper July 1992_11zon.webp"
               width={250}
               height={300}
               objectFit='cover'

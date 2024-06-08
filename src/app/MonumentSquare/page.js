@@ -8,7 +8,7 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="/images/sites/MonumentSquare/12 ICON PICRiver of Pride Flag Steven Bridges 2016.JPG"
+          src="/images/sites/MonumentSquare/12 ICON PICRiver of Pride Flag Steven Bridges 2016_11zon.webp"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -42,7 +42,7 @@ const FirstParishChurch = () => {
       <div style={{ display: 'flex', overflowX: 'auto', padding: '10px'}}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/1 members of FATE ADragon.png"
+              src="/images/sites/MonumentSquare/1 members of FATE ADragon_11zon_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -54,7 +54,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/2 people playing ADragon.png"
+              src="/images/sites/MonumentSquare/2 people playing ADragon_11zon_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -66,7 +66,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/3 WChapkis ADragon.png"
+              src="/images/sites/MonumentSquare/3 WChapkis ADragon_11zon_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -79,7 +79,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/4 Students from Biddeford.png"
+              src="/images/sites/MonumentSquare/4 Students from Biddeford_11zon_11zon.webp"
               width={300}
               height={350}
               objectFit='cover'
@@ -109,7 +109,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/5 Outright marches ADragon.png"
+              src="/images/sites/MonumentSquare/5 Outright marches ADragon_11zon (1)_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -121,7 +121,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/6 Maine Rural Network ADragon.png"
+              src="/images/sites/MonumentSquare/6 Maine Rural Network ADragon_11zon_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -133,7 +133,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/7 South Portland citz A Dragon.png"
+              src="/images/sites/MonumentSquare/7 South Portland citz A Dragon_11zon_11zon.webp"
               width={350}
               height={400}
               objectFit='cover'
@@ -147,7 +147,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/8 Dyke March group photo Steven Bridges 2014.JPG"
+              src="/images/sites/MonumentSquare/8 Dyke March group photo Steven Bridges 2014_11zon_11zon.webp"
               width={300}
               height={350}
               objectFit='cover'
@@ -158,7 +158,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/9 Dykes on Bikes Portland Steven Bridges 2015.JPG"
+              src="/images/sites/MonumentSquare/9 Dykes on Bikes Portland Steven Bridges 2015_11zon_11zon.webp"
               width={350}
               height={350}
               objectFit='cover'
@@ -169,7 +169,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/10 Marchers in the Portland Dyke March Steven Bridges 2023.jpg"
+              src="/images/sites/MonumentSquare/10 Marchers in the Portland Dyke March Steven Bridges 2023_11zon (1).webp"
               width={350}
               height={350}
               objectFit='cover'
@@ -180,7 +180,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '40px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/11 WJo Moser Pride.jpg"
+              src="/images/sites/MonumentSquare/11 WJo Moser Pride_11zon.webp"
               width={400}
               height={400}
               objectFit='cover'
@@ -191,7 +191,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/12 ICON PICRiver of Pride Flag Steven Bridges 2016.JPG"
+              src="/images/sites/MonumentSquare/12 ICON PICRiver of Pride Flag Steven Bridges 2016_11zon.webp"
               width={250}
               height={250}
               objectFit='cover'
@@ -202,7 +202,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/MonumentSquare/13 Marchers carrying the flags PPL Sp Coll & archives1987 TL 06_07 11(1).JPG"
+              src="/images/sites/MonumentSquare/13 Marchers carrying the flags PPL Sp Coll & archives1987 TL 06_07 11(1)_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
