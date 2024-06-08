@@ -8,7 +8,7 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
        <div className="relative h-screen overflow-hidden">
         <Image
-          src="/images/sites/Western/1 ICON PIC No cruising.jpg"
+          src="/images/sites/Western/1 ICON PIC No cruising.webp"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -45,7 +45,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Western/1 ICON PIC No cruising.jpg"
+              src="/images/sites/Western/1 ICON PIC No cruising.webp"
               width={200}
               height={200}
               objectFit='cover'
@@ -56,7 +56,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Western/2 Lesbian Sex Mafia Membership Card, Private Collection.jpeg"
+              src="/images/sites/Western/2 Lesbian Sex Mafia Membership Card, Private Collection.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -67,7 +67,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Western/3 Public Sex is Good Sex Portland Pride June 1998.jpeg"
+              src="/images/sites/Western/3 Public Sex is Good Sex Portland Pride June 1998.webp"
               width={250}
               height={300}
               objectFit='cover'
@@ -78,7 +78,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Western/4 Fine Arts Cinema 1988 PPH negatives.png"
+              src="/images/sites/Western/4 Fine Arts Cinema 1988 PPH negatives_11zon_11zon.webp"
               width={250}
               height={250}
               objectFit='cover'
@@ -89,7 +89,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/Western/5 MaverickAshley L on Jun 21 2022Treasure Chest yelp.jpg"
+              src="/images/sites/Western/5 MaverickAshley L on Jun 21 2022Treasure Chest yelp.webp"
               width={250}
               height={250}
               objectFit='cover'

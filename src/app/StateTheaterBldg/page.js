@@ -8,7 +8,7 @@ const FirstParishChurch = () => {
     <div className="relative bg-white">
       <div className="relative h-screen overflow-hidden">
         <Image
-          src="/images/sites/State/2 ACT UP portland May 1993 A Dragon.png"
+          src="/images/header.webp"
           alt="First Parish Church"
           layout="fill"
           objectFit="cover"
@@ -45,7 +45,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/1 State theater Feb 1979 Portland Maine History 1786 to present FB post may 16 2012.jpg"
+              src="/images/sites/State/1 State theater Feb 1979 Portland Maine History 1786 to present FB post may 16 2012_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -56,7 +56,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/6 theater of State Theater bld ca 1930 from Maine Hist Society 12902.jpg"
+              src="/images/sites/State/6 theater of State Theater bld ca 1930 from Maine Hist Society 12902_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -67,7 +67,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{  marginRight: '20px',textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/7 Hallway of State theater blg ca 1930 from Maine Hist Society.jpg"
+              src="/images/sites/State/7 Hallway of State theater blg ca 1930 from Maine Hist Society_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -88,7 +88,7 @@ const FirstParishChurch = () => {
         <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/2 ACT UP portland May 1993 A Dragon.png"
+              src="/images/header.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -99,7 +99,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/3 ACT UP Protest Univ healthcare June 1993 A Dragon (1).png"
+              src="/images/sites/State/3 ACT UP Protest Univ healthcare June 1993 A Dragon (1)_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
@@ -110,7 +110,7 @@ const FirstParishChurch = () => {
           </div>
           <div style={{  marginRight: '20px',textAlign: 'center', color: 'black' }}>
             <Image
-              src="/images/sites/State/4 Protesters and signs May 6 1993 ADragon.png"
+              src="/images/sites/State/4 Protesters and signs May 6 1993 ADragon_11zon.webp"
               width={300}
               height={300}
               objectFit='cover'
