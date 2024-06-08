@@ -31,7 +31,7 @@ const FirstParishChurch = () => {
         <p className="text-lg text-gray-800">
         Monument Square has long been an important community gathering spot in Portland. Surrounded by tall buildings, eateries, and the Portland Public Library, it has been an ideal location since the 19th century, for people looking to speak their minds, celebrate, or have a cool drink on a humid Maine summer day.
                 <br/><br/>
-        In 1825, Portland's Market House was erected here, giving this location its original name of"Market Square." The building went on to serve many functions over the next 63 years, even acting as City Hall after the Great Fire of 1866. The Market House was eventually leveled in 1887 to make way for the monument that currently stands on this site. This is why the location is now called "Monument Square". 
+        In 1825, Portland's Market House was erected here, giving this location its original name of "Market Square." The building went on to serve many functions over the next 63 years, even acting as City Hall after the Great Fire of 1866. The Market House was eventually leveled in 1887 to make way for the monument that currently stands on this site. This is why the location is now called "Monument Square". 
 
         </p>
         <h2 className="text-4xl font-bold text-center mb-10  mt-10 text-[#E2D6AF]">Protests and Demonstrations</h2>
@@ -246,44 +246,41 @@ const FirstParishChurch = () => {
 
             Associated Press, “Gay Rights March Gets Taunts, Curses," June 8, 1987. Portland Evening Express: pg. 3
             <br/><br/>
-            Balboni, Luke, “STONEWALL 25 / PORTLAND PRIDE", "Community Pride Reporter, 03/1994" (1994). Community Pride Reporter (1993-1999). page 7.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  https://digitalcommons.usm.maine.edu/cpr/57 
+            Balboni, Luke, “STONEWALL 25 / PORTLAND PRIDE", "Community Pride Reporter, 03/1994" (1994). Community Pride Reporter (1993-1999). page 7.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/cpr/57 "  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/cpr/57</a>  
             <br/><br/>
-            Butler, Ian, "O'Connor, Christopher" W(2021). Querying the Past: LGBTQ Maine Oral History Project Collection. 75. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  https://digitalcommons.usm.maine.edu/querying_ohproject/75
+            Butler, Ian, "O'Connor, Christopher" W(2021). Querying the Past: LGBTQ Maine Oral History Project Collection. 75. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/75"  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/querying_ohproject/75</a>  
             <br/><br/>
-            Elze, Diane. “Planning begins for Symposium, Pride Day" January 1987, Our Paper 01/1987 (1987). Our Paper: Serving the Alternative Community. 56. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/56,
+            Elze, Diane. “Planning begins for Symposium, Pride Day" January 1987, Our Paper 01/1987 (1987). Our Paper: Serving the Alternative Community. 56. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/56"  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/our_paper_sac/56, </a>
             <br/><br/>
-            Gibson, Beth, "Griffith, Kirsten" (2019). Querying the Past: LGBTQ Maine Oral History Project Collection. 60. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  https://digitalcommons.usm.maine.edu/querying_ohproject/60
+            Gibson, Beth, "Griffith, Kirsten" (2019). Querying the Past: LGBTQ Maine Oral History Project Collection. 60. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/querying_ohproject/60"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/60</a> 
             <br/><br/>
-            Gilbert, Rachel, "Barkley Roy, Jill" (2023). Querying the Past: LGBTQ Maine Oral History Project Collection. 109. https://digitalcommons.usm.maine.edu/querying_ohproject/109
+            Gilbert, Rachel, "Barkley Roy, Jill" (2023). Querying the Past: LGBTQ Maine Oral History Project Collection. 109. <a href="https://digitalcommons.usm.maine.edu/querying_ohproject/109"  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/querying_ohproject/109</a> 
             <br/><br/>
-            Kesich, Greg, “He heard it from those who heard it from those who were there," April 13, 2011. Portland Press Herald. https://www.pressherald.com/2011/04/13/he-heard-it-from-those-who-heard-it-from-those-who-were-there_2011-04-13/
+            Kesich, Greg, “He heard it from those who heard it from those who were there," April 13, 2011. Portland Press Herald. <a href=" https://www.pressherald.com/2011/04/13/he-heard-it-from-those-who-heard-it-from-those-who-were-there_2011-04-13/"  style={{ textDecoration: 'underline' }}> https://www.pressherald.com/2011/04/13/he-heard-it-from-those-who-heard-it-from-those-who-were-there_2011-04-13/</a>
             <br/><br/>
-            Northern Lambda Nord, "Northern Lambda Nord Communique, Vol.5, No.7 (August/September 1984)" (1984). Northern Lambda Nord Communique. 116. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/nln_communique/116
+            Northern Lambda Nord, "Northern Lambda Nord Communique, Vol.5, No.7 (August/September 1984)" (1984). Northern Lambda Nord Communique. 116. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/nln_communique/116 "  style={{ textDecoration: 'underline' }}>  https://digitalcommons.usm.maine.edu/nln_communique/116 </a>
             <br/><br/>
-            Oral History with Skip Brushaber: Barrett, Jack and Pratt, Branden, "Brushaber, Skip" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 33. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/querying_ohproject/33
-
+            Oral History with Skip Brushaber: Barrett, Jack and Pratt, Branden, "Brushaber, Skip" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 33. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/33"  style={{ textDecoration: 'underline' }}>  
+            https://digitalcommons.usm.maine.edu/querying_ohproject/33 </a>
             <br/><br/>
-            Our Paper 08/1984. Our Paper: Serving the Alternative Community. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/our_paper_sac/111
+            Our Paper 08/1984. Our Paper: Serving the Alternative Community. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/111"  style={{ textDecoration: 'underline' }}>  
+            https://digitalcommons.usm.maine.edu/our_paper_sac/111</a>
             <br/><br/>
             Perron, Anne, information on Dykes on Bikes: personal correspondence with Wendy Chapkis, October 4, 2023.
             <br/><br/>
-            “Portland Pride '87, June 5-6, 1987" Our Paper 06/1987 (1987). Our Paper: Serving the Alternative Community. 51. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/our_paper_sac/51,
+            “Portland Pride '87, June 5-6, 1987" Our Paper 06/1987 (1987). Our Paper: Serving the Alternative Community. 51. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/51"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/51</a>
             <br/><br/>
-            Rossetti,  Michael, “Portland Pride #3" Our Paper 03/1989 (1989). Our Paper: Serving the Alternative Community. 32., page 3. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/our_paper_sac/32
+            Rossetti,  Michael, “Portland Pride #3" Our Paper 03/1989 (1989). Our Paper: Serving the Alternative Community. 32., page 3. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/32"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/32</a>
             <br/><br/>
-            Rossetti, Michael, Letters, "Our Paper 09/1990" (1990). Our Paper: Serving the Alternative Community. 15. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/15, page 2
+            Rossetti, Michael, Letters, "Our Paper 09/1990" (1990). Our Paper: Serving the Alternative Community. 15. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/15"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/15</a> page 2
             <br/><br/>
             Rossetti, Michael, “Letters to Our Paper & An Open Letter to the Community," "Our Paper 03/1992" (1992). Our Paper: Serving the Alternative Community. 106., page 3. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/our_paper_sac/106
+            <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/15"  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/our_paper_sac/106</a>
             <br/><br/>
-            Rossetti, Michael, “Letters: Dear Apex Readers." "Apex : A Point of Departure, Vol.1, No.04 (May 1992)" (1992). APEX. 4. https://digitalcommons.usm.maine.edu/apex/4 page 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
+            Rossetti, Michael, “Letters: Dear Apex Readers." "Apex : A Point of Departure, Vol.1, No.04 (May 1992)" (1992). APEX. 4.  <a href="https://digitalcommons.usm.maine.edu/apex/4"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/apex/4 </a>page 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
             <br/><br/>
-            Smith, T.  “Portland Pride Day, June 6, 1987" by T. Smith, Our Paper, "Our Paper 07/1987" (1987). Our Paper: Serving the Alternative Community. 50. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/our_paper_sac/50, page 5
+            Smith, T.  “Portland Pride Day, June 6, 1987" by T. Smith, Our Paper, "Our Paper 07/1987" (1987). Our Paper: Serving the Alternative Community. 50. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/50"  style={{ textDecoration: 'underline' }}>https
+            https://digitalcommons.usm.maine.edu/our_paper_sac/50, page 5 </a>
 
 
           </p>

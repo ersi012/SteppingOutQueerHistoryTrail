@@ -72,7 +72,7 @@ const FirstParishChurch = () => {
           <br/><br/>
           Charlie was a vibrant, out-gay man, at a time and in a place where that was not only rare, but dangerous. Charlie and Roy were confronted by three teenage boys who shouted homophobic slurs and assaulted them. They eventually threw Charlie over the State Street Bridge - which the boys referred to as the "Chuckahomo Bridge" - ignoring his frantic pleas that he couldn't swim. Charlie drowned.<br/><br/>
           Memorial services and gatherings were immediately organized by the gay community in the cities of Bangor, Portland, and Lewiston. In Portland, 450 people came together here at the First Parish Church. The evening's memorial began with a reading of a Bangor police department affidavit with details of the murder. Then, following a brief service by the UU's Rev. Richard Hasty, four prominent members of the queer community spoke. In the face of victim-blaming news stories about the murder with headlines like “Homosexuality Called Motive" [for attack], one of the speakers, Dale McCormick reminded the crowd “Homosexuality is not a motive. Hatred and bigotry is."<br/><br/>
-          As those gathered in the church prepared to exit, they were informed that a group of Bible-wielding hecklers were gathered outside, including a man who explained 'I'm trying to tell these people, it's wrong to be a fag."'
+          As those gathered in the church prepared to exit, they were informed that a group of Bible-wielding hecklers were gathered outside, including a man who explained 'I'm trying to tell these people, it's wrong to be a fag."
           <br/><br/>
           As if in response, those assembled began marching down Congress Street, followed by the bigots, who, in turn, were tailed by the Portland Police Department. One participant, Fred Berger, reported that “as we realized our numbers, we became bolder, cheering, shouting, and singing." For many, that march represented Portland's first Pride.
           <br/><br/>
@@ -163,15 +163,15 @@ const FirstParishChurch = () => {
           <p className="text-lg  text-gray-800">
           LG MS 038 Barry Peabody Papers, Series 1.5, Box 6, F192, Sermon First Parish, 1998. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <br/><br/>
 
-          Berger, F. (1984, August).  Community reacts to Bangor murder.  Our Paper, pp. 1, 8.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/111/">https://digitalcommons.usm.maine.edu/our_paper_sac/111/</a> <br/><br/>
+          Berger, F. (1984, August).  Community reacts to Bangor murder.  Our Paper, pp. 1, 8.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/111/ " style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/111/</a> <br/><br/>
 
-          Goldberg, C. (1998, February 12).  Maine voters repeal a law on gay rights.  New York Times, p. 1. <a href="https://www.nytimes.com/1998/02/12/us/maine-voters-repeal-a-law-on-gay-rights.html ">https://www.nytimes.com/1998/02/12/us/maine-voters-repeal-a-law-on-gay-rights.html </a><br/><br/>
+          Goldberg, C. (1998, February 12).  Maine voters repeal a law on gay rights.  New York Times, p. 1. <a href="https://www.nytimes.com/1998/02/12/us/maine-voters-repeal-a-law-on-gay-rights.html "  style={{ textDecoration: 'underline' }}>https://www.nytimes.com/1998/02/12/us/maine-voters-repeal-a-law-on-gay-rights.html </a><br/><br/>
 
           Keyes, B. (1984, July 14). Participants in gay rally ask equality.  Portland Press Herald, p. 13. <br/><br/>
 
-          Smith, T.  Portland Pride Day, June 6, 1987 (1987, July).  Our Paper, p. 4.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/50/  ">https://digitalcommons.usm.maine.edu/our_paper_sac/50/  </a><br/><br/>
+          Smith, T.  Portland Pride Day, June 6, 1987 (1987, July).  Our Paper, p. 4.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/50/  "  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/50/  </a><br/><br/>
 
-          Article: Unitarian Universalists affirm gay/lesbian unions [Article].  (1984, August).  Our Paper,    p. 9.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/111/"> https://digitalcommons.usm.maine.edu/our_paper_sac/111/  </a>
+          Article: Unitarian Universalists affirm gay/lesbian unions [Article].  (1984, August).  Our Paper,    p. 9.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/111/"  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/our_paper_sac/111/  </a>
           </p>
         </div>
         </div>

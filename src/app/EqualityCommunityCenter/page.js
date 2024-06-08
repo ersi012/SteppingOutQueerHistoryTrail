@@ -343,10 +343,6 @@ const FirstParishChurch = () => {
           Violence and Discrimination Survey.  (1985, January).  Our Paper: Serving the Alternative Community, p. 3.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/our_paper_sac/81/
           <br/><br/>
           Woodward, K., & Koch, N.  (2016, November 29).  Barteaux, Kennedy.  Querying the Past: LGBTQ Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/querying_ohproject/14/
-
- 
-
-
           </p>
         </div>
         </div>
