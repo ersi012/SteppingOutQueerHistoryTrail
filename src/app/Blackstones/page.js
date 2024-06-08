@@ -55,7 +55,7 @@ const FirstParishChurch = () => {
               objectFit='cover'
             />
             <div style={{ width: '300px', fontSize: '10px' }}>
-              <p>Blackstones hosts a 1994 fundraiser for Anne Rand&quot;s State Senate campaign. From L to R: Jaeson Alston, The Chartroom&quot;s co-owner; Ralph Cusack, Blackstone&quot;s co-owner; Marc Quirion, Blackstones&quot; bartender; Tim Pickham, Kaos&quot; co-owner. "Apex : A Point of Departure, Vol.3, No.09. November 1994. Page 8 https://digitalcommons.usm.maine.edu/apex/33 <a href="https://digitalcommons.usm.maine.edu/apex/33"> https://digitalcommons.usm.maine.edu/apex/33</a></p>
+              <p>Blackstones hosts a 1994 fundraiser for Anne Rand's State Senate campaign. From L to R: Jaeson Alston, The Chartroom's co-owner; Ralph Cusack, Blackstone's co-owner; Marc Quirion, Blackstones' bartender; Tim Pickham, Kaos' co-owner. "Apex : A Point of Departure, Vol.3, No.09. November 1994. Page 8 https://digitalcommons.usm.maine.edu/apex/33 <a href="https://digitalcommons.usm.maine.edu/apex/33"> https://digitalcommons.usm.maine.edu/apex/33</a></p>
             </div>
           </div>
           <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
