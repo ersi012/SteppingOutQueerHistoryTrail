@@ -144,17 +144,16 @@ const FirstParishChurch = () => {
           </p>
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
           <p className="text-lg  text-gray-800">
-           "Business Profile: Drop me a Line" Our Paper, December 1990, pg 4. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/our_paper_sac/12<br/><br/>
+           "Business Profile: Drop me a Line" Our Paper, December 1990, pg 4. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/12"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/12</a>
+            <br/><br/>
             
-           "Classifieds" Our Paper. February 1991. Pg 16. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/11<br/><br/>
+           "Classifieds" Our Paper. February 1991. Pg 16. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/12"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/11</a><br/><br/>
             
-            Chapkis, Wendy, "Mayo, Roger" (2023). Querying the Past: LGBTQ Maine Oral History Project Collection. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special.    
-            https://digitalcommons.usm.maine.edu/querying_ohproject/99/<br/><br/>
+            Chapkis, Wendy, "Mayo, Roger" (2023). Querying the Past: LGBTQ Maine Oral History Project Collection. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special.    <a href="https://digitalcommons.usm.maine.edu/querying_ohproject/99/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/99/</a>
+            <br/><br/>
 
 
-           "Here to stay" Community Pride Reporter, July 1993, pg 8. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/cpr/65<br/><br/>
+           "Here to stay" Community Pride Reporter, July 1993, pg 8. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/cpr/65"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/cpr/65</a><br/><br/>
           </p>
         </div>
         </div>

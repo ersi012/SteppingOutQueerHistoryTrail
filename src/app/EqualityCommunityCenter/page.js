@@ -244,105 +244,105 @@ const FirstParishChurch = () => {
 
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
           <p className="text-lg  text-gray-800">
-          About. (2024).  Maine Gay Men's Chorus.  Retrieved from https://mainegaymenschorus.com/about/<br/><br/>
+          About. (2024).  Maine Gay Men's Chorus.  Retrieved from <a href="https://mainegaymenschorus.com/about/"  style={{ textDecoration: 'underline' }}>https://mainegaymenschorus.com/about/</a>=<br/><br/>
 
-          About.  (2024).  MaineTransNet.  Retrieved from https://www.mainetransnet/about<br/><br/>
+          About.  (2024).  MaineTransNet.  Retrieved from <a href="https://www.mainetransnet/about"  style={{ textDecoration: 'underline' }}>https://www.mainetransnet/about</a> <br/><br/>
 
-          About the ECC.  (2024). Equality Community Center.  Retrieved from https://eccmaine.org/about<br/><br/>
+          About the ECC.  (2024). Equality Community Center.  Retrieved from <a href="https://eccmaine.org/about"  style={{ textDecoration: 'underline' }}>https://eccmaine.org/about</a> <br/><br/>
 
-          Advertisement: Maine Gay Men's Chorus: Peace on Earth.  (1995, December).  Community Pride Reporter, p. 3.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/cpr/38/<br/><br/>
+          Advertisement: Maine Gay Men's Chorus: Peace on Earth.  (1995, December).  Community Pride Reporter, p. 3.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections,<a href="https://digitalcommons.usm.maine.edu/cpr/38/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/cpr/38/</a> <br/><br/>
           
-          Bent, E. (2023, November 27). Gardner, Ed.  Querying the Past: LGBTQ Maine Oral History Project Collection. Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/querying_ohproject/114<br/><br/>
+          Bent, E. (2023, November 27). Gardner, Ed.  Querying the Past: LGBTQ Maine Oral History Project Collection. Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href="https://digitalcommons.usm.maine.edu/querying_ohproject/114"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/114/</a><br/><br/>
 
-          Brogan, B.  (2022, June 16).  MaineTransNet opens Safe Combinations, a safe and affirming thrift store.  News Center Maine.  Retrieved from https://www.newscentermaine.com/article/news/community/maine-transnet-opens-safe-affirming-thrift-store-safe-combinations-transgender-lgbtq/97-d3736c69-d975-44c5-bf9f-042b88c5f3fd<br/><br/>
+          Brogan, B.  (2022, June 16).  MaineTransNet opens Safe Combinations, a safe and affirming thrift store.  News Center Maine.  Retrieved from <a href="https://www.newscentermaine.com/article/news/community/maine-transnet-opens-safe-affirming-thrift-store-safe-combinations-transgender-lgbtq/97-d3736c69-d975-44c5-bf9f-042b88c5f3fd"  style={{ textDecoration: 'underline' }}>https://www.newscentermaine.com/article/news/community/maine-transnet-opens-safe-affirming-thrift-store-safe-combinations-transgender-lgbtq/97-d3736c69-d975-44c5-bf9f-042b88c5f3fd</a><br/><br/>
 
-          Bunker, L., Cook, M., Kane, J-L.,  Roan, A., & Mears, P. J.  (2012, March 21).  Maine's transgender revolution, part one.  Events, LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections  Retrieved from https://digitalcommons.usm.maine.edu/spcoevents/10/<br/><br/>
+          Bunker, L., Cook, M., Kane, J-L.,  Roan, A., & Mears, P. J.  (2012, March 21).  Maine's transgender revolution, part one.  Events, LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections  Retrieved from  <a href="https://digitalcommons.usm.maine.edu/spcoevents/10/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/spcoevents/10/ </a><br/><br/>
 
-          Calendar: Sunday, Dec. 9, MLGPA meeting.  (1984, December). Our Paper: Serving the Alternative Community, p. 12. Retrieved from LGBTQ+ Collection,Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/our_paper_sac/82/<br/><br/>
+          Calendar: Sunday, Dec. 9, MLGPA meeting.  (1984, December). Our Paper: Serving the Alternative Community, p. 12. Retrieved from LGBTQ+ Collection,Jean Byers Sampson Center for Diversity Maine, USM Special Collections,<a href="https://digitalcommons.usm.maine.edu/our_paper_sac/82/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/82/</a> <br/><br/>
 
-          Calendar: Tuesday, 9/7, Auditions for the Maine Gay Men's Chorus, 1993-1994 choral season.  (1993, September).  Apex: A Point of Departure, p. 10.  Retrieved from LGBTQ+ Collections, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/apex/20/<br/><br/>
-
-
-          Chapkis, W.  (2018, June 14).  Diamante, Robert.  Querying the Past: LGBTQ Maine Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/querying_ohproject/61/<br/><br/>
+          Calendar: Tuesday, 9/7, Auditions for the Maine Gay Men's Chorus, 1993-1994 choral season.  (1993, September).  Apex: A Point of Departure, p. 10.  Retrieved from LGBTQ+ Collections, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href="https://digitalcommons.usm.maine.edu/apex/20/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/apex/20/</a><br/><br/>
 
 
-          Cousins, S., & Dyer, K.  (2019, November 23).  Maxwell, Daralyn.  Querying the Past; LGBTQ Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/querying_ohproject/68/<br/><br/>
+          Chapkis, W.  (2018, June 14).  Diamante, Robert.  Querying the Past: LGBTQ Maine Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href="https://digitalcommons.usm.maine.edu/querying_ohproject/61/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/61/</a><br/><br/>
 
 
-          Dunn, L., & Sucy, K.  (2021, November 29).  Gormley, Quinn.  Querying the Past: LGBTQ Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/querying_ohproject/2/<br/><br/>
+          Cousins, S., & Dyer, K.  (2019, November 23).  Maxwell, Daralyn.  Querying the Past; LGBTQ Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href="https://digitalcommons.usm.maine.edu/querying_ohproject/68/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/68/</a><br/><br/>
 
 
-          Elze. (1986, January).  MLGPA, state collaborate on AIDS forums.  Our Paper: Serving the Alternative Community, pp. 1, 3.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/our_paper_sac/69/<br/><br/>
+          Dunn, L., & Sucy, K.  (2021, November 29).  Gormley, Quinn.  Querying the Past: LGBTQ Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections,<a href="https://digitalcommons.usm.maine.edu/querying_ohproject/2/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/2/</a> <br/><br/>
+
+
+          Elze. (1986, January).  MLGPA, state collaborate on AIDS forums.  Our Paper: Serving the Alternative Community, pp. 1, 3.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/69/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/69/</a><br/><br/>
 
 
           E-mail correspondence between Jean Vermette and Wendy Chapkis.  (2023, August 5).<br/><br/>
 
           
-          EqualityMaine.  (2005, Summer).  Legislature votes to end discrimination.  Equality News, pp. 1, 6, 8.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/equality_news/5
+          EqualityMaine.  (2005, Summer).  Legislature votes to end discrimination.  Equality News, pp. 1, 6, 8.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections,<a href="https://digitalcommons.usm.maine.edu/equality_news/5"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/equality_news/5</a>
           <br/><br/>
 
-          EqualityMaine: Our accomplishments. (2024).  EqualityMaine.  Retrieved 2024, April 9 from https://www.equalitymaine.org/our-accomplishments<br/><br/>
+          EqualityMaine: Our accomplishments. (2024).  EqualityMaine.  Retrieved 2024, April 9 from <a href="https://www.equalitymaine.org/our-accomplishments"  style={{ textDecoration: 'underline' }}>https://www.equalitymaine.org/our-accomplishments</a><br/><br/>
 
 
-          Flanagan, J.  (1985, February).  Political alliance's first annual meeting a success.  Our Paper: Serving the Alternative Community, p. 8.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, htpps://digitalcommons.usm.maine.edu/our_paper_sac/80/<br/><br/>
+          Flanagan, J.  (1985, February).  Political alliance's first annual meeting a success.  Our Paper: Serving the Alternative Community, p. 8.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/80/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/80/</a><br/><br/>
 
 
-          Friend, Avery.  (2023, June 16).  A conversation with our founder.  MaineTransNet.  Retrieved from https://www.mainetransnet/blog/a-conversation-with-our-founder<br/><br/>
+          Friend, Avery.  (2023, June 16).  A conversation with our founder.  MaineTransNet.  Retrieved from  <a href="https://www.mainetransnet/blog/a-conversation-with-our-founder"  style={{ textDecoration: 'underline' }}>https://www.mainetransnet/blog/a-conversation-with-our-founder</a> <br/><br/>
 
 
-          From the vaults: the founding of the Maine Gay Men's Chorus.  (2021, February 21).  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/spcoevents/29/<br/><br/>
+          From the vaults: the founding of the Maine Gay Men's Chorus.  (2021, February 21).  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href="https://digitalcommons.usm.maine.edu/spcoevents/29/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/spcoevents/29/</a><br/><br/>
 
 
-          Gautreau, P.  (1984, October). Maine Lesbian/Gay Political Alliance.  Our Paper: Serving the Alternative Community, p. 4.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections,  https://digitalcommons.usm.maine.edu/our_paper_sac/84/<br/><br/>
+          Gautreau, P.  (1984, October). Maine Lesbian/Gay Political Alliance.  Our Paper: Serving the Alternative Community, p. 4.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/84/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/84/</a> <br/><br/>
           
-          Graffam, K. (2023, ).  Smith, Betsy  (2023, November 17). Querying the Past: LGBTQ Maine Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/querying_ohproject/117/<br/><br/>
+          Graffam, K. (2023, ).  Smith, Betsy  (2023, November 17). Querying the Past: LGBTQ Maine Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href="https://digitalcommons.usm.maine.edu/querying_ohproject/117/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/117/</a><br/><br/>
           
 
-          Grand opening block party & campaign kick-off.  (2022, October 16).  Equality Community Center.  Retrieved from https://eccmaine.org/calendar/2022/9/17/grand-opening-block-party-amp-campaign-kick-off<br/><br/>
+          Grand opening block party & campaign kick-off.  (2022, October 16).  Equality Community Center.  Retrieved from <a href="https://eccmaine.org/calendar/2022/9/17/grand-opening-block-party-amp-campaign-kick-off"  style={{ textDecoration: 'underline' }}>https://eccmaine.org/calendar/2022/9/17/grand-opening-block-party-amp-campaign-kick-off</a><br/><br/>
           
           GSA Newsletter.  LG MS Sturgis Haskings papers 007, Box 8. Folder 137, LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <br/><br/>
 
-          Holland, A., & Tryon-Nadeau, O.  (2016, November 19).  Vermette, Jean.  Querying the Past: LGBTQ Oral History Project Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/querying_ohproject/2/<br/><br/>
+          Holland, A., & Tryon-Nadeau, O.  (2016, November 19).  Vermette, Jean.  Querying the Past: LGBTQ Oral History Project Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections,<a href="https://digitalcommons.usm.maine.edu/querying_ohproject/2/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/2/</a> <br/><br/>
           
-          Howard, C.  (2023, July 14).  Safe Combinations celebrates one year!  MaineTransNet.  Retrieved from https://www.mainetrans.net/blog/thrift-one-year-anniversary<br/><br/>
+          Howard, C.  (2023, July 14).  Safe Combinations celebrates one year!  MaineTransNet.  Retrieved from<a href=" https://www.mainetrans.net/blog/thrift-one-year-anniversary"  style={{ textDecoration: 'underline' }}> https://www.mainetrans.net/blog/thrift-one-year-anniversary</a><br/><br/>
 
-          Laws of the State of Maine as passed by the one hundred and fifteenth legislature. Third Special Session. (October 1992). J.S. McCarthy Company, Augusta, Maine.  Retrieved from  https://lldc.mainelegislature.org/Open/Laws/1993/1993_PL_c378.pdf<br/><br/>
+          Laws of the State of Maine as passed by the one hundred and fifteenth legislature. Third Special Session. (October 1992). J.S. McCarthy Company, Augusta, Maine.  Retrieved from<a href="https://lldc.mainelegislature.org/Open/Laws/1993/1993_PL_c378.pdf"  style={{ textDecoration: 'underline' }}>https://lldc.mainelegislature.org/Open/Laws/1993/1993_PL_c378.pdf</a> <br/><br/>
 
-          LG MS 026, Michael Martin Papers Finding Aid.  (2013, November).  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/lgbt_finding_aids/26/<br/><br/>
+          LG MS 026, Michael Martin Papers Finding Aid.  (2013, November).  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href="https://digitalcommons.usm.maine.edu/lgbt_finding_aids/26/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/lgbt_finding_aids/26/</a><br/><br/>
 
-          Lynn, M. S.  (1979, June 5).  Tiffany Club membership listings #1.  Digital Transgender Archive.  Retrieved August 18, 2023, https://www.digitaltransgenderarchive.net/files/zp38wc642<br/><br/>
+          Lynn, M. S.  (1979, June 5).  Tiffany Club membership listings #1.  Digital Transgender Archive.  Retrieved August 18, 2023, <a href="https://www.digitaltransgenderarchive.net/files/zp38wc642"  style={{ textDecoration: 'underline' }}>https://www.digitaltransgenderarchive.net/files/zp38wc642</a><br/><br/>
           
-          Maine Lesbian/Gay Political Alliance. (1987, October).  One Potato, Two Potato: A Special Newsletter of the Maine Lesbian/Gay Political Alliance.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Digital Commons, https://digitalcommons.usm.maine.edu/mlgpa/9/<br/><br/>
+          Maine Lesbian/Gay Political Alliance. (1987, October).  One Potato, Two Potato: A Special Newsletter of the Maine Lesbian/Gay Political Alliance.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Digital Commons,<a href="https://digitalcommons.usm.maine.edu/mlgpa/9/"  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/mlgpa/9/</a><br/><br/>
           
-          MLGPA. (1984, November). Stein-vine, p. 1.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Digital Commons, https://digitalcommons.usm.maine.edu/stein_vine/1/<br/><br/>
+          MLGPA. (1984, November). Stein-vine, p. 1.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Digital Commons,<a href="https://digitalcommons.usm.maine.edu/stein_vine/1/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/stein_vine/1/</a> <br/><br/>
           
 
-          Nemitz, B.  (2021, March 31).  After a long struggle, a place for LGBTQ+ to call home.  Portland Press Herald, pp. B1, B3.  Retrieved from htps://library.umaine.edu/auth/EZproxy/test/authej.asp?url=https://search.proquest.com/newspapers/after-long-struggle-place-lgbtq-call-home/docview/2507004479/se-2<br/><br/>
+          Nemitz, B.  (2021, March 31).  After a long struggle, a place for LGBTQ+ to call home.  Portland Press Herald, pp. B1, B3.  Retrieved from <a href="https://library.umaine.edu/auth/EZproxy/test/authej.asp?url=https://search.proquest.com/newspapers/after-long-struggle-place-lgbtq-call-home/docview/2507004479/se-2"  style={{ textDecoration: 'underline' }}>https://library.umaine.edu/auth/EZproxy/test/authej.asp?url=https://search.proquest.com/newspapers/after-long-struggle-place-lgbtq-call-home/docview/2507004479/se-2</a><br/><br/>
 
 
-          News: Portland Gay Men's Chorus forming.  (1992, July).  Our Paper: Serving the Alternative Community, p. 5.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/our_paper_sac/102/
+          News: Portland Gay Men's Chorus forming.  (1992, July).  Our Paper: Serving the Alternative Community, p. 5.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/102/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/102/</a>
           <br/><br/>
 
-          Our history. (2024).  Equality Community Center.  Retrieved from  https://eccmaine.org/history<br/><br/>
+          Our history. (2024).  Equality Community Center.  Retrieved from <a href=" https://eccmaine.org/history"  style={{ textDecoration: 'underline' }}> https://eccmaine.org/history</a><br/><br/>
 
 
-          Press Conference-July 11, 1984. (1984, August).  Our Paper: Serving the Alternative Community, p. 4.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections,  https://digitalcommons.usm.maine.edu/our_paper_sac/111/<br/><br/>
+          Press Conference-July 11, 1984. (1984, August).  Our Paper: Serving the Alternative Community, p. 4.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections,<a href="  https://digitalcommons.usm.maine.edu/our_paper_sac/111/"  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/our_paper_sac/111/</a> <br/><br/>
 
-          Ravenscraft, P.  (2023, November 26).  Roan, Alex.  Querying the Past: LGBTQ Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/querying_ohproject/118/<br/><br/>
+          Ravenscraft, P.  (2023, November 26).  Roan, Alex.  Querying the Past: LGBTQ Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/118/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/118/</a><br/><br/>
 
-          Safe Combinations celebrates one year!  (2023, July 14).  MaineTransNet.  Retrieved from https://www.mainetrans.net/blog/thrift-one-year-anniversary<br/><br/>
+          Safe Combinations celebrates one year!  (2023, July 14).  MaineTransNet.  Retrieved from <a href=" https://www.mainetrans.net/blog/thrift-one-year-anniversary"  style={{ textDecoration: 'underline' }}>https://www.mainetrans.net/blog/thrift-one-year-anniversary</a><br/><br/>
 
-          Schreiber, L. (2022, May 26).  LGBTQ+ equality center to open new collaborative workplace. Mainebiz.  Retrieved from https://www.mainebiz.biz/article/lgbtq-equality-center-to-open-new-collaborative-workplace<br/><br/>
+          Schreiber, L. (2022, May 26).  LGBTQ+ equality center to open new collaborative workplace. Mainebiz.  Retrieved from<a href="https://www.mainebiz.biz/article/lgbtq-equality-center-to-open-new-collaborative-workplace"  style={{ textDecoration: 'underline' }}>https://www.mainebiz.biz/article/lgbtq-equality-center-to-open-new-collaborative-workplace</a> <br/><br/>
           
-          State of Maine: Office of Janet T. Mills (2019, May 29).  Governor Mills signs legislation banning conversion therapy into law.  Retrieved from https://www.maine.gov/governor/mills/news/governor-mills-signs-legislation-banning-conversion-therapy-law-2019-05-29<br/><br/>
+          State of Maine: Office of Janet T. Mills (2019, May 29).  Governor Mills signs legislation banning conversion therapy into law.  Retrieved from <a href=" https://www.maine.gov/governor/mills/news/governor-mills-signs-legislation-banning-conversion-therapy-law-2019-05-29"  style={{ textDecoration: 'underline' }}>https://www.maine.gov/governor/mills/news/governor-mills-signs-legislation-banning-conversion-therapy-law-2019-05-29</a><br/><br/>
 
 
           Transsupport by-laws.  LG MS Transsupport Archives 016.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <br/><br/>
 
 
-          Violence and Discrimination Survey.  (1985, January).  Our Paper: Serving the Alternative Community, p. 3.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/our_paper_sac/81/
+          Violence and Discrimination Survey.  (1985, January).  Our Paper: Serving the Alternative Community, p. 3.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections,<a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/81/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/81/</a> 
           <br/><br/>
-          Woodward, K., & Koch, N.  (2016, November 29).  Barteaux, Kennedy.  Querying the Past: LGBTQ Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, https://digitalcommons.usm.maine.edu/querying_ohproject/14/
+          Woodward, K., & Koch, N.  (2016, November 29).  Barteaux, Kennedy.  Querying the Past: LGBTQ Oral History Project Collection.  Retrieved from LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections, <a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/14/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/14/</a>
           </p>
         </div>
         </div>

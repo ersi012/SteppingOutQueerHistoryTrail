@@ -133,28 +133,28 @@ const FirstParishChurch = () => {
           <p className="text-lg  text-gray-800">
           Associated Press,"AIDS Protesters Block Traffic." Portland Press Herald. January 24, 1991. Page 1D.
 
-            Demary, Danella, "Rand, Erica" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 25. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/querying_ohproject/25<br/><br/>
+            Demary, Danella, "Rand, Erica" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 25. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/querying_ohproject/25"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/25</a>
+            <br/><br/>
 
 
             Karasopoulos, Peter,"ACT UP and the Politics of AIDS." Casco Bay Weekly, February 14, 1991. Page 1.  <br/><br/>
 
-           "Maine Act Out, Act Up, Act Now, Just Act" (August, 1988) Our Paper, p. 9. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/our_paper_sac/40<br/><br/>
+           "Maine Act Out, Act Up, Act Now, Just Act" (August, 1988) Our Paper, p. 9. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/40"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/40</a>
+            <br/><br/>
             
-            Oliveri, Sofia, "Rand, Erica - 2022 Follow Up" (2022). Querying the Past: LGBTQ Maine Oral History Project Collection. 96. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/querying_ohproject/96<br/><br/>
+            Oliveri, Sofia, "Rand, Erica - 2022 Follow Up" (2022). Querying the Past: LGBTQ Maine Oral History Project Collection. 96. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/96"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/96</a>
+            <br/><br/>
 
 
-            Wert, Micaiah, "Blanchard, Mike" (2022). Querying the Past: LGBTQ Maine Oral History Project Collection. 86. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/querying_ohproject/86<br/><br/>
+            Wert, Micaiah, "Blanchard, Mike" (2022). Querying the Past: LGBTQ Maine Oral History Project Collection. 86. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="  https://digitalcommons.usm.maine.edu/querying_ohproject/86"  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/querying_ohproject/86</a>
+           <br/><br/>
 
 
-            Cimmel, Eve. News on TAP, vol. 7 issue 4, June 1995. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/news_on_tap/1<br/><br/>
+            Cimmel, Eve. News on TAP, vol. 7 issue 4, June 1995. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/news_on_tap/1"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/news_on_tap/1</a> <br/><br/>
 
 
-            Wert, Micaiah, "Shields, Deborah" (2023). Querying the Past: LGBTQ Maine Oral History Project Collection. 116. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
-            https://digitalcommons.usm.maine.edu/querying_ohproject/116  <br/><br/>
+            Wert, Micaiah, "Shields, Deborah" (2023). Querying the Past: LGBTQ Maine Oral History Project Collection. 116. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/116 "  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/querying_ohproject/116 </a>
+            <br/><br/>
           </p>
         </div>
         </div>

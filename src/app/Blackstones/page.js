@@ -158,31 +158,31 @@ const FirstParishChurch = () => {
           <p className="text-lg  text-gray-800">                    
             Bennett, Troy. 2019."28 Years After Vandals Smashed Its Glass, Portland&apos;s Last Gay Bar Has Windows Once Again." Bangor Daily News, July 18. 
             <br/><br/>
-            Blackstones advertisement, Our Paper, December 1987, page 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/47/<br/><br/>
+            Blackstones advertisement, Our Paper, December 1987, page 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/47/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/47/</a><br/><br/>
             
-           "Blackstones; A class Act" in  Apex : A Point of Departure, Vol.3, No.09 (November 1994). Page 3 LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  https://digitalcommons.usm.maine.edu/apex/33<br/><br/>
+           "Blackstones; A class Act" in  Apex : A Point of Departure, Vol.3, No.09 (November 1994). Page 3 LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.<a href="  https://digitalcommons.usm.maine.edu/apex/33"  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/apex/33</a> <br/><br/>
             
-            Backstones advertisement, Our Paper, December 1988, page 16. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/our_paper_sac/35/<br/><br/>
+            Backstones advertisement, Our Paper, December 1988, page 16. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/35/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/35/</a><br/><br/>
             
-            Chapkis, Wendy and Betsy Carson."Bar Stories from Queer Maine," 2022. https://video.maine.edu/media/Bar+Stories/1_58hxq96h<br/><br/>
+            Chapkis, Wendy and Betsy Carson."Bar Stories from Queer Maine," 2022. <a href="https://video.maine.edu/media/Bar+Stories/1_58hxq96h"  style={{ textDecoration: 'underline' }}>https://video.maine.edu/media/Bar+Stories/1_58hxq96h</a><br/><br/>
             
-            Fraser, Danielle and Wescot, Jarod, "Fenton-Snell, Butch" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 35. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/35<br/><br/>
+            Fraser, Danielle and Wescot, Jarod, "Fenton-Snell, Butch" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 35. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.<a href="https://digitalcommons.usm.maine.edu/querying_ohproject/35"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/35</a> <br/><br/>
             
-            Cain, Hannah, "Cusack, Ralph" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 43. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/ <br/><br/>
+            Cain, Hannah, "Cusack, Ralph" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 43. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.<a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/ "  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/ </a> <br/><br/>
             
-            Wolf, Gwendolyn and Ossie, Johnna, "Grindle, Charles" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/20<br/><br/>
+            Wolf, Gwendolyn and Ossie, Johnna, "Grindle, Charles" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.<a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/20"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/20</a> <br/><br/>
             
-            Blackstones Advertisement  in Apex : A Point of Departure, Winter 1994/95. Page 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/apex/34<br/><br/>
+            Blackstones Advertisement  in Apex : A Point of Departure, Winter 1994/95. Page 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.<a href="https://digitalcommons.usm.maine.edu/apex/34"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/apex/34</a> <br/><br/>
             
-            Miskoon, Maisarah and Winter, Devyn, "Smallwood, Thomas" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 27. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/27<br/><br/>
+            Miskoon, Maisarah and Winter, Devyn, "Smallwood, Thomas" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 27. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.<a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/27"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/27</a> <br/><br/>
             
-            Sturchio, Bianca and Ossie, Johnna, "Rich, Penny" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 26. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/querying_ohproject/26<br/><br/>
+            Sturchio, Bianca and Ossie, Johnna, "Rich, Penny" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 26. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/26"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/26</a> <br/><br/>
             
-           "Letters" in Apex : A Point of Departure, Vol.4, No.07 (August 1995). Page 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/apex/40<br/><br/>
+           "Letters" in Apex : A Point of Departure, Vol.4, No.07 (August 1995). Page 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/apex/40"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/apex/40</a><br/><br/>
             
-           "Miss Maine endorses gay rights at Pride Weekend" in Community Pride Reporter, 07/1994" Pages 1 &  2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/cpr/53
+           "Miss Maine endorses gay rights at Pride Weekend" in Community Pride Reporter, 07/1994" Pages 1 &  2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.<a href="  https://digitalcommons.usm.maine.edu/cpr/53"  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/cpr/53</a>
             <br/><br/>
-            Blackstones halloween advertisement in Community Pride Reporter, 11/1995. Page 3. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. https://digitalcommons.usm.maine.edu/cpr/39<br/><br/>
+            Blackstones halloween advertisement in Community Pride Reporter, 11/1995. Page 3. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.<a href=" https://digitalcommons.usm.maine.edu/cpr/39"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/cpr/39</a> <br/><br/>
           </p>
         </div>
         </div>

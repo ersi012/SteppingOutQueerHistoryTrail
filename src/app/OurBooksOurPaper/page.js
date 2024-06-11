@@ -193,18 +193,16 @@ While Our Books closed in 1987, Our Paper continued to be published through 1992
 
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
           <p className="text-lg  text-gray-800">                    
-          Chapkis, Wendy, "Berger, Fred" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 9. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  https://digitalcommons.usm.maine.edu/querying_ohproject/9
+          Chapkis, Wendy, "Berger, Fred" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 9. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/9 "  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/9</a>
           <br/><br/>
- Sumner, Tom,"Happy Birthday &apos;Our Paper&apos;" Our Paper September 1984. Pg 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
- https://digitalcommons.usm.maine.edu/our_paper_sac/85.<br/><br/>
- 
- Steve Saunders (1983, August 31), "Maine&apos;s gays to publish own newspaper," Portland Evening Express, p. 4. 
- <br/><br/>
- (1987, February 3), "Homosexual bookstore, Our Books, closes," Portland Press Herald, p. 10. 
- 
- <br/><br/>
- Barrett, Jack and Pratt, Branden, "Brushaber, Skip" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 33. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. 
- https://digitalcommons.usm.maine.edu/querying_ohproject/33
+          Sumner, Tom,"Happy Birthday &apos;Our Paper&apos;" Our Paper September 1984. Pg 2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="  https://digitalcommons.usm.maine.edu/our_paper_sac/85 "  style={{ textDecoration: 'underline' }}> https://digitalcommons.usm.maine.edu/our_paper_sac/85</a><br/><br/>
+          
+          Steve Saunders (1983, August 31), "Maine&apos;s gays to publish own newspaper," Portland Evening Express, p. 4. 
+          <br/><br/>
+          (1987, February 3), "Homosexual bookstore, Our Books, closes," Portland Press Herald, p. 10. 
+          
+          <br/><br/>
+          Barrett, Jack and Pratt, Branden, "Brushaber, Skip" (2018). Querying the Past: LGBTQ Maine Oral History Project Collection. 33. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/querying_ohproject/33"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/33</a>  
           </p>
         </div>
         </div>
