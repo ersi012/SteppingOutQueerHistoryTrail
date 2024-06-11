@@ -12,14 +12,14 @@ const SiteSection = () => {
     },
     {
       id: 2,
-      title: "Monument Square",
+      title: "Monument Square (Pride Portland, Dyke March Maine, activism)",
       description: "456 Congress St.",
       image: "/images/sites/2.webp",
       url: "/MonumentSquare",
     },
     {
       id: 3,
-      title: "Equality Community Center",
+      title: "Equality Community Center (EqualityMaine, Maine Gay Men's Chorus, MaineTransNet)",
       description: "415 Casco St.",
       image: "/images/sites/3.webp",
       url: "/EqualityCommunityCenter",
@@ -33,7 +33,7 @@ const SiteSection = () => {
     },
     {
       id: 5,
-      title: "State Theater Building",
+      title: "State Theater Building  (ACT-UP Portland)",
       description: "142 High Street",
       image: "/images/sites/5.webp",
       url: "/StateTheaterBldg",
