@@ -36,6 +36,7 @@ const FirstParishChurch = () => {
         </p>
       </div>
 
+    <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
       <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
         <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
           <Image
@@ -61,7 +62,7 @@ const FirstParishChurch = () => {
         </div>
         </div>
       </div>
-
+      </div>
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
         <h2 className="text-4xl font-bold text-center mb-10 text-[#E2D6AF]">Charlie Howard Memorial and March </h2>
         <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
