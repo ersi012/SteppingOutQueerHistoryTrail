@@ -28,7 +28,7 @@ const FirstParishChurch = () => {
         <audio controls>
           <source src="./audio/EqualityCommunityCenterV2_mixdown.mp3" type="audio/mpeg" />
         </audio>
-        <p className="text-lg text-gray-800">
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           Portland has long had queer social spaces including bars, a bookstore, and a card shop, that all served as gathering places for LGBTQ+ people. But it wasn't until recently that the city had a designated community center. As local philanthropist and realtor Ed Gardner explains in his oral history, “Right after we won marriage equality, Betsy Smith sat down in my house and I told her that one thing I'd like to do for this community is to have a place where people can go and feel connected and be able to be in each other's company with love and support. She said, 'well, that's so funny. Rich Waitzkin and I have thought the same thing. Why don't we all sit down and have coffee together.' So we did. I had just bought a building with some vacant space at 511 Congress St. and I said, 'I'll create a 3000 square foot office space for six LGBT tenants and we'll see if it works.' We brought in Equality Maine, Maine Transnet, SAGE, GLSEN, PFLAG, and Pride Portland and it worked beautifully."  <br/><br/>
           In 2021, what would become known as the Equality Community Center moved into a building of their own around the corner at 15 Casco St.  As Ed Gardner reports: “There was an old bank building next door coming up for sale. So we quickly raised quite a bit of money to buy that building. And I owned a parking lot right next to that that I've now donated. That's where we are going to build a 54-unit affordable housing building supporting people 55 and older who are HIV positive, people with disabilities, the LGBT community."   <br/><br/>
           The Center celebrated its opening in October 2022 with a block party featuring music, performances, speeches, and food. Because a larger space was now available, many more organizations were able to join the initial groups housed in, or supported by, the Center including the Maine Gay Men's Chorus, Dyke March Maine, Rainbow Arts Collective, and Sober Sundays AA Support Group. The tenants of the Center now include not only queer organizations but other social justice groups such as Cross-Cultural Community Services, Democracy Maine, Khmer Maine, Sexual Assault Response Services, and Through These Doors Domestic Violence Prevention.   <br/><br/>
@@ -38,7 +38,7 @@ const FirstParishChurch = () => {
         <audio controls>
           <source src="./audio/EqualityMaineV2_mixdown.mp3" type="audio/mpeg" />
         </audio>
-        <p className="text-lg text-gray-800">
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
         Since at least the 1970s, queer people in Maine have been coming together to create community and social change through local groups like the Hancock County Gays, the Abenaki Experimental College Group, Wilde-Stein, Gay Support and Action, the Gay Rights Organization, and Northern Lambda Nord. But the movement took a big step forward in the state in 1984 with the creation of the first state-wide organization, the Maine Lesbian Gay Political Alliance or MLGPA - later renamed EqualityMaine.<br/><br/>
         The MLGPA was created in part as a response to the murder of Charlie Howard, a 23-year-old gay man killed in a hate crime in Bangor, Maine. While Howard's murder was a particularly brutal example of anti-gay hate, many members of Maine's queer community had experienced discrimination, harassment, or violence. After the murder, a group of two dozen individuals including Dale McCormick, Fred Berger, Betsy Sweet, Marty Sabol, Robin Lambert, Diane Elze, Harry Gordon, Barb Wood, John Preston, Barry Manson, and Frank Brooks, came together to form the statewide educational and political action group.  The MLGPA started with $147 dollars and a spiral notebook with a set of handwritten founding documents.<br/><br/>
         By the following year, with Dale McCormick serving as Chairperson, the MLGPA partnered with the Maine Lesbian/Gay Anti-Violence Project and the National Gay Task Force, to circulate a survey about violence and discrimination. The survey revealed that 67% of the respondents had concealed their sexual orientation in order to avoid discrimination on the job; almost 30% reported being fired or denied promotions because their employers had learned they were gay. Almost one-quarter had been denied service in a hotel or restaurant, and more than half had been victims of homophobic violence.<br/><br/>
@@ -103,7 +103,7 @@ const FirstParishChurch = () => {
           <audio controls>
             <source src="./audio/MaineGayMensChorusV2_mixdown.mp3" type="audio/mpeg" />
           </audio>
-          <p className="text-lg  text-gray-800">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           In the Spring of 1992, an Assistant Professor of Music at the University of Southern Maine, Bruce Fithian, attended a concert given by the Boston Gay Men's Chorus at First Parish Church in Portland. Fithian, an accomplished tenor soloist and gay man, was profoundly moved by the experience of watching “proud men singing beautiful music."He committed himself to creating a similar chorus in Maine, enlisting the help of Glenn Anderson and Jeff Caron. The group chose the name the Maine Gay Men's Chorus, but, in order to allow community members to discreetly donate, the legal entity was called Pine Tree Performing Arts.<br/><br/>
           Having no money but needing a place to audition, rehearse, and perform, they approached the First Parish Church on Congress Street which agreed to give them free space. The chorus accepted any man, whether gay or a straight ally, who could sing. Following the example of the Boston Chorus, Fithian required all members to memorize the music in order to better engage with the audience.<br/><br/>
           Their first concert took place in December of 1992 to a packed house. The chorus processed from the church recreation hall to the sanctuary, singing in Latin. Robert Diamante, who had been taking lessons from Bruce Fithian at University of Southern Maine and who joined the chorus that fall, recalls “After our first concert, I remember we all just cried. We just sang our little hearts out, our little gay hearts out. It was really powerful."<br/><br/>
@@ -168,7 +168,7 @@ const FirstParishChurch = () => {
           <audio controls>
             <source src="./audio/TransNetV2_mixdown.mp3" type="audio/mpeg" />
           </audio>
-          <p className="text-lg text-gray-800">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           Maine is now home to the largest transgender-led statewide organization in the country, MaineTransNet. But it has been a long road to get there. Prior to the 1980s, there were no public organizations for trans people in Maine. The earliest group for “transsexual-identified people"in the state, according to activist Jean Vermette, was located in the Kingfield area, far to the north of Portland.  The small group of about half dozen people met in private homes, never publicizing their existence. <br/><br/>
           Finally, in the late 1980's, a new organization, TransSupport, began to meet once a month at the Unitarian-Universalist Church in Brunswick, Maine. People in Maine would travel as far as 3 hours to attend the meetings in Brunswick. <br/><br/>
           TransSupport described itself as an “educational, non-sexual, social and peer support group."According to Vermette, “People would arrive as whatever sex they were born as and then change in the basement if they wanted to. We would sit around for an hour or two, cross-dressed, and then change back and go home. But at least you knew that there were other people like you and, for a little while, you could express who you were."<br/><br/>
@@ -243,7 +243,7 @@ const FirstParishChurch = () => {
           </div>
 
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
-          <p className="text-lg  text-gray-800">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           About. (2024).  Maine Gay Men's Chorus.  Retrieved from <a href="https://mainegaymenschorus.com/about/"  style={{ textDecoration: 'underline' }}>https://mainegaymenschorus.com/about/</a>=<br/><br/>
 
           About.  (2024).  MaineTransNet.  Retrieved from <a href="https://www.mainetransnet/about"  style={{ textDecoration: 'underline' }}>https://www.mainetransnet/about</a> <br/><br/>

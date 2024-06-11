@@ -27,7 +27,7 @@ const FirstParishChurch = () => {
         <audio controls>
             <source src="./audio/BlackstonesV2_mixdown.mp3" type="audio/mpeg" />
         </audio>
-        <p className="text-lg text-gray-800">
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
         Blackstones is the only remaining explicitly queer bar left in Portland. This small neighborhood space first opened in 1987 during a golden age of gay bars in the city which included dance clubs like The Underground; a lesbian bar, Entre Nous; and Cycles. In its first year, Blackstones served as a gay piano bar and restaurant, complete with tablecloths, napkins, and full dinners. By the following year, it had turned into what we see today, a classic neighborhood bar with a pool table. In 1992, Ralph Cusack and his then-partner, Butch Fenton-Snell, purchased the bar and ran it for 27 years before handing it over to new management.
         </p>
       </div>
@@ -144,7 +144,7 @@ const FirstParishChurch = () => {
           </div>
           </div>
          
-          <p className="text-lg  text-gray-800 mt-12">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           While many of Portland&apos;s LGBTQ+ bars were designed for a mix of genders, Blackstones was created primarily to serve the gay male community. In recent years, it has made efforts to welcome a much broader public, as indicated by the range of identity-specific Pride flags displayed out front. But trans masculine men have sometimes reported hostility from some older patrons, and women are still a minority. However, as the only remaining explicitly gay bar in Portland, Blackstones continues to be a popular and much beloved institution. <br/><br/>
             Blackstones, like many of the other now-closed queer bars, served as an important community gathering and information space in Portland where you could pick up tickets to community events, check their bulletin board, or grab a gay newspaper to learn what was happening in the local community. Blackstones also provided financial support for Pride activities and AIDS benefits. And the bar has long been an important venue for drag performances.  <br/><br/>
             In its early years, Blackstones held lavish events around Halloween, Thanksgiving, Christmas, and New Years. As former co-owner Butch Fenton-Snell noted,"Initially we planned to close for the holidays but patrons came to us to say &apos;Why are you closing on Thanksgiving?&apos; &apos;Well, because we thought people would want to spend time with their families.&apos; But they said &apos;These people are our family.&apos; So we didn&apos;t close.&apos;&apos; <br/><br/>
@@ -155,7 +155,7 @@ const FirstParishChurch = () => {
 
 
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
-          <p className="text-lg  text-gray-800">                    
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">                  
             Bennett, Troy. 2019."28 Years After Vandals Smashed Its Glass, Portland&apos;s Last Gay Bar Has Windows Once Again." Bangor Daily News, July 18. 
             <br/><br/>
             Blackstones advertisement, Our Paper, December 1987, page 20. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/47/"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/47/</a><br/><br/>

@@ -28,14 +28,14 @@ const FirstParishChurch = () => {
             <source src="./audio/MonumentSquareV2.mp3" type="audio/mpeg" />
         </audio>
         <h2 className="text-4xl font-bold text-center mb-10 text-[#E2D6AF]">Introduction</h2>
-        <p className="text-lg text-gray-800">
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
         Monument Square has long been an important community gathering spot in Portland. Surrounded by tall buildings, eateries, and the Portland Public Library, it has been an ideal location since the 19th century, for people looking to speak their minds, celebrate, or have a cool drink on a humid Maine summer day.
                 <br/><br/>
         In 1825, Portland's Market House was erected here, giving this location its original name of "Market Square." The building went on to serve many functions over the next 63 years, even acting as City Hall after the Great Fire of 1866. The Market House was eventually leveled in 1887 to make way for the monument that currently stands on this site. This is why the location is now called "Monument Square". 
 
         </p>
         <h2 className="text-4xl font-bold text-center mb-10  mt-10 text-[#E2D6AF]">Protests and Demonstrations</h2>
-        <p className="text-lg text-gray-800 mb-10 ">Due to its central location and its size, the square has been a frequent gathering point for political activists. Over the years the Square has seen major historical marches, such as the “first" pride march after the death of Charlie Howard, and protests over HIV/AIDS from groups like FATE (Fight AIDS Take Action).  
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">Due to its central location and its size, the square has been a frequent gathering point for political activists. Over the years the Square has seen major historical marches, such as the “first" pride march after the death of Charlie Howard, and protests over HIV/AIDS from groups like FATE (Fight AIDS Take Action).  
         </p>
 
       <h2 className="text-4xl font-bold text-center mb-10 mt-10 text-[#E2D6AF]">Photos</h2>
@@ -93,7 +93,7 @@ const FirstParishChurch = () => {
         </div>
 
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
-        <p className="text-lg text-gray-800">
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           A somber vigil and march took place after the murder of a young gay Mainer, Charlie Howard, in 1984 in Bangor. They initially marched from the vigil at First Parish Church to Monument Square. The mourners-turned-demonstrators then marched seven minutes down Congress Street to Congress Square Park, across from the Portland Art Museum. There, when it became clear that the small park could not contain the growing crowd, the demonstrators marched back up Congress Street to Monument Square where they joined together in song and solidarity in what some see as Portland's first Pride March. 
           <br/><br/>
          Monument Square has also been the location for more joyful events. For example, in the early 1990s, the Hysterical Angry Girls Sorority (or HAGS) demonstrated in Monument Square using tongue-in-cheek pop cultural references to raise awareness about feminist issues.  On August 30th 1991, HAGS held an event in Monument Square called the "Thelma and Louise Day" featuring gun registrations for women, a "chocolate rest station," and a "Bloody and Silver Tampon Awards" ceremony. 
@@ -102,7 +102,7 @@ const FirstParishChurch = () => {
         </p>
 
         <h2 className="text-4xl font-bold text-center mb-10  mt-10 text-[#E2D6AF]">Celebrations </h2>
-        <p className="text-lg text-gray-800 mb-10 ">Monument Square would continue to play an important role in LGBTQ+ activism over the coming decades. While many who attended the 1984 memorial and march for Charlie Howard consider that to be Maine's first Pride march, the first official Pride event took place three years later, in 1987, when a group led by Michael Rossetti and Gary Anderson organized the first Southern Maine Pride Parade and Festival on June 5 through 7.   
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">Monument Square would continue to play an important role in LGBTQ+ activism over the coming decades. While many who attended the 1984 memorial and march for Charlie Howard consider that to be Maine's first Pride march, the first official Pride event took place three years later, in 1987, when a group led by Michael Rossetti and Gary Anderson organized the first Southern Maine Pride Parade and Festival on June 5 through 7.   
         </p>
 
         <h2 className="text-4xl font-bold text-center mb-10 mt-10 text-[#E2D6AF]">Photos</h2>
@@ -214,7 +214,7 @@ const FirstParishChurch = () => {
           </div>
           </div>
          
-          <p className="text-lg  text-gray-800 mt-10">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
                     
             The organizers were concerned about attendance, as Michael Rossetti later recalled in a letter to a local gay newspaper in March of 1989. According to Rossetti: “The real risk that the media would present the area's lesbian and gay population as a tiny group of sillies, was breathing down our necks with just 20 minutes till step off time. But then, just as in a movie, seemingly from nowhere, people started arriving from somewhere off-stage, till we had about 200 people to carry balloons, banners, and good cheer to Monument Square. The day ended in a splash of lavender floating out over Casco Bay and a successful media blitz the next day." 
             <br/><br/>
@@ -231,7 +231,7 @@ const FirstParishChurch = () => {
             Portland also celebrates Pride each year with an annual Dyke March, first organized in 2005 by Jill Barkley Roy, Sarah Holmes, Audrey Luce, Jem Hodsdon, and Melissa Heckman. As one of the original organizers, Jill Barkley Roy, explained: “In 2005, we talked to the organizers of Southern Maine Pride about including a Dyke March. But they said no. So that year we just had a Dyke March contingent within the Pride Parade and quite a few people marched with us. Then we went back to Southern Maine Pride again and said, “We think there's interest, we think that we need a Dyke March." And again they said no. So we went to EqualityMaine and asked them to be our nonprofit sponsor. And the next year in 2006 we organized the first Dyke March on the Friday before the Saturday Pride Parade and a ton of people came. It was amazing. The next year we planned a rally in Monument Square the night before the march and an after party at One Longfellow. It just grew into its own thing." Every year since, the Dyke March has attracted hundreds of participants. Most often, it kicks off from Monument Square and it is always led by a contingent of Dykes on Bikes. 
           </p>
           <h2 className="text-4xl font-bold text-center mb-10  mt-10 text-[#E2D6AF]">Organizations</h2>
-            <p className="text-lg text-gray-800 mb-10 ">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
             In addition to the demonstrations, marches, and parades that have taken place in Monument Square, some of the buildings in the Square also have significant queer history associated with them.  During the early years of the AIDS crisis in Maine, The AIDS Project was located on the fifth floor of 22 Monument Square. Prior to the founding of that organization, help was much more informal. As one of the founders of The AIDS Project, Skip Brushaber, observes in his oral history, “Around 1984, people started getting sick in Maine. At Fred Berger's gay bookstore Our Books, he had a list of people's needs - you know, like 'this person needs a ride to their doctor, this person needs somebody to bring them dinner.' It was very informal. Finally, we got together and formed the AIDS Project and ended up in Monument Square. It was an amazing organization. I couldn't believe how people just stepped up. It was so hard and yet people gave themselves to it."   
             <br/><br/>
             In their location at Monument Square, The AIDS Project hosted support groups for people with AIDS and their loved ones, staffed a hotline, and even offered wellness activities like yoga. The Project also published a newsletter that kept subscribers in the loop about local and national AIDS news, initiatives, and events. 
@@ -241,7 +241,7 @@ const FirstParishChurch = () => {
 
 
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
-          <p className="text-lg  text-gray-800">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           ACT UP Portland Collection, Box 1, Folders 1&2. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  <br/><br/>
 
             Associated Press, “Gay Rights March Gets Taunts, Curses," June 8, 1987. Portland Evening Express: pg. 3

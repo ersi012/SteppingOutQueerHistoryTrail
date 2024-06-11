@@ -29,7 +29,7 @@ const FirstParishChurch = () => {
       <audio controls>
             <source src="./audio/DropMeALineV2_mixdown.mp3" type="audio/mpeg" />
         </audio>
-        <p className="text-lg text-gray-800">
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
             One of Portland's first openly gay-owned businesses was Drop Me A Line. While in operation, it occupied several locations on the first floor of the State Theater Building.  Primarily a card and gift shop, Drop Me a Line first opened on the High Street side of the building in 1990, and then moved around the corner to two locations on the Congress St. side.
         </p>
       </div>
@@ -120,7 +120,7 @@ const FirstParishChurch = () => {
           </div>
           </div>
 
-          <p className="text-lg mt-10 text-gray-800">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           On July 1st 1990, Jim Neal and Roger Mayo opened the small card and gift shop, Drop Me a Line, at 144 High St. The neighborhood was a little rough, as Jim Neal acknowledged:"When we opened the store, the State Theater was a porn theater. We understood what the neighborhood was like: from Congress Square to State Street there were two porn theaters and a couple of adult bookstores. This area was like our Times Square. Nobody was opening retail." <br/><br/>
 
         But according to Roger,"We just threw caution to the wind and rented a little storefront down on High Street. I think it was 235 square feet - way too small; six months into it and we realized we weren't going to make any money there. Then the woman that owned the building decided she was going to renovate and make the State Theater into a performance space. We were told, 'We need your space for the kitchen.' And I said, 'Oh wow. I bet you're really disappointed that we've got an eight-year lease."'<br/><br/>
@@ -143,7 +143,7 @@ const FirstParishChurch = () => {
 
           </p>
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
-          <p className="text-lg  text-gray-800">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
            "Business Profile: Drop me a Line" Our Paper, December 1990, pg 4. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href=" https://digitalcommons.usm.maine.edu/our_paper_sac/12"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/12</a>
             <br/><br/>
             

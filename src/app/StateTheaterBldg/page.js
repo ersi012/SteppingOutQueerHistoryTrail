@@ -28,7 +28,7 @@ const FirstParishChurch = () => {
         <audio controls>
             <source src="./audio/StateTheaterV2_mixdown.mp3" type="audio/mpeg" />
         </audio>
-        <p className="text-lg text-gray-800  ">
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           The State Theatre is one of Portland's most iconic landmarks. While the bold marquee and eye-catching event posters are certainly striking, the building itself is full of stories. It also has a much deeper connection to the city's LGBTQ+ community than one might glimpse from the outside.
           <br/><br/>
         The State Theatre first opened its doors in November 1929. theater-goers were delighted by the ornate gold carvings, sumptuous velvet drapery, and murals that adorned the lobby and auditorium of the Herbert W. Rhodes-designed building. In the beginning, the State Theatre was a multi-function venue that hosted movies, music, and theatrical performances. For the first few decades of the 20th century, the State Theatre welcomed folks of all ages. Sadly, The State Theatre saw a sharp decline in popularity throughout the 1960's due largely to the growing popularity of television.
@@ -79,7 +79,7 @@ const FirstParishChurch = () => {
           </div>
 
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">ACT UP Portland</h2>
-          <p className="text-lg  text-gray-800">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           The AIDS Coalition to Unleash Power or ACT UP was first formed in New York City in 1987;  soon chapters of the militant action group spread across the country. This included Maine ACT UP, which formed in 1988. In the mid-1990s, a Portland branch of the AIDS education and direct-action group opened a small office on the second floor of the State Theatre Building.  
           </p>
 
@@ -122,7 +122,7 @@ const FirstParishChurch = () => {
           </div>
           </div>
         
-          <p className="text-lg  text-gray-800 mt-10">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           According to an oral history with local activist Erica Rand,"When I moved to Maine in the fall of 1990, I was surprised to discover that ACT UP was big enough that there had already been a political split. So there was ACT UP Maine and then ACT-UP Portland, and I was in ACT UP Portland. And within ACT UP Portland there was The Pissed Off Dyke Cell.  A few years later, we got a grant from the Haymarket Foundation so we could afford to rent a small office space in the State Theatre building which was kind of amazing. It was a good place to meet and do a lot of the creative stuff like making zines and posters. We were all about being visible at a time when there was a lot of closetedness and fear of being out. We didn't take shit that some other groups were willing to accept; like there was this idea that the way to get change was to be quiet and polite and say we're just like everybody else. We were not quiet. The Pissed Off Dyke Cell also joined to do some radical health care activism with some separatist dykes who did not want to be ACT UP members. So we became the Pissed Off Dyke Cell/Women's Health Action Crew (pronounced POD Cell/WHAC). We did a lot of wheatpasting and experimented, unsuccessfully, with trying to produce some safer-sex porn. A lot of us were cultural creators, including photographers like Annette Dragon and Ana R. Kissed. A lot of the people doing work for ACT UP were dykes." <br/><br/>
 
         ACT UP hosted several youth-oriented groups with Portland students including FATE: Fight AIDS Transform Education and TRAP: Teen Risk Awareness Portland. FATE produced the  'zine LEO: Latex Everywhere Or Else focused on safer sex and safer drug use. The group's mission was to provide young people with access to condoms and sexual health education that went beyond the rigid abstinence-only curriculum offered in many 1990s classrooms. FATE members were known for their protests where they handed out condoms, gloves and dental dams, and rallied for the free distribution of these items at area high schools to help prevent the spread of HIV/AIDS, STIs, and unplanned pregnancies. Affiliated student groups existed in other Southern Maine communities as well, such as SLAM: Scarborough for Latex and Maturity and KISS: Kennebunkport Individuals for Safer Sexuality. According to ACT UP Portland member Erica Rand,"The zines all had our ACT UP phone number in them and said 'would you like to do organizing in your high school? Call this number.' So we helped teenagers do their own organizing and activism." <br/><br/>
@@ -130,7 +130,7 @@ const FirstParishChurch = () => {
         ACT UP also organized high visibility mass protests in various locations in Southern Maine. As Mike Blanchard reports,"ACT UP was a necessary by-product of the genocide that was happening during the AIDS crisis. ACT UP Portland was doing some things that I wanted to be a part of. They were doing die-ins in front of City Hall, they were doing street theater, and I started going to some ACT UP meetings. Folks were running out of patience. The AIDS Project would have someone with a caseload of 45 on Friday and come in on Monday and have a caseload of only 30; I mean people were dying so quickly, so ruthlessly, and being mistreated on the way out. It was just an awful, awful time." <br/><br/>  </p>
 
           <h2 className="text-4xl font-bold text-center mb-10 mt-10 text-[#E2D6AF]">Sources </h2>
-          <p className="text-lg  text-gray-800">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           Associated Press,"AIDS Protesters Block Traffic." Portland Press Herald. January 24, 1991. Page 1D.
 
             Demary, Danella, "Rand, Erica" (2017). Querying the Past: LGBTQ Maine Oral History Project Collection. 25. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <a href="https://digitalcommons.usm.maine.edu/querying_ohproject/25"  style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/querying_ohproject/25</a>

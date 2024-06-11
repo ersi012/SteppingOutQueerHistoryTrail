@@ -1,9 +1,6 @@
 import Image from 'next/image';
 import Navbar from '../components/Navbar'
-import Header from '../components/Header'
-import SiteSection from '../components/SiteSection'
-import About from '../components/About'
-import Donate from '../components/Donate'
+
 
 const FirstParishChurch = () => {
   return (
@@ -32,7 +29,7 @@ const FirstParishChurch = () => {
         <audio controls>
             <source src="./audio/FirstParishChurchV2_mixdown.mp3" type="audio/mpeg" />
         </audio>
-        <p className="text-lg text-gray-800">
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           The First Parish Church in Portland was established in 1674. Its current building at 425 Congress Street dates to 1825 making it the oldest church structure in the city.
           <br/><br/>
           Unitarian Universalist churches like First Parish have a long tradition of preaching love, community, and compassion including for LGBTQ+ people. The Unitarian Universalist Church was one of the first religious groups in the US to formally support the rights of homosexuals. In 1970, the Church's international General Assembly passed a resolution opposing “intolerance against homosexuals and bisexuals."
@@ -67,7 +64,7 @@ const FirstParishChurch = () => {
 
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
         <h2 className="text-4xl font-bold text-center mb-10 text-[#E2D6AF]">Charlie Howard Memorial and March </h2>
-        <p className="text-lg text-gray-800">
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           The local church played a role in the response to a brutal hate crime in Maine in the 1980s, when a 23-year-old gay man, Charlie Howard, was murdered two hours north of Portland in a homophobic attack.  On the night of July 7th, 1984, Howard and his boyfriend Roy Ogden were out at night in the city of Bangor where they lived.
           <br/><br/>
           Charlie was a vibrant, out-gay man, at a time and in a place where that was not only rare, but dangerous. Charlie and Roy were confronted by three teenage boys who shouted homophobic slurs and assaulted them. They eventually threw Charlie over the State Street Bridge - which the boys referred to as the "Chuckahomo Bridge" - ignoring his frantic pleas that he couldn't swim. Charlie drowned.<br/><br/>
@@ -156,11 +153,11 @@ const FirstParishChurch = () => {
           </div>
           </div>
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">The church and civil rights struggles of the 1990s: </h2>
-          <p className="text-lg  text-gray-800">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           During the 1990s, the church continued to publicly support Maine's LGBTQ community at a time when civil rights laws were being challenged by religious conservatives organized as the Maine Christian Civic League. Just days before a 1998 referendum on whether to repeal basic civil rights for the gay community, the Rev. Frances Buckmaster of First Parish gave a sermon, “One Love," on the opportunity to “vote against hate and discrimination and for loving all our neighbors as ourselves."  Yet despite such outspoken allies, Maine voters, in the words of the New York Times, “chose to make their state the first in the nation to repeal its law protecting gay men and lesbians from discrimination." Another 7 years of struggle were then required to reclaim those rights in 2005.
           </p>
           <h2 className="text-4xl font-bold text-center mb-10 mt-20 text-[#E2D6AF]">Sources </h2>
-          <p className="text-lg  text-gray-800">
+          <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           LG MS 038 Barry Peabody Papers, Series 1.5, Box 6, F192, Sermon First Parish, 1998. LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections. <br/><br/>
 
           Berger, F. (1984, August).  Community reacts to Bangor murder.  Our Paper, pp. 1, 8.  LGBTQ+ Collection, Jean Byers Sampson Center for Diversity Maine, USM Special Collections.  <a href="https://digitalcommons.usm.maine.edu/our_paper_sac/111/ " style={{ textDecoration: 'underline' }}>https://digitalcommons.usm.maine.edu/our_paper_sac/111/</a> <br/><br/>
