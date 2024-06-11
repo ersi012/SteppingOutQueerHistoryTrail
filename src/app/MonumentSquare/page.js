@@ -36,7 +36,7 @@ const FirstParishChurch = () => {
 
         </p>
         <h2 className="text-4xl font-bold text-center mb-10  mt-10 text-[#E2D6AF]">Protests and Demonstrations</h2>
-        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">Due to its central location and its size, the square has been a frequent gathering point for political activists. Over the years the Square has seen major historical marches, such as the “first" pride march after the death of Charlie Howard, and protests over HIV/AIDS from groups like FATE (Fight AIDS Take Action).  
+        <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">Due to its central location and its size, the square has been a frequent gathering point for political activists. Over the years the Square has seen major historical marches, such as the “first" pride march after the death of Charlie Howard, and protests over HIV/AIDS from groups like FATE (Fight AIDS Transform Education).  
         </p>
 
       <h2 className="text-4xl font-bold text-center mb-10 mt-10 text-[#E2D6AF]">Photos</h2>
@@ -93,7 +93,7 @@ const FirstParishChurch = () => {
           </div>
         </div>
 
-      <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
+      <div className="container mx-auto max-w-2xl py-6 mb-5 overflow-y-auto">
         <p className="text-lg text-gray-700 px-5 overflow-hidden break-words">
           A somber vigil and march took place after the murder of a young gay Mainer, Charlie Howard, in 1984 in Bangor. They initially marched from the vigil at First Parish Church to Monument Square. The mourners-turned-demonstrators then marched seven minutes down Congress Street to Congress Square Park, across from the Portland Art Museum. There, when it became clear that the small park could not contain the growing crowd, the demonstrators marched back up Congress Street to Monument Square where they joined together in song and solidarity in what some see as Portland's first Pride March. 
           <br/><br/>

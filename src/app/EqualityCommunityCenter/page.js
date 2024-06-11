@@ -35,7 +35,7 @@ const FirstParishChurch = () => {
           The Center celebrated its opening in October 2022 with a block party featuring music, performances, speeches, and food. Because a larger space was now available, many more organizations were able to join the initial groups housed in, or supported by, the Center including the Maine Gay Men's Chorus, Dyke March Maine, Rainbow Arts Collective, and Sober Sundays AA Support Group. The tenants of the Center now include not only queer organizations but other social justice groups such as Cross-Cultural Community Services, Democracy Maine, Khmer Maine, Sexual Assault Response Services, and Through These Doors Domestic Violence Prevention.   <br/><br/>
           When asked why Gardner so strongly supported the creation of the Center, he explained, “What's so special about Portland is the community and the spirit that this city has. It welcomed me with open arms. It's time to pay it back with this Community Center."
         </p>
-        <h2 className="text-4xl font-bold text-center mb-10 text-[#E2D6AF]"> EqualityMaine</h2>
+        <h2 className="text-4xl font-bold text-center mb-10 mt-10 text-[#E2D6AF]"> EqualityMaine</h2>
         <audio controls>
           <source src="./audio/EqualityMaineV2_mixdown.mp3" type="audio/mpeg" />
         </audio>
