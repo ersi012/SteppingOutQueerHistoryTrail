@@ -25,7 +25,7 @@ const FirstParishChurch = () => {
     
       <div className="container mx-auto max-w-2xl py-6 overflow-y-auto">
         <audio controls>
-            <source src="./audio/Monument Square -all sections together.mp3" type="audio/mpeg" />
+            <source src="./audio/MonumentSquareV2.mp3" type="audio/mpeg" />
         </audio>
         <h2 className="text-4xl font-bold text-center mb-10 text-[#E2D6AF]">Introduction</h2>
         <p className="text-lg text-gray-800">
