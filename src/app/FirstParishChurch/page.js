@@ -36,7 +36,7 @@ const FirstParishChurch = () => {
         </p>
       </div>
 
-      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+      <div style={{ display: 'flex', overflowX: 'auto', padding: '10px' }}>
         <div style={{ marginRight: '20px', textAlign: 'center', color: 'black' }}>
           <Image
             src="/images/sites/FirstParishChurchImg/FirstParish1.webp"
