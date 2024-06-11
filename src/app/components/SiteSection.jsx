@@ -12,7 +12,7 @@ const SiteSection = () => {
     },
     {
       id: 2,
-      title: "Monument Square (Pride Portland, Dyke March Maine, activism)",
+      title: "Monument Square (Pride Portland, Dyke March Maine, protests)",
       description: "456 Congress St.",
       image: "/images/sites/2.webp",
       url: "/MonumentSquare",

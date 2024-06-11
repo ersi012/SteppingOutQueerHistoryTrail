@@ -17,8 +17,9 @@ const FirstParishChurch = () => {
         />
         <div className="absolute inset-x-0 bottom-0 flex flex-col items-center text-center text-white p-6">
         <div className="bg-white bg-opacity-75 p-4 rounded">
-          <h2 className="text-6xl font-bold mb-8 text-[#1C5C2D]">State Theatre Building (ACT-UP Portland)</h2>
-          <p className="text-lg text-[#1C5C2D] font-bold">142 High Street.</p>
+          <h2 className="text-6xl font-bold mb-8 text-[#1C5C2D]">State Theatre Building </h2>
+          <p className="text-lg text-[#1C5C2D] font-bold">ACT-UP Portland</p>
+          <p className="text-lg text-[#1C5C2D] font-bold">456 Congress St.</p>
         </div>
         </div>
       </div>

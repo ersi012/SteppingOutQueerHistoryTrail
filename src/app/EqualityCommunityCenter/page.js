@@ -18,7 +18,8 @@ const FirstParishChurch = () => {
         />
         <div className="absolute inset-x-0 bottom-0 flex flex-col items-center text-center text-white p-6">
         <div className="bg-white bg-opacity-75 p-4 rounded">
-          <h2 className="text-6xl font-bold mb-8 text-[#1C5C2D]">Equality Community Center (EqualityMaine, Maine Gay Men's Chorus, MaineTransNet) </h2>
+          <h2 className="text-6xl font-bold mb-8 text-[#1C5C2D]">Equality Community Center  </h2>
+          <p className="text-lg text-[#1C5C2D] font-bold">EqualityMaine, Maine Gay Men's Chorus, MaineTransNet</p>
           <p className="text-lg text-[#1C5C2D] font-bold">415 Casco St.</p>
         </div>
         </div>
