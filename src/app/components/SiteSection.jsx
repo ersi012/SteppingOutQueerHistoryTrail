@@ -19,7 +19,7 @@ const SiteSection = () => {
     },
     {
       id: 3,
-      title: "Equality Community Center (EqualityMaine, Maine Gay Men's Chorus, MaineTransNet)",
+      title: "Equality Community Center               (EqualityMaine, Maine Gay Men's Chorus, MaineTransNet)",
       description: "415 Casco St.",
       image: "/images/sites/3.webp",
       url: "/EqualityCommunityCenter",
