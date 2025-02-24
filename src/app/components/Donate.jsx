@@ -13,7 +13,7 @@ const DonationsSection = () => {
           </div>
           
           <div className="flex mt-5">
-            <a href="https://securelb.imodules.com/s/300/1001-form/interior.aspx?sid=300&gid=1001&pgid=1273&cid=3048&fid=3048&gfid=1043&dids=1860.1842" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.givecampus.com/campaigns/52413/donations/new?a=8598173" target="_blank" rel="noopener noreferrer">
               <button className='bg-[#1C5C2D] rounded-full px-9 py-3 font-serif font-semibold mt-6 mb-9 text-[#E2D6AF] hover:bg-slate-200'>
                 Donate
               </button>
